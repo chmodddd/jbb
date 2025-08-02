@@ -5,7 +5,7 @@
     <meta name="description" content="お客様のリラックスを第一に考えた空間づくりをしています。初来店の方には、20％オフクーポンも（※平日限定）。キッズスペース完備・駐車場３台。">
     <title>長津田の美容室・美容院 PIRICA (ピリカ)</title>
     <link rel="canonical" href="http://www.pirica-nagatsuta.com/">
-    <!--#include virtual="/ssi/meta.html" -->
+    <?php include 'ssi/meta.html'; ?>
   <script src="/js/jquery.ticker.js" type="text/javascript"></script>
 <script src="/js/site.js" type="text/javascript"></script>
     <!-- Open Graph Protocol -->
@@ -27,7 +27,7 @@
     <div id="container">
       <div id="container-inner">
       
-    <!--#include virtual="/ssi/header.html" -->
+    <?php include '/ssi/header.html'; ?>
 
 <div id="top-header" class="inFrame clearfix">
           <section class="logo">
