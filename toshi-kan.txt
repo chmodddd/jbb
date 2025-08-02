@@ -1,0 +1,398 @@
+<?php
+header('Content-Type: text/html; charset=UTF-8');
+?>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5CPHH5XW');</script>
+<!-- End Google Tag Manager -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="format-detection" content="telephone=no,email=no">
+  <title>都市環境開発株式会社</title>
+  <meta name="description" content="大阪・兵庫・京都　関西圏の新築分譲マンション・一戸建て住宅：ザ・レジデンスシリーズの都市環境開発株式会社" />
+  <meta name="keywords" content="不動産,新築,分譲,マンション,一戸建,宅地,住宅,近畿,用地,質,生活,創造,都市,環境,開発" />
+  <meta name="author" content="TOSHIKAN Co Ltd.,">
+  <meta property="og:locale" content="ja_JP">
+  <meta property="og:site_name" content="都市環境開発株式会社">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.toshi-kan.jp/">
+  <meta property="og:title" content="都市環境開発株式会社" />
+  <meta property="og:description" content="大阪・兵庫・京都　関西圏の新築分譲マンション・一戸建て住宅：ザ・レジデンスシリーズの都市環境開発株式会社">
+  <meta property="og:image" content="https://www.toshi-kan.jp/images/ogp.jpg">
+  <link rel="canonical" href="https://www.toshi-kan.jp/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Poppins:wght@200;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Poppins:wght@200;400;800&display=swap" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.4.1/dist/css/yakuhanjp-noto.css">
+  <link rel="stylesheet" href="common/css/reset.css">
+  <link rel="stylesheet" href="common/css/common.css">
+  <link rel="stylesheet" href="common/css/base.css?25022601">
+  <link rel="stylesheet" href="common/css/aos.css">
+  <link rel="stylesheet" href="common/css/swiper-bundle.min.css">
+  <link rel="stylesheet" href="css/style.css?25022601">
+</head>
+<body class="top">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5CPHH5XW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="page">
+	<header id="header" class="header">
+    <div class="inner">
+      <h1 class="logo">
+        <a href="./"><img src="common/images/logo.svg" alt="都市環境開発株式会社" width="220" height="40"><img src="common/images/logo_wh.svg" alt="都市環境開発株式会社" width="220" height="40"></a>
+      </h1><!-- /.hhsd -->
+      <div id="btnGNav" class="btnGNav">
+        <a href="javascript:void(0);">
+          <span></span>
+          <span></span>
+          <span></span>
+          <!-- <p class="fEn">MENU</p> -->
+        </a>
+      </div><!-- /.btnGNav -->
+      <nav id="gNav" class="gNav">
+        <ul>
+          <li class="nav"><a href="./company/"><span class="fEn">COMPANY</span><span class="fJa">企業情報</span></a></li>
+          <li class="nav"><a href="./business/"><span class="fEn">BUSINESS FIELD</span><span class="fJa">ビジネスフィールド</span></a></li>
+          <li class="nav"><a href="./results/"><span class="fEn">RESULTS</span><span class="fJa">事業実績</span></a></li>
+          <li class="nav"><a href="./about/"><span class="fEn">about TOSHIKAN</span><span class="fJa">としかんについて</span></a></li>
+          <li class="nav"><a href="./recruit/"><span class="fEn">RECRUIT</span><span class="fJa">採用情報</span></a></li>
+          <li class="nav"><a href="./contact/form.html"><span class="fEn">CONTACT</span><span class="fJa">お問い合わせ</span></a></li>
+        </ul>
+      </nav><!-- .gNav -->
+      <div class="btnAccess">
+        <a href="./company/#access"><span class="fEn">ACCESS</span><span class="fJa">アクセス</span></a>
+      </div><!-- .btnAccess -->
+    </div>
+	</header><!-- / .header -->
+  
+	<main id="" class="contents">
+    <div class="mvWrap">
+      <div class="mv">
+        <div class="slide">
+          <figure>
+            <picture>
+              <source srcset="images/mv_pc.jpg" media="(min-width:768px)" width="2400" height="1350">
+              <img src="images/mv_sp.jpg" alt="" loading="eager" width="750" height="422">
+            </picture>
+          </figure>
+        </div>
+      </div>
+    </div><!-- / .mvWrap -->
+    
+    <article>
+      <section class="about sec -type02">
+        <div class="conSP conPC">
+          <div class="ttl01">
+            <h2>としかんについて</h2>
+            <p>about TOSHIKAN</p>
+          </div>
+
+          <ul>
+            <li>
+              <a href="./company/">
+                <div>
+                  <h3>企業情報</h3>
+                  <p>COMPANY</p>
+                </div>
+                <figure>
+                  <img src="images/about_company.jpg" alt="" width="788" height="500" loading="lazy">
+                </figure>
+              </a>
+            </li>
+            <li>
+              <a href="./business/">
+                <div>
+                  <h3>ビジネスフィールド</h3>
+                  <p>BUSINESS FIELD</p>
+                </div>
+                <figure>
+                  <img src="images/about_bf.jpg" alt="" width="788" height="500" loading="lazy">
+                </figure>
+              </a>
+            </li>
+            <li>
+              <a href="./about/ism/">
+                <div>
+                  <h3>事業実績</h3>
+                  <p>RESULTS</p>
+                </div>
+                <figure>
+                  <img src="images/about_result.jpg" alt="" width="788" height="500" loading="lazy">
+                </figure>
+              </a>
+            </li>
+            <li>
+              <a href="./company/">
+                <div>
+                  <h3>としかんイズム</h3>
+                  <p>ISM</p>
+                </div>
+                <figure>
+                  <img src="images/about_ism.jpg" alt="" width="788" height="500" loading="lazy">
+                </figure>
+              </a>
+            </li>
+            <li>
+              <a href="./about/philosophy/">
+                <div>
+                  <h3>としかんフィロソフィー</h3>
+                  <p>PHILOSOPHY</p>
+                </div>
+                <figure>
+                  <img src="images/about_philosophy.jpg" alt="" width="788" height="500" loading="lazy">
+                </figure>
+              </a>
+            </li>
+            <li>
+              <a href="./about/">
+                <div>
+                  <h3>としかんのものづくり</h3>
+                  <p>QUALITY</p>
+                </div>
+                <figure>
+                  <img src="images/about_quality.jpg" alt="" width="788" height="500" loading="lazy">
+                </figure>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section><!-- / .about -->
+      
+<!-- 
+      <section class="project sec -type02">
+        <div class="conSP conPC">
+          <div class="ttl01">
+            <h2>進行中のプロジェクト</h2>
+            <p>PROJECT</p>
+          </div>
+        </div>
+        <div class="pjSlider" data-aos="ca-fade">
+          <div class="swiper">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide pjSlide">
+                <a href="#" target="_blank">
+                  <figure>
+                    <picture>
+                      <source media="(min-width:768px)" srcset="images/pj_dammy_sp.jpg">
+                      <img src="images/pj_dammy_pc.jpg" alt="物件1">
+                    </picture>
+                  </figure>
+                </a>
+              </div>
+              <div class="swiper-slide pjSlide">
+                <a href="#" target="_blank">
+                  <figure>
+                    <picture>
+                      <source media="(min-width:768px)" srcset="images/pj_dammy_sp.jpg">
+                      <img src="images/pj_dammy_pc.jpg" alt="物件2">
+                    </picture>
+                  </figure>
+                </a>
+              </div>
+              <div class="swiper-slide pjSlide">
+                <a href="#" target="_blank">
+                  <figure>
+                    <picture>
+                      <source media="(min-width:768px)" srcset="images/pj_dammy_sp.jpg">
+                      <img src="images/pj_dammy_pc.jpg" alt="物件3">
+                    </picture>
+                  </figure>
+                </a>
+              </div>
+            </div><*!-- .swiper-wrapper --*>
+            <div class="swiper-pagination"></div>
+            <*!-- <div class="swiper-button">
+               <div class="swiper-button-prev"></div>
+               <div class="swiper-button-next"></div>
+            </div> --*>
+          </div><*!-- .swiper --*>       
+        </div><*!-- .pjSlider --*>
+      </section><*!-- / .project --*>
+ -->
+      
+      
+      <section class="recruit sec -type02">
+        <div class="conSP conPC">
+          <div class="ttl01">
+            <h2>採用情報</h2>
+            <p>RECRUIT</p>
+          </div>
+        </div>
+        <div class="inner">
+          <div class="conSP conPC -type01">
+            <div class="recSlider">
+              <p class="fEn bold" style="line-height: 1.0; margin-left: 10px;">TOSHIKAN<br>PEOPLE</p>
+              <!-- <p class="bold">どうなるかじゃない、<br>どうするかだ。</p> -->
+              <div class="swiper">
+                <div class="swiper-wrapper">
+                  <div class="swiper-slide recSlide">
+                    <a href="./recruit/interview/">
+                      <figure>
+                        <picture>
+                          <source media="(min-width:768px)" srcset="images/rec_slide01_pc.jpg">
+                          <img src="images/rec_slide01_sp.jpg" alt="">
+                        </picture>
+                      </figure>
+                    </a>
+                  </div>
+                  <div class="swiper-slide recSlide">
+                    <a href="./recruit/interview/">
+                      <figure>
+                        <picture>
+                          <source media="(min-width:768px)" srcset="images/rec_slide02_pc.jpg">
+                          <img src="images/rec_slide02_sp.jpg" alt="">
+                        </picture>
+                      </figure>
+                    </a>
+                  </div>
+                  <div class="swiper-slide recSlide">
+                    <a href="./recruit/interview/">
+                      <figure>
+                        <picture>
+                          <source media="(min-width:768px)" srcset="images/rec_slide03_pc.jpg">
+                          <img src="images/rec_slide03_sp.jpg" alt="">
+                        </picture>
+                      </figure>
+                    </a>
+                  </div>
+                </div><!-- .swiper-wrapper -->
+              </div> <!-- .swiper -->
+            </div><!-- .recSlider -->
+
+            <ul>
+              <li>
+                <a href="./recruit/new_graduate/">
+                  <p><span>新卒採用　募集要項</span><span>New Graduate</span></p>
+                  <figure>
+                    <img src="images/bnr_rec_new.jpg" alt="新卒採用" width="1080" height="272" loading="lazy">
+                  </figure>
+                </a>
+              </li>
+              <li>
+                <a href="./recruit/career/">
+                  <p><span>キャリア採用　募集要項</span><span>Career</span></p>
+                  <figure>
+                    <img src="images/bnr_rec_career.jpg" alt="キャリア採用" width="1080" height="272" loading="lazy">
+                  </figure>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div><!-- .inner -->
+      </section><!-- / .recruit -->
+
+<!-- 
+      <section class="information sec -type02">
+        <div class="conSP conPC -typeN01">
+          <div class="ttl01">
+            <h2>お知らせ</h2>
+            <p>INFORMATION</p>
+          </div>
+          <ul>
+            <li class="new"><span>2024.00.00</span>
+            <p>○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○<br>○○○○○○○○○○○○○○○○○○○○○○○○○○○○</p></li>
+            <li class="new"><span>2024.00.00</span>
+            <p>○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○<br>○○○○○○○○○○○○○○○○○○○○○○○○○○○○</p></li>
+            <li><span>2024.00.00</span>
+            <p>○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○<br>○○○○○○○○○○○○○○○○○○○○○○○○○○○○</p></li>
+          </ul>
+        </div>
+      </section>
+--><!-- / .recruit -->
+      
+    </article>
+	</main>
+  
+	<footer class="footer">
+    <div class="inner">
+      <div class="fNav">
+        <ul class="btns">
+          <li class="contact">
+            <a href="./contact/form.html">お問い合わせ</a>
+          </li>
+          <li class="newGra">
+            <a href="./recruit/new_graduate/">新卒採用</a>
+          </li>
+          <li class="career">
+            <a href="./recruit/career/">キャリア採用</a>
+          </li>
+        </ul><!-- /.btns -->
+        <div class="fNavList">
+          <dl>
+            <dt>COMPANY</dt>
+            <dd><a href="./company/#message">代表ご挨拶</a></dd>
+            <dd><a href="./company/#profile">会社概要</a></dd>
+            <dd><a href="./company/#access">アクセス</a></dd>
+          </dl>
+          <dl>
+            <dt>BUSINESS FIELD</dt>
+            <dd><a href="./business/#mansion">マンション分譲事業</a></dd>
+            <dd><a href="./business/#sokution">ソリューション事業</a></dd>
+            <dd><a href="./business/#redevelopment">再開発事業</a></dd>
+            <dd><a href="./business/#management">マンション管理</a></dd>
+          </dl>
+          <dl>
+            <dt>RESULTS</dt>
+            <dd><a href="./results/#tabCont-1">自社事業物件</a></dd>
+            <dd><a href="./results/#tabCont-2">販売代理物件</a></dd>
+          </dl>
+          <dl>
+            <dt>about TOSHIKAN</dt>
+            <dd><a href="./about/">としかんのものづくり</a></dd>
+            <dd><a href="./about/ism/">としかんイズム</a></dd>
+            <dd><a href="./about/philosophy">としかんフィロソフィー</a></dd>
+          </dl>
+          <dl>
+            <dt>RECRUIT</dt>
+            <dd><a href="./recruit/">採用情報</a></dd>
+            <dd><a href="./recruit/interview/">スタッフインタビュー</a></dd>
+            <dd><a href="./recruit/new_graduate/">新卒採用</a></dd>
+            <dd><a href="./recruit/career/">キャリア採用</a></dd>
+          </dl>
+          <dl>
+            <dt>CONTACT</dt>
+            <dd><a href="./contact/form.html">お問い合わせ</a></dd>
+            <dd><a href="./privacy/">プライバシーポリシー</a></dd>
+          </dl>
+        </div><!-- /.fNavList -->
+      </div><!-- /.fNav -->
+      
+      <div class="address">
+        <figure class="logo">
+          <a href="./"><img src="common/images/logo.svg" alt="都市環境開発株式会社" width="180" height="44"></a>
+        </figure>
+        <p>
+          【本社】<br>
+          〒541-0042　大阪市中央区今橋四丁目4番7号 京阪神淀屋橋ビル4階<br>
+          TEL.06-6203-1560　FAX.06-6203-1565
+          <a href="./company/#osaka">ACCESS 〉</a>
+        </p>
+        <p>
+          【東京支店】<br>
+          〒105-0004　東京都港区新橋2丁目16番1号 ニュー新橋ビル901<br>
+          TEL.03-6205-4025　FAX.03-3591-5551
+          <a href="./company/#tokyo">ACCESS 〉</a>
+        </p>
+      </div><!-- / .address -->
+      <p class="copyright">&copy; TOSHIKAN Co Ltd., All Rights Reserved</p>
+    </div><!-- /.inner -->
+	</footer><!-- /.footer -->
+  <div class="btnPageTop fEn"><a href="#">PAGE TOP</a></div>
+</div><!-- / #page -->
+<script src="common/js/viewport.js"></script>
+<script src="common/js/aos.js"></script>
+<script src="common/js/jquery.min.js"></script>
+<script src="common/js/common.js"></script>
+<script src="common/js/swiper-bundle.min.js"></script>
+<script src="js/script.js?24102901"></script>
+</body>
+</html>
