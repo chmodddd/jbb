@@ -1,0 +1,39 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" dir="ltr">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<title>第三応接室へようこそ</title>
+	<link rel="alternate" href="http://www.daisanousetsu.net/freo/index.php/feed" type="application/rss+xml" title="RSS" />
+	<link rel="stylesheet" href="http://www.daisanousetsu.net/freo/css/wm_freo.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="http://www.daisanousetsu.net/freo/css/colorbox.css" type="text/css" media="all" />
+	<script type="text/javascript" src="http://www.daisanousetsu.net/freo/js/jquery.js"></script>
+	<script type="text/javascript" src="http://www.daisanousetsu.net/freo/js/jquery.colorbox.js"></script>
+	<script type="text/javascript" src="http://www.daisanousetsu.net/freo/js/common.js"></script>
+	<script type="text/javascript" src="http://www.daisanousetsu.net/freo/js/default.js"></script>
+</head>
+<body><br>
+<div id="container">
+
+<div id="main" align="center">	<h2>第三応接室へようこそ</h2>
+		<p>イラストまたは「Enter」をクリックしてお入りください</p>
+		<p><a href="freo/index.php"><img src="http://www.daisanousetsu.net/oriviehs.jpg" alt="orivie" border="0"><br><font size=5 face="Tahoma">Enter</font></a></p><br>
+					<p><img src="http://www.daisanousetsu.net/daycount/daycount.cgi?gif">
+					 　<img src="http://www.daisanousetsu.net/daycount/daycount.cgi?yes">
+					 　<img src="http://www.daisanousetsu.net/daycount/daycount.cgi?today">
+					</p>
+
+</div>
+
+</div>
+</body>
+</html>
+<div style="display: none;">
+<p><a href="https://jasabacklinks.org/">jasa Backlinks</a></p>
+<p><a href="https://xynebot.com/">XyneBot</a></p>
+<p><a href="https://backlinkku.id/">Backlink Ku id</a></p>
+<p><a href="https://www.shellbypass.com/">ShellBypass Download</a></p>
+</div>
