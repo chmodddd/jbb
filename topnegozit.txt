@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="{{ app()->getLocale() }}">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{-- META TAGS--}}
+    <title>@yield('meta-title')</title>
+    <meta name="description" content="@yield('meta-description')">
+    <link rel="canonical" href="@yield('canonical')">
+    {{-- ICONS--}}
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ cdn('/images/favicons/apple-touch-icon.png') }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ cdn('/images/favicons/favicon-32x32.png') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ cdn('/images/favicons/favicon-16x16.png') }}">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="shortcut icon" href="{{ cdn('/images/favicons/favicon.ico') }}">
+    <meta name="msapplication-TileColor" content="#fff">
+    {{--<meta name="msapplication-config" content="https://cdn.semrush.com/blog/static/build/favicons/browserconfig.xml">--}}
+<!--    <meta name="theme-color" content="#ec891f">-->
+    {{-- CSRF TOKEN--}}
+    {{-- <meta name="csrf-token" content="{{ csrf_token() }}">--}}
+    <link rel="dns-prefetch" href="//cdn.topnegozi.it">
+
+    <link rel="preconnect" href="https://cdn.topnegozi.it" crossorigin>
+    <link rel="preload" href="{{ cdn('/fonts/nunito-v26-latin-all.woff2') }}" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="{{ cdn('/fonts/'.config('app.topnegozi_font_file_name').'.woff2') }}" as="font" type="font/woff2" crossorigin>
+
+
+
+    @yield('rich-snippet')
+
+    @yield('add-in-head')
+
+    @include('components.font_style_critical_css')
+    @yield('critical-css')
+    <style>.menu-footer {padding: 40px 20px;}.menu-footer-wrap {display: flex;justify-content: space-between;flex-direction: column;}.menu-footer-title{font-weight: 800;margin-bottom:20px;font-size:1.375rem;}.menu-footer-links {display: flex;flex-direction: column;font-size: 1.0625rem;margin-bottom: 30px;}.menu-footer-wrap a{margin-bottom:10px;}.celebrations-footer .celebrations-text-wrap .celebrations-links-wrap .celebrations-links-double .celebrations-links-single{flex-basis: 50%;align-items: normal;text-align: left;display: flex;flex-direction: column;}.celebrations-footer .celebrations-text-wrap .celebrations-links-wrap .celebrations-links-double .celebrations-links-single .now-wrap, .celebrations-footer .celebrations-text-wrap .celebrations-links-wrap .celebrations-links-double .celebrations-links-single a {margin-bottom: 15px;margin-right:10px;}.shop-faq-container .faq-wrap {padding-bottom: 15px;margin-bottom: 15px;}.breadcrumb-item {padding-left: 10px;margin-bottom:10px;}.last-updated-shops-home-container ul li a, .popular-shops-home-container ul li a {text-decoration: none;padding: 10px;display: block;}</style>
+    {{-- STYLES --}}
+    @if(!isset($critical_css))
+        <link rel="stylesheet" href="{{ cdn(mix('/css/app.css')) }}">
+    @endif
+    @if (env('APP_ENV')=='production')
+        <script>
+            function downloadAnalyticsAtOnload() {
+
+                window.dataLayer = window.dataLayer || [];
+                function gtag() {
+                    dataLayer.push(arguments);
+                }
+                gtag("consent", "default", {
+                    ad_storage: "denied",
+                    ad_user_data: "denied",
+                    ad_personalization: "denied",
+                    analytics_storage: "denied",
+                    functionality_storage: "denied",
+                    personalization_storage: "denied",
+                    security_storage: "granted",
+                    wait_for_update: 2000,
+                });
+                gtag("set", "ads_data_redaction", true);
+                gtag("set", "url_passthrough", true);
+
+                var head = document.getElementsByTagName('head')[0]
+                var script = document.createElement('script')
+                script.async = true;
+                script.type = 'text/javascript';
+                script.src = 'https://www.googletagmanager.com/gtag/js?id={{ env('ANALYTICS_4_ID') }}'
+                head.appendChild(script);
+
+                gtag('js', new Date());
+                gtag('config', '{{ env('ANALYTICS_4_ID') }}');
+
+                var head_cookie = document.getElementsByTagName('head')[0]
+                var script_cookie = document.createElement('script')
+                script_cookie.type = 'text/javascript';
+                script_cookie.id = 'cookieyes';
+                script_cookie.src = 'https://cdn-cookieyes.com/client_data/b262f0330e2c2d95eec671da/script.js'
+                head_cookie.appendChild(script_cookie);
+
+
+                {{--(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+                ga('create', '{{ env('ANALYTICS_ID') }}@if(stristr(url()->current(), env('APP_URL'))){{ '1' }}@elseif(stristr(url()->current(), env('APP_OFFERS_URL'))){{ '3' }}@endif', 'topnegozi.it');
+                ga('send', 'pageview');--}}
+
+
+            }
+
+
+        </script>
+
+    @endif
+
+
+
+    {{--
+
+    <!-- Facebook Pixel Code -->
+    <script defer type="text/javascript">
+        setTimeout( function () {
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+                if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+                n.queue=[];t=b.createElement(e);t.async=!0;
+                t.src=v;s=b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t,s)}(window, document,'script',
+                'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '233307698352673');
+            fbq('track', 'PageView');}, 3000);
+
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=834684623773561&ev=PageView&noscript=1"/></noscript>
+    <!-- End Facebook Pixel Code -->
+    --}}
+
+</head>
+<body>
+<div id="app" class="tingle-content-wrapper">
+
+    {{-- Navbar --}}
+    @include('components.header')
+
+    <main @if(!isset($no_pb_main)){!! 'class="pb-4"' !!}@endif>
+        @yield('content')
+    </main>
+
+
+    <footer class="footer">
+
+        @include('components.footer_newsletter')
+
+
+        @yield('footer_text')
+
+        @include('components.footer_celebrations')
+
+        @include('components.footer_menu')
+
+        @include('components.footer_disclaimer')
+
+    </footer>
+
+</div>
+<script>
+    /*Text More Informations in shops offers*/
+    let more_text =document.getElementById('shop-subtitle-text-more-js');
+
+    if(more_text){
+        more_text.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            var button = e.currentTarget;
+            var text_continue = button.closest('.shop-subtitle-top').querySelector('.shop-offer-text-continue');
+
+            if (text_continue.style.display === 'inline') {
+                text_continue.style.display = 'none';
+                button.querySelector('span').textContent = button.dataset.showText;
+                button.querySelector('em').style.display = 'inline';
+
+            } else {
+                text_continue.style.display = 'inline';
+                button.querySelector('span').textContent = button.dataset.hideText;
+                button.querySelector('em').style.display = 'none';
+            }
+        });
+    }
+
+
+    function redirectToOffer(id, id_main_shop, amazon) {
+        var offer_amazon_query = '';
+        if (amazon == "1") {
+            offer_amazon_query = '&offer_a=1';
+        }
+
+        var url = OFFER_REDIRECT_URL + '/offer-out?id=' + id + '&id_main_shop=' + id_main_shop + offer_amazon_query;
+        window.open(url);
+    }
+
+
+</script>
+
+@isset($critical_css)
+    @if((empty($modal) || (isset($shop_offers_page) and !empty($modal))) and empty($request->info) and empty($request->cashback))<noscript id="deferred-css">@endif
+        <link rel="stylesheet" href="{{ cdn(mix('/css/app.css')) }}">
+        @if((empty($modal) || (isset($shop_offers_page) and !empty($modal))) and empty($request->info) and empty($request->cashback))</noscript>@endif
+@endisset
+
+<!-- Scripts -->
+<script src="{{ cdn(mix('js/app.js')) }}" defer></script>
+<script src="{{ cdn( mix('js/custom.js')) }}" defer></script>
+
+<script>
+    var returnTo = '{{ url()->current() }}';
+    var SITE_MAIN_URL = OFFERS_URL = SHOP_REDIRECT_URL = '{{ env('APP_URL').(env('APP_ENV')== 'local'?':8000':'') }}';
+    {{-- TODO rimuovere tooltip_acivate da tutte le altre pagine e lasciare la funzione libera di essere eseguita
+    immediatamente appena viene letta nel Js --}}
+
+    var tooltip_activate = 1;
+
+    {{--@if(Auth::check() && !Auth::user() -> shop_id && !Auth::user()->bs_user_id && !isset($hide_cashback_popup))
+        var cashbackAcceptRequest=1;
+    @endif--}}
+
+</script>
+
+@include('components.modal_js_script')
+
+@yield('addjs')
+{{-- TODO cambiare indice sphinx per il file ajax_autocomplete_search perchè sono cambiati i campi della tabella shops --}}
+{{-- TODO cambiare shop_url in  ajax_autocomplete_search con quello di topnegozi finale --}}
+<script>
+
+    var autocomplete_el = document.getElementById("searchAutocomplete");
+    autocomplete_el.addEventListener("click", function(){
+        $('#searchAutocomplete').autocomplete({
+            minChars: 2,
+            serviceUrl: '{{ route('search.shop.suggest') }}',
+            dataType: 'json',
+            appendTo: $('.tn-search-top-form'),
+            maxHeight: 500,
+            deferRequestBy: 50,
+            groupBy:'category',
+            triggerSelectOnValidInput: false,
+            onSearchComplete: function (suggestion,currentValue) {
+                if(typeof currentValue !== 'undefined' && currentValue.length > 0)
+                    $('#searchAutocomplete').addClass('show-autocomplete').addClass('shadow-search');
+                else
+                    $('#searchAutocomplete').removeClass('show-autocomplete').removeClass('shadow-search');
+            },
+
+            onHide:function (suggestion) {
+                $('#searchAutocomplete').removeClass('show-autocomplete').removeClass('shadow-search');
+            },
+
+            formatResult: function (suggestion, currentValue) {
+                return '<div class="autocomplete-shop-name">'+ $.Autocomplete.defaults.formatResult(suggestion, currentValue) + (suggestion.official_shop=='1'?'<span class="icon-shop-verified"></span>':'')+'</div>' +
+                    (suggestion.cashback_activation=='1' && suggestion.cashback_value != '0' ?'<div class="autocomplete-cashback cashback-color">' + suggestion.cashback_value + suggestion.cashback_currency_symbol +'</div>':'')+
+                    (typeof suggestion.total_offers_active !== 'undefined' ?'<div class="autocomplete-cashback">' + suggestion.total_offers_active +' offerte</div>':'');
+
+            },
+            onSelect: function (suggestion) {
+                //alert('You selected: ' + suggestion.value + ', ' + suggestion.data);
+                window.location.href = suggestion.shop_url;
+            }
+        });
+    },  {once:true});
+
+    let isLazyActivated = false;
+
+    function lazyActivate(){
+        //Images Lazy Load with class lazy
+        if (isLazyActivated) return;
+
+        try
+        {
+            var addCssNode = document.getElementById("deferred-css");
+
+            if(addCssNode != null)
+            {
+                var replacement = document.createElement("div");
+                replacement.innerHTML = addCssNode.textContent;
+                document.body.appendChild(replacement)
+                addCssNode.parentElement.removeChild(addCssNode);
+            }
+
+                @if (env('APP_ENV')=='production')
+                downloadAnalyticsAtOnload();
+
+                {{--MOUSEFLOW SCRIPT
+                    window._mfq = window._mfq || [];
+                    (function() {
+                        var mf = document.createElement("script");
+                        mf.type = "text/javascript"; mf.defer = true;
+                        mf.src = "//cdn.mouseflow.com/projects/4ac79d7b-5140-4146-bdc4-f7b2f2e38acf.js";
+                        document.getElementsByTagName("head")[0].appendChild(mf);
+                    })();*/ --}}
+
+                @endif
+
+
+                {{--<!-- Onesignal for push notifications -->
+                var head2 = document.getElementsByTagName('head')[0]
+                var onesignal_script = document.createElement('script')
+                onesignal_script.type = 'text/javascript';
+                onesignal_script.async = true;
+                onesignal_script.src = 'https://cdn.onesignal.com/sdks/OneSignalSDK.js'
+                head2.appendChild(onesignal_script);
+
+                window.OneSignal = window.OneSignal || [];
+                OneSignal.push(function() {
+                    OneSignal.init({
+                        appId: "3bcb97da-5a95-4484-82d7-b75c08d6309b",
+                    });
+                });--}}
+
+
+
+
+
+        }
+        catch{ }
+
+
+        {{--try
+        {
+        var g_ads = document.getElementById("g_ads");
+        if(g_ads != null)
+        {
+        var g_ads_script = document.createElement("script");
+        g_ads_script.type = "text/javascript", g_ads_script.async = !0, g_ads_script.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6654431439402872";
+
+        g_ads.parentNode.insertBefore(g_ads_script, g_ads);
+        }
+        }
+        catch{ }--}}
+
+            isLazyActivated = true;
+    }
+
+
+
+    window.addEventListener("mousemove", lazyActivate,  {once:true});
+    window.addEventListener("keyup", lazyActivate,  {once:true});
+    window.addEventListener("touchstart", lazyActivate,  {once:true});
+    window.addEventListener("scroll", lazyActivate,  {once:true});
+    if (window.location.hash) {
+        // Se esiste un hash nell'URL, aspetta che il DOM sia pronto
+        document.addEventListener("DOMContentLoaded", () => {
+            const target = document.querySelector(window.location.hash);
+            if (target) {
+                // Esegui azioni una volta che il DOM è pronto
+                lazyActivate(); // Prima attiva il lazy load
+                target.scrollIntoView({ behavior: "smooth" }); // Poi fai lo scroll
+            }
+        });
+    }
+    {{--
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "buohiqbdli");--}}
+
+        @include('javascripts_inline.banner-header')
+    </script>
+    {{-- Cloudflare Web Analytics <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "261adfca0a104013a29ffb72e529d5e8"}'></script> End Cloudflare Web Analytics
+    <script src="https://cdn.debugbear.com/nIgFpogIoIUI.js" async></script>--}}
+</body>
+</html>
