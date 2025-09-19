@@ -1,0 +1,1314 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <meta name="generator" content="Movable Type 4.21-en" />
+<meta name="description" content="Vintage Patterns" />
+<meta name="keywords" content="knitting, knit, yarn, craft" />
+<meta http-equiv="content-language" content="en-us" />
+<meta http-equiv="expires" content="-1" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta name="robots" content="index, follow" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="author" content="Content Author: Christina" />
+<meta name="Copyright" content="Copyright 2006 Work4IdleHands www.work4idlehands.co.uk/" /> 
+   
+   <link rel="stylesheet" href="http://www.work4idlehands.com/Vintage_Patterns/styles-site.css" type="text/css" />
+   <link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.work4idlehands.com/Vintage_Patterns/atom.xml" />
+   <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.work4idlehands.com/Vintage_Patterns/index.xml" />
+
+   
+   <title>Vintage Patterns</title>
+   
+   <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.work4idlehands.com/Vintage_Patterns/rsd.xml" />
+   
+   
+</head>
+<body onload="ImageBook()" class="layout-three-column">
+   <div id="container">
+      <div id="container-inner" class="pkg">
+      
+         <div id="banner">
+            <div id="banner-inner" class="pkg">
+               <h1 id="banner-header"><a href="http://www.work4idlehands.com/Vintage_Patterns/" accesskey="1">Vintage Patterns</a></h1>
+               <h2 id="banner-description"></h2>
+            </div>
+         </div>
+         
+         <div id="pagebody">
+            <div id="pagebody-inner" class="pkg">  
+            <div id="alpha">
+                  <div id="alpha-inner" class="pkg">
+                     <p><span class=sidebarmine><font face="Comic Sans MS"><a href="http://www.work4idlehands.com/index.html"><font size="3">Home</font></a></font></span></p>
+         <span class=sidebarmine> 
+            <p><font face="Comic Sans MS" size="3"><a href="http://www.work4idlehands.com/weblog/index.html">Weblog</a></font></p>
+
+            <p><font face="Comic Sans MS" size="3"><a href="http://www.work4idlehands.com/Pattern_of_the_month/index.html">Pattern of <br> the Month</a></font></p>
+             <p><font face="Comic Sans MS" size="3"><a href="http://www.work4idlehands.com/On_the_needles/On_the_needles_archive.htm">On the Needles<br> 
+<font size="1">(...and Off the Needles)</font></a></font></p>
+            <p><font face="Comic Sans MS" size="3"><a href="http://www.work4idlehands.com/stitchcraft/index.html">Stitchcraft</a></font></p>
+            <p><font face="Comic Sans MS" size="3" color="#333366"><b>Vintage Patterns</b></font></p>
+            <p><font size="3" face="Comic Sans MS"><a href="http://www.work4idlehands.com/all_about_me.html">About the       <br> Idle Hands</a></font></p>
+            <p><font face="Comic Sans MS" size="3">
+                 <SCRIPT LANGUAGE="JavaScript">
+		     <!--
+			  var thing1 = "mailto:"
+			  var thing2 = "christina"
+			  var thing3 = "@"
+			  var thing4 = "work4idlehands.co.uk"
+			  var thing5 = "?subject=Work%20for%20Idle%20Hands:%20Vintage%20Pattern%20Sales"
+			  document.write('<A HREF="' + thing1 + thing2 + thing3 + thing4 + thing5 + '">')
+			  document.write('Contact Me</A>')
+			  //-->
+			  </script>
+                      </font>
+                   </p>                     
+                     </span><br>
+
+                   <div class="link-note">
+                        <div class="module-content">
+                           <form method="get" action="http://WWW.work4idlehands.com/cgi-bin/mt/mt-search.cgi">
+                              <input type="hidden" name="IncludeBlogs" value="3" />
+                              <label for="search" accesskey="4">Search patterns:</label><br />
+                              <input id="search" name="search" size="15" />
+                              <input type="submit" value="Go" />
+                           </form>
+                        </div>
+                  </div>
+               </div>
+             </div>
+
+               <div id="beta">
+                  <div id="beta-inner" class="pkg">
+                  
+                     
+                     
+
+                     
+                     
+              <h3 class="date-header">Latest update August  4 2025</h3>
+
+
+
+
+                     <a id="a000837"></a>
+                     <div class="entry" id="entry-837">
+              <h2 class="entry-header">Introducing vintage patterns for sale</h2>
+
+                        <div class="entry-content">
+                           <div class="entry-body">
+
+                              <p>I have a lot of patterns surplus to my requirements - either simply patterns I have acquired over the years or duplicates in auction lots.  So I thought I would list some of them here in case any readers would like to buy them.  
+Some of the patterns are quaint, but many of them are simply dated, and I try to value them accordingly.  </p>
+
+<script type="text/javascript">
+
+/***********************************************
+* Book Flip slideshow script- Â© Ger Versluis 2003
+* Permission granted to DynamicDrive.com to feature script
+* This notice must stay intact for use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+/********************************************************
+	Create a div with transparent place holder in your html	
+	<div id="Book" style="position:relative">
+		<img src="placeholder.gif" width="144" height="227">
+	</div>
+	width = 2*book image width +4 height = book image height+2
+
+	Insert onload in body tag
+		<body onload="ImageBook()">	
+*********************************************************/
+
+// 7 variables to control behavior
+	var Book_Image_Width=156;
+	var Book_Image_Height=200;
+	var Book_Border=true;
+	var Book_Border_Color="gray";
+	var Book_Speed=15;
+	var Book_NextPage_Delay=1500; //1 second=1000
+	var Book_Vertical_Turn=0;	
+
+// array to specify images and optional links. At least 4
+// If Link is not needed keep it ""
+
+	Book_Image_Sources=new Array(
+                "http://www.work4idlehands.com/Vintage_Patterns/Assets/Women/Jaeger4195.jpg","archives/2015/12/long_waistcoat_and_skirt_suit.html",
+                "http://www.work4idlehands.com/Vintage_Patterns/Assets/Women/Emu2500.jpg","archives/2017/11/sixties_polo-shirt_and_polo-ne.html",
+				"http://www.work4idlehands.com/Vintage_Patterns/Assets/Men/P&B1257.jpg","archives/2014/05/perfectly_plain_sixties_polo_s_1.html",
+				"http://www.work4idlehands.com/Vintage_Patterns/Assets/Women/Sirdar5773.jpg","archives/2012/06/camisole_twin-set.html",
+				"http://www.work4idlehands.com/Vintage_Patterns/Assets/Women/Jaeger4546.jpg","archives/2010/12/plain_cardigan_with_collar_and.html",
+                "http://www.work4idlehands.com/Vintage_Patterns/Assets/Women/Jaeger5079L.jpg","archives/2019/11/luxury_chenille_waistcoat_or_s.html",
+                "http://www.work4idlehands.com/Vintage_Patterns/Assets/Women/Emu152.jpg","archives/2014/11/perfectly_plain_fine-knit_twin.html",
+		"http://www.work4idlehands.com/Vintage_Patterns/Assets/Women/Wendy1159.jpg","archives/2007/11/sweater_and_matching_long_wais.html",
+		"http://www.work4idlehands.com/Vintage_Patterns/Assets/Women/Templetons1191.jpg","archives/2014/10/chic_chunky_cardigan.html",
+		"http://www.work4idlehands.com/Vintage_Patterns/Assets/Booklets/Patons161-D.jpg","archives/2014/11/the_aran_look.html",
+		"http://www.work4idlehands.com/Vintage_Patterns/Assets/Women/Twilleys658.jpg","archives/2014/03/sixties_top_and_skirt_costume.html", 
+		"http://www.work4idlehands.com/Vintage_Patterns/Assets/Women/Hayfield1271.jpg","archives/2010/12/sweater_with_hood_and_striped.html",
+                 "http://www.work4idlehands.com/Vintage_Patterns/Assets/Women/Sirdar5584.jpg","archives/2007/11/striped_cardigan_and_sweater_s.html",
+                 "http://www.work4idlehands.com/Vintage_Patterns/Assets/Men/Argyll143.jpg","archives/2011/11/striped_scarf_plus_tie.html",
+                 "http://www.work4idlehands.com/Vintage_Patterns/Assets/Men/Bestway3911.jpg","archives/2010/12/cable_rib_sports_sweaters.html",
+                 "http://www.work4idlehands.com/Vintage_Patterns/Assets/Men/Jaeger4164.jpg","archives/2014/07/waistcoat_and_skirt_suit2.html", 
+                 "http://www.work4idlehands.com/Vintage_Patterns/Assets/Women/Bellmans1280.jpg","archives/2014/11/long_liners_waistcoat_or_cardi.html", 
+                 "http://www.work4idlehands.com/Vintage_Patterns/Assets/Men/Marriner601.jpg","archives/2011/05/fifties_sailing_sweaters.html", 
+                 "http://www.work4idlehands.com/Vintage_Patterns/Assets/Kids/Patons8019.jpg","archives/2014/11/pert_and_pretty_toddler_hats.html", 
+		  "http://www.work4idlehands.com/Vintage_Patterns/Assets/Women/Hayfield1241.jpg","archives/2012/01/mother_and_daughter_tunics.html",
+ //
+		);
+
+/***************** DO NOT EDIT BELOW **********************************/
+	var B_LI,B_MI,B_RI,B_TI,B_Angle=0,B_CrImg=6,B_MaxW,B_Direction=1;
+	var B_MSz,B_Stppd=false;B_Pre_Img=new Array(Book_Image_Sources.length);
+
+	function ImageBook(){
+		if(document.getElementById){
+			for(i=0;i<Book_Image_Sources.length;i+=2){
+				B_Pre_Img[i]=new Image();B_Pre_Img[i].src=Book_Image_Sources[i]}
+			Book_Div=document.getElementById("Book");
+			B_LI=document.createElement("img");Book_Div.appendChild(B_LI);	
+			B_RI=document.createElement("img");Book_Div.appendChild(B_RI);
+			B_MI=document.createElement("img");Book_Div.appendChild(B_MI);	
+			B_LI.style.position=B_MI.style.position=B_RI.style.position="absolute";
+			B_LI.style.zIndex=B_RI.style.zIndex=0;B_MI.style.zIndex=1;
+			B_LI.style.top=(Book_Vertical_Turn?Book_Image_Height+1:0)+"px";
+			B_LI.style.left=0+"px";
+			B_MI.style.top=0+"px";
+			B_MI.style.left=(Book_Vertical_Turn?0:Book_Image_Width+1)+"px";
+			B_RI.style.top=0+"px";
+			B_RI.style.left=(Book_Vertical_Turn?0:Book_Image_Width+1)+"px";
+			B_LI.style.height=Book_Image_Height+"px";
+			B_MI.style.height=Book_Image_Height+"px";
+			B_RI.style.height=Book_Image_Height+"px";
+			B_LI.style.width=Book_Image_Width+"px";
+			B_MI.style.width=Book_Image_Width+"px";
+			B_RI.style.width=Book_Image_Width+"px";
+			if(Book_Border){
+				B_LI.style.borderStyle=B_MI.style.borderStyle=B_RI.style.borderStyle="solid";
+				B_LI.style.borderWidth=1+"px";
+				B_MI.style.borderWidth=1+"px";
+				B_RI.style.borderWidth=1+"px";
+				B_LI.style.borderColor=B_MI.style.borderColor=B_RI.style.borderColor=Book_Border_Color}
+			B_LI.src=B_Pre_Img[0].src;
+			B_LI.lnk=Book_Image_Sources[1];
+			B_MI.src=B_Pre_Img[2].src;
+			B_MI.lnk=Book_Image_Sources[3];
+			B_RI.src=B_Pre_Img[4].src;
+			B_RI.lnk=Book_Image_Sources[5];
+			B_LI.onclick=B_MI.onclick=B_RI.onclick=B_LdLnk;
+			B_LI.onmouseover=B_MI.onmouseover=B_RI.onmouseover=B_Stp;
+			B_LI.onmouseout=B_MI.onmouseout=B_RI.onmouseout=B_Rstrt;
+			BookImages()}}
+
+	function BookImages(){
+		if(!B_Stppd){
+			if(Book_Vertical_Turn){
+				B_MSz=Math.abs(Math.round(Math.cos(B_Angle)*Book_Image_Height));
+				MidOffset=!B_Direction?Book_Image_Height+1:Book_Image_Height-B_MSz;
+				B_MI.style.top=MidOffset+"px";
+				B_MI.style.height=B_MSz+"px"}
+			else{	B_MSz=Math.abs(Math.round(Math.cos(B_Angle)*Book_Image_Width));
+				MidOffset=B_Direction?Book_Image_Width+1:Book_Image_Width-B_MSz;
+				B_MI.style.left=MidOffset+"px";
+				B_MI.style.width=B_MSz+"px"}
+			B_Angle+=Book_Speed/720*Math.PI;
+			if(B_Angle>=Math.PI/2&&B_Direction){
+				B_Direction=0;
+				if(B_CrImg==Book_Image_Sources.length)B_CrImg=0;
+				B_MI.src=B_Pre_Img[B_CrImg].src;
+				B_MI.lnk=Book_Image_Sources[B_CrImg+1];
+				B_CrImg+=2}
+			if(B_Angle>=Math.PI){
+				B_Direction=1;
+				B_TI=B_LI;
+				B_LI=B_MI;
+				B_MI=B_TI;
+				if(Book_Vertical_Turn)B_MI.style.top=0+"px";
+				else B_MI.style.left=Book_Image_Width+1+"px";			
+				B_MI.src=B_RI.src;
+				B_MI.lnk=B_RI.lnk;
+
+				setTimeout("Book_Next_Delay()",Book_NextPage_Delay)}
+			else setTimeout("BookImages()",50)}
+		else setTimeout("BookImages()",50)}
+
+	function Book_Next_Delay(){
+			if(B_CrImg==Book_Image_Sources.length)B_CrImg=0;
+			B_RI.src=B_Pre_Img[B_CrImg].src;
+			B_RI.lnk=Book_Image_Sources[B_CrImg+1];
+			B_MI.style.zIndex=2;
+			B_LI.style.zIndex=1;
+			B_Angle=0;
+			B_CrImg+=2;
+		setTimeout("BookImages()",50)}
+
+	function B_LdLnk(){if(this.lnk)window.location.href=this.lnk}
+	function B_Stp(){B_Stppd=true;this.style.cursor=this.lnk?"pointer":"default"}
+	function B_Rstrt(){B_Stppd=false}
+</script>
+
+	<div id="Book" style="position:relative; left:80px">
+		<img src="http://www.work4idlehands.co.uk/Vintage_Patterns/Assets/placeholder.gif" width="160" height="202">
+	</div>
+
+<p>
+I have grouped the patterns by type, as they were in old-fashioned knitting shops;  some patterns may fit into more than one category, and the beauty of the virtual world is that a pattern can happily live in more than one drawer!   There is also a "retro" category which is entirely arbitrary, and roughly includes anything prior to the 1980s.  If you are looking for something very particular or obscure, then try a specific search.</p>
+<p>
+I'm not attempting to run a business, as such, but I will endeavour to offer a professional enough service on an ad hoc basis.<br> I hope you will find something you like. </p>
+
+                              
+
+                              <p class="entry-footer">
+                                 <span class="post-footers"></span> <span class="separator"></span> 
+
+
+                                 
+                                 
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     
+
+
+<h2>Categories</h2>
+
+
+
+<ul>
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/accessories/" title="">ACCESSORIES</a>
+
+
+
+
+<ul>
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/accessories/hats_glovesscarves/" title="">Hats, gloves,scarves</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/accessories/shawls_and_stoles/" title="">Shawls and stoles</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/accessories/socks/" title="">Socks and leggings</a>
+
+
+
+</li>
+
+</ul>
+
+
+</li>
+
+
+
+
+<li>BRAND
+
+
+
+<ul>
+
+
+<li>Patons
+
+
+</li>
+
+</ul>
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/booklet/" title="">Booklets and Magazines</a>
+
+
+
+
+<ul>
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/booklet/needlewoman_and_needlecraft/" title="">Needlewoman and Needlecraft</a>
+
+
+
+</li>
+
+</ul>
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/crochet/" title="">CROCHET</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/family/" title="">FAMILY</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/house_and_home/" title="">House and Home</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/kids_stuff/" title="">KIDS STUFF</a>
+
+
+
+
+<ul>
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/kids_stuff/babies/" title="">Babies</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/kids_stuff/toys/" title="">Toys</a>
+
+
+
+</li>
+
+</ul>
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/men/" title="">MEN</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/sewing_pattern/" title="">SEWING PATTERNS</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/sold/" title="">SOLD</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/women/" title="">WOMEN</a>
+
+
+
+</li>
+
+
+
+
+<li>WOOL WEIGHT
+
+
+
+<ul>
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/lace_and_2_ply_fingering/" title="">2 ply fingering or Lace</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/3_and_4_ply_fingering/" title="">3 and 4 ply fingering</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/5ply_and_quickknit/" title="">5ply and Quickknit</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/aran-weight/" title="">Aran weight</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/chunky/" title="">Chunky</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/cotton/" title="">Cotton</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/double_knitting/" title="">Double knitting</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/speciality-_mohairchenille/" title="">Speciality- mohair/chenille/boucle etc</a>
+
+
+
+</li>
+
+</ul>
+
+
+</li>
+
+
+
+
+<li>Zeitgeist
+
+
+
+<ul>
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/1940s/" title="">1940s</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/1950s/" title="">1950s</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/1960s/" title="">1960s</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/1970s/" title="">1970s</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/1980s/" title="">1980s</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/1990s/" title="">1990s</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/millenium/" title="">2000s</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/retro/" title="">RETRO</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/" title="">Traditional</a>
+
+
+
+
+<ul>
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/aran/" title="">Aran</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/bedjacket/" title="">Bedjacket</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/christmas/" title="">Christmas</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/fair_isle/" title="">Fair Isle</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/fisherman/" title="">Fisherman</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/gansey/" title="">Gansey</a>
+
+
+
+</li>
+
+
+
+
+<li>Lopi
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/school/" title="">School</a>
+
+
+
+</li>
+
+
+
+
+<li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/sports/" title="">Sports</a>
+
+
+
+</li>
+
+</ul>
+
+
+</li>
+
+</ul>
+
+
+</li>
+
+</ul>
+
+
+
+                              <p class="entry-footer">
+                                 <span class="post-footers"></span> <span class="separator"></span> 
+ <span class="entry-content">
+
+<h2>Terms and Conditions</h2>
+<p>
+<a name=terms></a>
+The patterns shown on the site are "sold as seen".  Patterns are in variable condition; I have tried to indicate this on each individual description.<br>
+I regret that I do not offer returns or refunds, although I will be open to discuss any circumstances which may have led to dissatisfaction.</p>
+<a name=price></a>
+<h2>Prices</h2>
+<p>
+Prices are shown on each individual pattern. 
+Unless stated this does not include postage.
+My minimum price for a pattern currently is Â£2 (that is pounds sterling or 
+GBP) to cover basic administration costs. Premium rate patterns that I 
+consider to be more valuable (usually older) are currently at a minimum of Â£3.
+&nbsp;Books and magazines, when available, are priced individually and, being 
+heavier, attract higher postage rates.
+Prices for overseas buyers are shown in the drop down menus and are quite a lot higher to 
+cover the UK Post Office excessive overseas postage rates for printed papers. 
+The only mitigation I can offer for overseas buyers with multiple purchases, is that 
+I will refund the excess postage charge for each additional pattern.</p>
+<p>I accept payments through Paypal "Buy now" buttons to allow you to pay 
+instantly using a credit card - note that you <b>do not</b> need to have a 
+Paypal account in order to so this.
+However, I know this does not suit everyone, so if you want to pay using 
+another method, or to discuss anything else, then please email me using the 
+"contact me" link in the side bar to make the necessary arrangements.</p>
+<a name=PO></a>
+<h2>Postage</h2>
+<p>Standard postage within the UK is second class for a normal single-fold sheet 
+pattern (approximately A4). 
+International postage will usually be via air mail.
+I always obtain proof of posting. <br />
+<br> For different classes of service or any queries over the rates, please email me using the "contact me" link in the side bar.</p>
+<a name=questions></a>
+<h2>More Questions?</h2>
+<p>If you have any questions about the items, payments, or terms and conditions, please email me using the "contact me" link in the side bar.</p>
+</span>
+                  </div>
+               </div>
+
+               
+               <div id="gamma">
+                  <div id="gamma-inner" class="pkg">
+
+<span class="sidebar">  
+      <p><font size="1"> &copy; Christina Coutts 2007</font></p>
+<p><a href="https://twitter.com/4idlehands" class="twitter-follow-button" data-show-count="false">Follow @4idlehands</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+
+<h2>Helpful Stuff</h2>
+      <ul>
+        <li><font size=1><a href="http://www.work4idlehands.com/On_the_needles/yarn_weights.html" onClick="window.open('http://www.work4idlehands.com/On_the_needles/yarn_weights.html','popup','width=1000,height=750,scrollbars=yes,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=10,top=10'); 
+	return false">Wool weight info</a></font></li>
+        <li><font size=1><a href="http://www.work4idlehands.com/Vintage_Patterns/index.html#terms">Terms and Conditions</a></font></li>
+        <li><font size=1><a href="http://www.work4idlehands.com/Vintage_Patterns/index.html#price">Prices </a></font></li>        <li><font size=1><a href="http://www.work4idlehands.com/Vintage_Patterns/index.html#PO">Postage </a></font></li>
+        <li><font size=1><a href="http://www.work4idlehands.com/Vintage_Patterns/index.html#questions">Questions </a></font></li>
+<li><font face="Arial" size="-2">Free DHTML scripts provided by<br><a href="http://www.dynamicdrive.com">Dynamic Drive</a></font></li>
+      </ul>
+
+
+<h2>Categories</h2>
+
+
+    <ul>
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/accessories/"
+            title="">ACCESSORIES</a>
+        
+        
+        
+    <ul>
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/accessories/hats_glovesscarves/"
+            title="">Hats, gloves,scarves</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/accessories/shawls_and_stoles/"
+            title="">Shawls and stoles</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/accessories/socks/"
+            title="">Socks and leggings</a>
+        
+        
+        
+        </li>
+    </ul>
+
+        </li>
+    
+
+    
+        
+            <li>BRAND
+        
+        
+    <ul>
+        
+            <li>Patons
+        
+        
+        </li>
+    </ul>
+
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/booklet/"
+            title="">Booklets and Magazines</a>
+        
+        
+        
+    <ul>
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/booklet/needlewoman_and_needlecraft/"
+            title="">Needlewoman and Needlecraft</a>
+        
+        
+        
+        </li>
+    </ul>
+
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/crochet/"
+            title="">CROCHET</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/family/"
+            title="">FAMILY</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/house_and_home/"
+            title="">House and Home</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/kids_stuff/"
+            title="">KIDS STUFF</a>
+        
+        
+        
+    <ul>
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/kids_stuff/babies/"
+            title="">Babies</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/kids_stuff/toys/"
+            title="">Toys</a>
+        
+        
+        
+        </li>
+    </ul>
+
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/men/"
+            title="">MEN</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/sewing_pattern/"
+            title="">SEWING PATTERNS</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/sold/"
+            title="">SOLD</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/women/"
+            title="">WOMEN</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li>WOOL WEIGHT
+        
+        
+    <ul>
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/lace_and_2_ply_fingering/"
+            title="">2 ply fingering or Lace</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/3_and_4_ply_fingering/"
+            title="">3 and 4 ply fingering</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/5ply_and_quickknit/"
+            title="">5ply and Quickknit</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/aran-weight/"
+            title="">Aran weight</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/chunky/"
+            title="">Chunky</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/cotton/"
+            title="">Cotton</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/double_knitting/"
+            title="">Double knitting</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/wool_weight/speciality-_mohairchenille/"
+            title="">Speciality- mohair/chenille/boucle etc</a>
+        
+        
+        
+        </li>
+    </ul>
+
+        </li>
+    
+
+    
+        
+            <li>Zeitgeist
+        
+        
+    <ul>
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/1940s/"
+            title="">1940s</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/1950s/"
+            title="">1950s</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/1960s/"
+            title="">1960s</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/1970s/"
+            title="">1970s</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/1980s/"
+            title="">1980s</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/1990s/"
+            title="">1990s</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/millenium/"
+            title="">2000s</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/retro/"
+            title="">RETRO</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/"
+            title="">Traditional</a>
+        
+        
+        
+    <ul>
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/aran/"
+            title="">Aran</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/bedjacket/"
+            title="">Bedjacket</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/christmas/"
+            title="">Christmas</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/fair_isle/"
+            title="">Fair Isle</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/fisherman/"
+            title="">Fisherman</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/gansey/"
+            title="">Gansey</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li>Lopi
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/school/"
+            title="">School</a>
+        
+        
+        
+        </li>
+    
+
+    
+        
+            <li><a href="http://www.work4idlehands.com/Vintage_Patterns/archives/zeitgeist/traditional/sports/"
+            title="">Sports</a>
+        
+        
+        
+        </li>
+    </ul>
+
+        </li>
+    </ul>
+
+        </li>
+    </ul>
+
+
+      <h2>Yarn Links</h2>
+    <ul>
+        <li><font size="1"><a href="http://www.englishyarns.co.uk/" target="_blank">English 
+          Yarns</a></font></li>
+        <li><font size="1"><a href="http://www.laughinghens.com/ " target="_blank">Laughing 
+          Hens</a></font></li>
+        <li><font size="1"><a href="http://www.poshyarn.co.uk/" target="_blank">Posh 
+          Yarn</a></font></li>
+        <li><font size="1"><a href="http://www.guernseywool.co.uk/" target="_blank">Frangipani<br />
+          (Guernsey wools)</a></font></li>
+        <li><font size="1"><a href="http://www.shetlandwoolbrokers.co.uk/" target="_blank">Jamieson 
+          &amp; Smith<br />
+          (Shetland/Lace wool)</a></font></li>
+		<li><font size="1"><a href="https://www.jamiesonsofshetland.co.uk/" target="_blank">Jamieson's 
+          of Shetland <br />
+          (Shetland/Lace wool)</a></font></li>
+      </ul>
+           
+</span>
+<br><br>
+                     
+                  <div class="link-note">
+                       <a href="http://www.work4idlehands.com/Vintage_Patterns/index.xml"><b><font size="1">Syndicate this site (XML)</font></b></a>
+                        <br>
+                        <a href="http://www.learningmovabletype.com/syndication.php" onclick="window.open('http://www.learningmovabletype.com/syndication.php','popup','width=600,height=600,scrollbars=yes,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0'); return false"><i><font size="1">(What does "syndicate this site" mean?)</font></i></a>
+                  </div><br>
+
+               
+
+<div align="center"><font size="1">You've been counted...</font>
+<br>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3271987; 
+var sc_invisible=0; 
+var sc_partition=35; 
+var sc_security="b9c440cb"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+<noscript>
+<div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c36.statcounter.com/3271987/0/b9c440cb/0/" alt="hit counter" /></a>
+</div>
+</noscript>
+<!-- End of StatCounter Code -->
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=6736279; 
+var sc_invisible=1; 
+var sc_security="782d4f80"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="weebly reliable statistics"
+href="http://statcounter.com/weebly/" target="_blank"><img
+class="statcounter" src="http://c.statcounter.com/6736279/0/782d4f80/1/"
+alt="weebly reliable statistics" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+</div>
+<br>
+
+                  <div id="powered"><font size="1">Powered by</font><br /><a href="http://www.movabletype.org">Movable Type 4.21-en</a><br />    
+                   </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+<div style="display: none;">
+<p><a href="https://backlinkku.id/">BacklinkKu</a></p>
+<p><a href="https://xynebot.com/">Bot Whatsapp Terbaru</a></p>
+<p><a href="https://jasabacklinks.org/">Jasa backlinks Gacor</a></p>
+<p><a href="https://www.shellbypass.com/">Download Shell Bypass</a></p>
+</div>
+</body>
+</html>
