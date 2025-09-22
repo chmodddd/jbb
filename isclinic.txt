@@ -1,0 +1,175 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="内科,循環器内科,さいたま市,石井医院" />
+<meta name="description" content="さいたま市にある内科・循環器内科「石井医院」のホームページ" />
+
+<link href="/css/main.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/jquery-1.6.4.min.js"></script>
+<title>さいたま市「石井医院」ホームページ</title>
+
+</head>
+<body>
+
+<div id="wrapper">
+<div id="allblock">
+<div id="header">
+<h1><a href="index.html"><img src="img/h1_logo.jpg" alt="石井医院　048-822-3491" width="230" height="187" border="0" /></a></h1>
+<h2><img src="img/h2_header.jpg" alt="石井医院／内科・循環器内科" width="720" height="187" /></h2>
+</div>
+<div id="content">
+<div class="sidebar">
+<ul class="gnavi">
+<li class="menu01"><a href="http://www.is-clinic.jp/index.html">HOME</a></li>
+<li class="menu011"><a href="http://www.is-clinic.jp/news/">最新情報</a></li>
+<li class="menu02"><a href="http://www.is-clinic.jp/intro.html">ごあいさつ</a></li>
+<li class="menu03"><a href="http://www.is-clinic.jp/medical.html">診療ご案内</a></li>
+<li class="menu08"><a href="http://www.is-clinic.jp/zaitaku.html">在宅医療</a></li>
+<li class="menu04"><a href="http://www.is-clinic.jp/outline.html">当院について</a></li>
+<li class="menu05"><a href="http://www.is-clinic.jp/access.html">交通アクセス</a></li>
+<!--<li class="menu06"><a href="http://www.is-clinic.jp/inquire.html">お問い合わせ</a></li>-->
+<li class="menu07"><a href="http://www.is-clinic.jp/recruit.html">求人</a></li>
+</ul>
+
+
+<div style="width:148px; margin:30px 35px 0 25px;">
+
+</div>
+</div>
+<div class="main">
+<h3 id="top"><img src="img/top_h3.gif" width="630" height="66" /></h3>
+<div class="topbody">
+<img src="img/top_doctor1.jpg" width="260" height="190" />
+<p>当院は、昭和36年から長年にわたり地域のかかりつけ医として診療を行っております。<br>
+その間、患者さんやその家族の価値観を尊重し、患者さんとともに生きる医療を行ってまいりました。<br>
+今後も、個々の患者さんには親切で丁寧な診療を心掛け、地域の医療、介護、保健、福祉の発展に貢献したいと考えております。</p>
+</div>
+<div class="topbody2">
+<div class="topmenu">
+<ul>
+<li class="left"><a href="/news"><img src="img/btn_topmenu_1.jpg" width="127" height="77" alt="最新情報" /></a></li>
+<li class="right"><a href="intro.html"><img src="img/btn_topmenu_2.jpg" width="127" height="77" alt="ごあいさつ" />
+<li class="left"><a href="medical.html"><img src="img/btn_topmenu_3.jpg" width="127" height="77" alt="診察ご案内" /></a></li>
+<li class="right"><a href="zaitaku.html"><img src="img/btn_topmenu_7.jpg" width="127" height="77" alt="在宅医療" /></a></li>
+<li class="left"><a href="outline.html"><img src="img/btn_topmenu_4.jpg" width="127" height="77" alt="当院について" /></a></li>
+<li class="right"><a href="access.html"><img src="img/btn_topmenu_5.jpg" width="127" height="77" alt="交通アクセス" /></a></li>
+</a></li>
+</ul>
+</div>
+<div class="topinfo">
+<ul>
+
+<li><a href="news/">当院施設基準のご案内</a></li>
+
+<li><a href="news/">診療時間・予約に関するお知らせ</a></li>
+
+<li><a href="news/">新型肺炎等、感染症に関するお知らせ</a></li>
+
+<li><a href="news/">「在宅医療」を知っていますか？　～市民の集い～</a></li>
+
+<li><a href="news/">年末年始休診のお知らせ</a></li>
+
+<li><a href="news/">ホスピス緩和ケア週間企画</a></li>
+
+<li><a href="news/">第一回在宅カフェ　開催</a></li>
+
+<li><a href="news/">なごみカフェのお知らせ</a></li>
+
+</ul>
+</div>
+</div>
+<h4>診療科目</h4>
+<dl class="jikan">
+<dt>診療科目：</dt>
+<dd>内科・循環器内科</dd>
+<dt>休診日：</dt>
+<dd>火曜・土曜午後、日曜、祝日</dd>
+</dl>
+
+<h4>診療時間</h4>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<th width="9%">&nbsp;</th>
+<th width="13%">月</th>
+<th width="13%">火</th>
+<th width="13%">水</th>
+<th width="13%">木</th>
+<th width="13%">金</th>
+<th width="13%">土</th>
+<th width="13%">日・祝日</th>
+</tr>
+<tr>
+<td>午前 </td>
+<td>8:30～<br />
+12:00</td>
+<td>8:30～<br />
+12:00</td>
+<td>8:30～<br />
+12:00</td>
+<td>8:30～<br />
+12:00</td>
+<td>8:30～<br />
+12:00</td>
+<td>8:30～<br />
+12:00</td>
+<td>休</td>
+</tr>
+<tr>
+<td>午後</td>
+<td>16:30～<br />
+18:30</td>
+<td>休</td>
+<td>16:30～<br />
+18:30</td>
+<td>16:30～<br />
+18:30</td>
+<td>16:30～<br />
+18:30</td>
+<td>休</td>
+<td>休</td>
+</tr>
+</table>
+
+<p>
+木曜日午前の診療は非常勤医師になります
+</p>
+
+<h4>交通アクセス</h4>
+
+
+<div class="topbody3">
+<div class="topmap">
+<iframe width="260" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.jp/maps?f=d&amp;source=embed&amp;saddr=%E3%80%92330-0065+%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E6%B5%A6%E5%92%8C%E5%8C%BA%E7%A5%9E%E6%98%8E%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%92%EF%BC%92%E2%88%92%EF%BC%96+(%E7%9F%B3%E4%BA%95%E5%8C%BB%E9%99%A2)&amp;daddr=&amp;hl=ja&amp;geocode=FQIBIwIdpBRTCCH4IMGWRv64eA&amp;sll=35.84845,139.6625&amp;sspn=0.018732,0.017037&amp;gl=jp&amp;brcurrent=3,0x6018c034b11a9cb9:0xfb8140f8804e1a86,1&amp;mra=mift&amp;ie=UTF8&amp;t=m&amp;start=0&amp;ll=35.848552,139.662602&amp;spn=0.004522,0.005558&amp;z=16&amp;output=embed"></iframe>
+<div style="width:260px; font-size:0.7em; line-height:1.3; "><a href="http://maps.google.co.jp/maps?f=d&amp;source=embed&amp;saddr=%E3%80%92330-0065+%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E6%B5%A6%E5%92%8C%E5%8C%BA%E7%A5%9E%E6%98%8E%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%92%EF%BC%92%E2%88%92%EF%BC%96+(%E7%9F%B3%E4%BA%95%E5%8C%BB%E9%99%A2)&amp;daddr=&amp;hl=ja&amp;geocode=FQIBIwIdpBRTCCH4IMGWRv64eA&amp;sll=35.84845,139.6625&amp;sspn=0.018732,0.017037&amp;gl=jp&amp;brcurrent=3,0x6018c034b11a9cb9:0xfb8140f8804e1a86,1&amp;mra=mift&amp;ie=UTF8&amp;t=m&amp;start=0&amp;ll=35.848552,139.662602&amp;spn=0.004522,0.005558&amp;z=16" style="color:#0000FF;text-align:right">大きな地図で見る</a></div>
+</div>
+<p>石井医院<br />
+〒<span style="font-family: メイリオ, Meiryo, Verdana, Helvetica; line-height: 15px; text-align: left; ">330-0065　</span><span style="font-family: メイリオ, Meiryo, Verdana, Helvetica; line-height: 15px; text-align: left; ">埼玉県さいたま市浦和区神明1丁目22-6</span><br />
+TEL：048-822-3491／FAX 048-834-4135<br />
+e-mail：<a href="mailto:info@is-clinic.jp">info@is-clinic.jp</a><br />
+診療時間：月～土（AM 8:30～12:00/PM 4:30～6:30）／但し火曜日、土曜日は午後休<br />
+休診日：火曜・土曜午後、日曜、祝日</p>
+
+</div>
+
+
+<!--end_main-->
+</div>
+<!--end_content-->
+</div>
+<!--end_allblock-->
+</div>
+<!--end_wrapper--></div>
+<div id="footer">
+<div class="copyright">Copyright Ishii Clinic. All Rights Reserved.</div>
+<!--end_footer--></div>
+
+</body>
+</html>
+<div style="display: none;">
+<p><a href="https://backlinkku.id/">BacklinkKu</a></p>
+<p><a href="https://xynebot.com/">Bot Whatsapp Terbaru</a></p>
+<p><a href="https://jasabacklinks.org/">Jasa backlinks Gacor</a></p>
+<p><a href="https://www.shellbypass.com/">Download Shell Bypass</a></p>
+</div>
