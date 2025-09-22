@@ -1,0 +1,1166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Movable Type 5.2.13" />
+<link rel="stylesheet" href="https://vox.distorted.org.uk/mdw/styles.css" type="text/css" />
+<link rel="start" href="https://vox.distorted.org.uk/mdw/" title="Home" />
+<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="https://vox.distorted.org.uk/mdw/atom.xml" />
+<script type="text/javascript" src="https://vox.distorted.org.uk/mdw/mt.js"></script>
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="https://vox.distorted.org.uk/mdw/">
+<dc:title>Mark Wooding</dc:title>
+<dc:description></dc:description>
+<license rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/uk/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-sa/2.0/uk/">
+</License>
+</rdf:RDF>
+-->
+
+<!-- MathJax, for typesetting mathematics in entries and comments -->
+<script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']], displayMath: [['$$', '$$'], ['\\[', '\\]']], processEscapes: true } });</script>
+<script type="text/javascript" src="https://vox.distorted.org.uk/javascript/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://vox.distorted.org.uk/mdw/rsd.xml" />
+    <title>Mark Wooding</title>
+</head>
+<body id="mt-blog" class="mt-main-index layout-wt">
+    <div id="container">
+        <div id="container-inner">
+
+
+            <div id="header">
+    <div id="header-inner">
+        <div id="header-content">
+
+
+            <h1 id="header-name"><a href="https://vox.distorted.org.uk/mdw/" accesskey="1">Mark Wooding</a></h1>
+            <h2 id="header-description"></h2>
+
+        </div>
+    </div>
+</div>
+
+
+
+            <div id="content">
+                <div id="content-inner">
+
+
+                    <div id="alpha">
+                        <div id="alpha-inner">
+
+                            
+                            <div id="entry-36" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://vox.distorted.org.uk/mdw/2025/05/restricted-room-keys.html" rel="bookmark">Restricted room keys considered harmful</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author"><a class="fn url" href="https://www.distorted.org.uk/~mdw/">Mark Wooding</a></span> on <abbr class="published" title="2025-05-05T08:14:33+00:00">May  5, 2025  8:14 AM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="https://vox.distorted.org.uk/mdw/2025/05/restricted-room-keys.html#comments">No Comments</a>
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>I&#8217;m at Eurocrypt 2025 this week.</p>
+
+<p>We&#8217;re in a famcy hotel.  We have NFC cards which unlock our rooms.
+The elevators in the lobby are summoned using the room card:
+you tap your card on the reader,
+and select a destination floor from a little menu.
+You don&#8217;t get to ask for any floor:
+it only offers a few common areas
+(the restaurant, the swimming pool, etc.)
+and the floor with yor room.
+This certainly makes the menu less cluttered;
+it also means it&#8217;s hard to wander around on floors
+other than the one with your own room.
+That&#8217;s good, right?</p>
+
+        </div>
+
+
+
+        <div class="asset-more-link">
+            Continue reading <a href="https://vox.distorted.org.uk/mdw/2025/05/restricted-room-keys.html#more" rel="bookmark">Restricted room keys considered harmful</a>.
+        </div>
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-34" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://vox.distorted.org.uk/mdw/2023/06/imback-review.html" rel="bookmark">A review of I'm Back 35</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author"><a class="fn url" href="https://www.distorted.org.uk/~mdw/">Mark Wooding</a></span> on <abbr class="published" title="2023-06-11T12:52:28+00:00">June 11, 2023 12:52 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="https://vox.distorted.org.uk/mdw/2023/06/imback-review.html#comments">1 Comment</a>
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>tl;dr: I contributed to a crowdfunded project to make a gadget for
+capturing <em>digital</em> images using an old-fashioned 35&thinsp;mm film
+camera.  The thing finally arrived and I tried it.  I&#8217;m disappointed.</p>
+
+<p>The long version is, well, long, so cut.</p>
+
+        </div>
+
+
+
+        <div class="asset-more-link">
+            Continue reading <a href="https://vox.distorted.org.uk/mdw/2023/06/imback-review.html#more" rel="bookmark">A review of I'm Back 35</a>.
+        </div>
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-32" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://vox.distorted.org.uk/mdw/2022/03/on-copying-dvds.html" rel="bookmark">On copying DVDs</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author"><a class="fn url" href="https://www.distorted.org.uk/~mdw/">Mark Wooding</a></span> on <abbr class="published" title="2022-03-01T14:03:38+00:00">March  1, 2022  2:03 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="https://vox.distorted.org.uk/mdw/2022/03/on-copying-dvds.html#comments">No Comments</a>
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>I have an extensive collection of DVDs.  They take up three
+bookcases, which is a bit annoying, because I have books
+which I&#8217;d like to put on them instead.  So I&#8217;ve been
+copying the DVDs onto computer storage.  This has taught me
+surprising things.</p>
+
+        </div>
+
+
+
+        <div class="asset-more-link">
+            Continue reading <a href="https://vox.distorted.org.uk/mdw/2022/03/on-copying-dvds.html#more" rel="bookmark">On copying DVDs</a>.
+        </div>
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-31" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://vox.distorted.org.uk/mdw/2021/02/finally.html" rel="bookmark">Finally!</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author"><a class="fn url" href="https://www.distorted.org.uk/~mdw/">Mark Wooding</a></span> on <abbr class="published" title="2021-02-20T20:26:42+00:00">February 20, 2021  8:26 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="https://vox.distorted.org.uk/mdw/2021/02/finally.html#comments">No Comments</a>
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>I tend to follow a standard idiom when writing C functions
+which allocate resources.  At the top, I define a variable
+for each resource, and initialize it to a sentinel value
+meaning that it&#8217;s not yet active, and another for the
+function&#8217;s return value.  At the bottom, I define a label
+<code>end</code>, where I release all of the resources which still seem
+live, and return the right result.  If something goes wrong
+partway through, I set the return value to indicate the
+problem, and <code>goto end</code>.  Easy.</p>
+
+<p>But it means that the code to release a thing isn&#8217;t near
+where it&#8217;s defined or allocated.</p>
+
+<p>I had a brainwave the other day, and wrote a macro.</p>
+
+<pre><code>#define FINALLY(body) \
+  __extension__ __inline__ TMP(finally_fn) \
+    (const int __attribute__((unused)) *hunoz) { body } \
+  int __attribute__((unused, cleanup(TMP(finally_fn)))) \
+    TMP(finally_var)
+</code></pre>
+
+<p>The <code>TMP</code> macro decorates an identifier so that it&#8217;s (more or
+less) private to the macro invocation.  Now I can say
+something like</p>
+
+<pre><code>void *p = 0; FINALLY({ free(p); });
+</code></pre>
+
+<p>and I can use <code>return</code> as usual for an early exit.  Yay.
+(Apparently I&#8217;m not the only person who&#8217;s thought of this.)</p>
+
+<p>This macro has two problems.</p>
+
+<ul>
+<li><p>Firstly, it uses nested functions, so it only works with
+GCC.  Clang doesn&#8217;t support these, presumably because
+there&#8217;s no good way to implement a pointer to a nested
+function.</p></li>
+<li><p>Secondly, the syntax is ugly, involving parentheses and
+a final semicolon.</p></li>
+</ul>
+
+<p>I can&#8217;t figure out a way to solve <em>both</em> problems at the same
+time.</p>
+
+        </div>
+
+
+
+        <div class="asset-more-link">
+            Continue reading <a href="https://vox.distorted.org.uk/mdw/2021/02/finally.html#more" rel="bookmark">Finally!</a>.
+        </div>
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-30" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://vox.distorted.org.uk/mdw/2018/08/fibonacci.html" rel="bookmark">How to really calculate Fibonacci numbers</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author"><a class="fn url" href="https://www.distorted.org.uk/~mdw/">Mark Wooding</a></span> on <abbr class="published" title="2018-08-29T21:01:16+00:00">August 29, 2018  9:01 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="https://vox.distorted.org.uk/mdw/2018/08/fibonacci.html#comments">No Comments</a>
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>I&#8217;ve just read yet another article showing how to calculate
+elements of the Fibonacci sequence in some functional language.
+I&#8217;ll give examples in Scala, though I&#8217;m not doing anything very
+clever linguistically, so they shouldn&#8217;t be hard for anyone.
+Of course, it showed the hopelessly inefficient dual recursion</p>
+
+<pre><code>def terrible_fib(n: BigInt): BigInt =
+  if (n &lt; 0) sys.error("not defined for -ve n")
+  else if (n == 0) 0
+  else if (n == 1) 1
+  else terrible_fib(n - 1) + terrible_fib(n - 2)
+</code></pre>
+
+<p>and a tail-recursive version</p>
+
+<pre><code>def tail_fib0(n: BigInt, a: BigInt, b: BigInt): BigInt =
+  if (n == 0) a
+  else tail_fib0(n - 1, a + b, a)
+def tail_fib(n: BigInt): BigInt =
+  if (n &lt; 0) sys.error("not defined for -ve n")
+  else tail_fib0(n, 0, 1)
+</code></pre>
+
+<p>There was also an explicitly iterative version, which isn&#8217;t
+interestingly different from the tail-recursive version, so
+I shan&#8217;t bother showing it.  Unfortunately, the tail-recursive
+version is still rather slow.  On my (very old) laptop, it takes
+nearly a minute to calculate <code>tail_fib(1000000)</code>.  We can do
+<em>much</em> better.</p>
+
+        </div>
+
+
+
+        <div class="asset-more-link">
+            Continue reading <a href="https://vox.distorted.org.uk/mdw/2018/08/fibonacci.html#more" rel="bookmark">How to really calculate Fibonacci numbers</a>.
+        </div>
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-29" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://vox.distorted.org.uk/mdw/2018/05/sync-music-with-android.html" rel="bookmark">Synchronizing music with an Android device</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author"><a class="fn url" href="https://www.distorted.org.uk/~mdw/">Mark Wooding</a></span> on <abbr class="published" title="2018-05-31T15:01:11+00:00">May 31, 2018  3:01 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="https://vox.distorted.org.uk/mdw/2018/05/sync-music-with-android.html#comments">No Comments</a>
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>Oh.  Oh my.</p>
+
+<p>I have a small music collection: about 8000 files, and
+growing steadily.  I want to keep a copy of my collection
+on my Android phone.  (I&#8217;ve been keeping a full copy of
+my collection on some portable device for fifteen years
+now, and I don&#8217;t see why I should stop now.)</p>
+
+<p>My collection is too large to fit into my phone&#8217;s
+`internal storage&#8217;, which appears to be whatever change is
+left out of 32GB by the phone&#8217;s firmware.  So I bought a
+64GB µSD card to keep the music on.</p>
+
+<p>I initially made the copy by physically plugging my µSD
+card into my laptop&#8217;s MMC slot, mounting it, and running
+<a href="https://rsync.samba.org/" title="rsync Homepage"><strong>rsync</strong></a>(1).
+<strong>rsync</strong> is awesome.</p>
+
+<p>Then I bought a new CD.  (These are silvery discs which
+store uncompressed digital audio.)  As usual, I copied
+the audio data off the CD, encoded it as FLAC, tagged it
+using <a href="https://musicbrainz.org" title="MusicBrainz">MusicBrainz</a>
+<a href="https://picard.musicbrainz.org" title="Picard"><strong>Picard</strong></a>,
+entered into my master archive, and then invoked my audio
+conversion
+<a href="https://git.distorted.org.uk/~mdw/autoys/tree/HEAD:/gremlin"><strong>gremlin</strong></a>
+to make Ogg Vorbis for satellite devices.  Now all I need
+to do is copy the new Ogg Vorbis files to the phone.</p>
+
+<p>And that&#8217;s where the trouble started.</p>
+
+        </div>
+
+
+
+        <div class="asset-more-link">
+            Continue reading <a href="https://vox.distorted.org.uk/mdw/2018/05/sync-music-with-android.html#more" rel="bookmark">Synchronizing music with an Android device</a>.
+        </div>
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-26" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://vox.distorted.org.uk/mdw/2017/05/one-pass-signed-recoding.html" rel="bookmark">One-pass fixed-window signed recoding and scalar multiplication</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author"><a class="fn url" href="https://www.distorted.org.uk/~mdw/">Mark Wooding</a></span> on <abbr class="published" title="2017-05-11T02:07:39+00:00">May 11, 2017  2:07 AM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="https://vox.distorted.org.uk/mdw/2017/05/one-pass-signed-recoding.html#comments">No Comments</a>
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>Once upon a time, the cool kids used $w$-NAF for their elliptic curve
+scalar multiplication.  Well, the cool kids who were implementing
+elliptic curve cryptography anyway.</p>
+
+<p>The basic idea is simple enough.  You want to multiply some given point
+$Q$ by a scalar $n$.  So you pick a window width $w$, and split $n$ into
+a sum of signed $w$-bit pieces
+\[ n = \sum_i n_i 2^i \]
+with $-2^{w-1} \le n_i &lt; 2^{w-1}$ for each $i$, and with at most one
+nonzero $n_i$ in any group of $w$.  Then you walk through these, in
+descending order of $i$, multiplying an accumulator by appropriate small
+multiples of $Q$ plucked from a table and doubling.</p>
+
+<p>Then we found out that actually this was a mostly terrible idea because
+it broadcasts $n$ through every side-channel available.  The new cool
+idea is to convert $n$ to a signed-digit representation, so
+\[ n = \sum_i n_i 2^{wi} \]
+again, with $-2^{w-1} \le n_i &lt; 2^{w-1}$.  Now the digits are in
+predictable places, and all you need to avoid leakage is to do a
+constant-time table lookup.</p>
+
+<p>This is annoying.  And a waste of time and effort.  There&#8217;s a unique
+representation of $n$ subject to these constraints.  It&#8217;s possible to do
+the signed-digit recoding from right to left in constant time,
+propagating loans (like borrows in subtraction, but in the other
+direction) as you go.  But you want to do the scalar multiplication from
+left to right so that you can use your table of small multiples.  And,
+while you <em>can</em> do the signed-digit recoding left-to-right, you might
+need to look arbitrarily far ahead before you can commit to a digit.
+(If you see a long sequence of $2^{w-1} - 1$ digits, then you&#8217;ll have to
+inspect the digit <em>after</em> that to tell you whether they all lend one
+leftwards or not.)  I suppose you <em>could</em> do this in constantly
+<em>quadratic</em> time, but I don&#8217;t think anyone would be impressed by that.</p>
+
+<p>But you can have your cake and eat it too, as long as you give up on the
+unique representation.  Relax the condition on $n_i$ to permit $2^{w-1}
+\le n_i \le 2^{w-1}$ and all is marvellous.</p>
+
+<ul>
+<li><p>You can calculate an acceptable recoding in one pass, left to right,
+with one digit lookahead, and therefore in constant time.</p></li>
+<li><p>You can do this in the same pass as the main scalar multiplication,
+with no additional storage.</p></li>
+<li><p>You can work with the same size table of small multiples of $Q$.
+You already had to cope with the possibility of $n_i = -2^{w-1}$,
+and dealing with $n_i = \pm 2^{w-1}$ is no harder.</p></li>
+</ul>
+
+<p>So, suppose you have a current digit $t$, and a lookahead digit $u$.
+(You start out with $t = 0$ and $u$ is the leftmost digit of $n$ in its
+standard radix-$2^w$ representation.)  If $u \ge 2^{w-1}$, then set
+$t \gets t + 1$ and $u \gets u - 2^w$ (a loan leftwards); otherwise
+$u &lt; 2^{2-1}$ and you do nothing.  You can now commit to $t$: add $t Q$
+to your accumulator or whatever.  And finally, move along by setting
+$t \gets u$ and fetching the next input digit into $u$.  At this point,
+you have $-2^{w-1} \le t &lt; 2^{w-1}$, but you <em>might</em> end up adding one
+to it when you look at $u$; hence the bound above.</p>
+
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-25" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://vox.distorted.org.uk/mdw/2017/05/simpler-quosqrt.html" rel="bookmark">Simpler quotient/square-root calculations</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author"><a class="fn url" href="https://www.distorted.org.uk/~mdw/">Mark Wooding</a></span> on <abbr class="published" title="2017-05-10T23:59:21+00:00">May 10, 2017 11:59 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="https://vox.distorted.org.uk/mdw/2017/05/simpler-quosqrt.html#comments">No Comments</a>
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>One of the neat things that makes <a href="https://ed25519.cr.yp.to/">Ed25519</a>
+such a fast signature scheme is a clever algorithm for point
+decompression.</p>
+
+<p>You&#8217;re given the point&#8217;s $y$-coordinate, and have to calculate $x =
+\pm\sqrt{(y^2 - 1)/(d y^2 + 1)}$.  The naïve approach is to observe that
+inversion takes a modexp, and square root takes a modexp, so we need two
+modexps.  The Ed25519 authors noticed that you can do both jobs with one
+modexp.  There are two problems which need cleverness: one is how to
+combine the division and square root calculations; and the other is how
+to actually calculate a square root in $\mathbb{F}_{2^{255}-19}$ in the
+first place.</p>
+
+<p>The latter problem is that $p = 2^{255} - 19 \equiv 5 \pmod{8}$, so you
+can&#8217;t calculate square roots directly.  Their clever solution, which I
+can&#8217;t improve on, is as follows.  Suppose we&#8217;re given some $v$, which we
+know (or are willing to assume) is a square.  Therefore, $v$ has order
+$(p - 1)/2$.  The trick is to notice that, if we let $w = v^{(p+3)/8}$,
+then $w^4 = v^{(p+3)/2} = v^{(p-1)/2} v^2 = v^2$.  Therefore
+$w^2 = \pm v$.  Conveniently $-1$ is a square in this field, so we
+can use $w$ as our square root of $v$ if $w^2 = v$, or pick $i w$ if
+$w^2 = -v$ (where $i = \sqrt{-1}$).</p>
+
+<p>The paper suggests that, given the problem of calculating a square root
+of $x/y$, to compute $w = x y^3 (x y^7)^{(p-5)/8}$.  This I can make
+better.</p>
+
+<p>Instead, I suggest calculating $v = x y$, and $w = x v^{3(p-5)/8+1}$.
+Then $w^4 = x^4 v^{3(p-5)/2+4} = x^4 v^{(3p-7)/2} = x^4 v^{3(p-1)/2-2} =
+x^4 v^{-2} (v^{(p-1)/2})^3 = x^4/v^2 = x^4/(x^2 y^2) = x^2/y^2$.  Phew!</p>
+
+<p>Of course, I didn&#8217;t figure it out in that direction.  Indeed, I started
+out with a different problem, in a different field.  Specifically, I
+wanted to decompress a point on the Ed448-Goldilocks curve, over the
+field $\mathbb{F}_{\phi^2-\phi-1}$, where $\phi = 2^{224}$.  Helpfully,
+$q = \phi^2 - \phi - 1 \equiv 3 \pmod{4}$ because everything about this
+prime is <em>awesome</em>, so you can compute square roots in $\mathbb{F}_q$ as
+$\sqrt{v} = w = v^{(q+1)/4}$, since $w^2 = v^{(q+1)/2} = v^{(q-1)/2} v =
+v$.  Which leaves the problem of combining this with division.</p>
+
+<p>I found myself reasoning by analogy with Montgomery&#8217;s inversion trick.
+(If you want to compute both $x^{-1}$ and $y^{-1}$, then let $z = x y$,
+and compute $x^{-1} = y z^{-1}$ and similarly for $y$.)  If I can find a
+square root $w&#8217;$ of $v = 1/x y$, then $w = x w&#8217;$ will be a square root
+of $x/y$.  This replaces the problem of <em>division</em> with the problem of
+<em>inversion</em>.  At this point, it&#8217;s sort of easy.  I&#8217;ll go back to the
+Ed25519 field, and leave the Goldilocks version as an exercise.  (Or you
+can cheat and peek at the Catacomb source code.  RFC8032 is no help: it
+gives an unnecessarily complicated version, similar to the Ed25519
+formula above.)</p>
+
+<p>I&#8217;ll assume $v$ has order $(p - 1)/2$, so to invert I need to raise to
+the power $(p - 3)/2$ to find $1/v$.  Then I raise to the power
+$(p + 3)/8$ to find the maybe-square-root of $1/v$ which might be off by
+a factor of $i$.  But if I do these one after the other, then I can
+just multiply them modulo $(p - 1)/2$.  That&#8217;s going to be a nuisance
+because of the divisions.  But wait!  These are all whole numbers.  How
+do I know this?  Because $p \equiv 5 \pmod{8}$.  So let&#8217;s actually write
+$p = 8 t + 5$.  Then the group of quadratic residues has order $4 t + 2$.
+To invert, I raise to the power $4 t + 1$; and to find the
+maybe-square-root, I raise to the power $t + 1$.  Altogether, then, I
+want $m = (4 t + 1) (t + 1) = 4 t^2 + 5 t + 1 = t (4 t + 2) + 3 t + 1
+\equiv 3 t + 1 = 3 (p - 5)/8 + 1 \pmod{4 t + 2}$.  And I&#8217;m done.</p>
+
+<p>[<strong>Edited 2017-09-20:</strong> Fix a typo in the description of Montgomery&#8217;s
+inversion trick.]</p>
+
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-22" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://vox.distorted.org.uk/mdw/2014/05/ipv6-linux-and-mtu-fun.html" rel="bookmark">IPv6, Linux, and MTU fun</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author"><a class="fn url" href="https://www.distorted.org.uk/~mdw/">Mark Wooding</a></span> on <abbr class="published" title="2014-05-06T22:14:06+00:00">May  6, 2014 10:14 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="https://vox.distorted.org.uk/mdw/2014/05/ipv6-linux-and-mtu-fun.html#comments">No Comments</a>
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>I think the breakage is more or less over, so it&#8217;s time to (a) enjoy
+the results, and (b) write up the war stories.  I&#8217;m now running a
+mostly-IPv6 network.</p>
+
+<p>Actually, the network was mostly-IPv6 to begin with.  The main
+missing piece was DNS: I wasn&#8217;t advertising AAAA records for my
+hosts, even though they nearly all actually had IPv6 addresses.
+Getting things to actually <em>use</em> IPv6, then, mostly involved hacking
+on my
+<a href="http://git.distorted.org.uk/~mdw/zone/">unncesssarily complicated zone file generator</a>
+(written in Common Lisp, natch).</p>
+
+<p>At this point, everything went wrong.  It turns out that if I breathe
+wrong, then Linux loses the routing table entries for its own local
+interface addresses.  It turns out that I&#8217;d breathed wrong quite a lot
+before pulling the big DNS switch.  I still don&#8217;t know what causes this;
+my current theory is that it&#8217;s <a href="http://bird.network.cz/">BIRD</a>, but I
+don&#8217;t have any convincing evidence (and I know that the obvious
+alternative &#8212; <a href="http://www.nongnu.org/quagga/">Quagga</a> &#8212; is hopeless in
+my environment.  I just have a cron job which checks that the interface
+routes haven&#8217;t vanished.</p>
+
+<p>Then I found out that SSH connections from my laptop <strong>crybaby</strong> to a
+colocated (virtual) server <strong>stratocaster</strong> were wedging in a not-quite
+MTU-blackhole way when the server had a lot of stuff to say.
+Specifically, the first few large segments would get through, and then
+they&#8217;d dry up.  (MTU problems on IPv6 are especially nasty, because IPv6
+routers don&#8217;t fragment packets &#8212; only the sender is allowed to do
+that.)</p>
+
+<p>The MTU bottleneck is the VPN hop between the colocated server (the
+endpoint is on <strong>precision</strong>) and the house (on <strong>radius</strong>).  Capturing
+packets showed that I was right: <strong>stratocaster</strong> was sending a TCP
+segment that was too large, and being told this by <strong>precision</strong>.  So
+<strong>stratocaster</strong> sent the data again, in two pieces &#8212; and then sent the
+next segment full size.  After a while, <strong>precision</strong> gave up sending
+packet-too-big ICMP messages (some rate-limiting thing, presumably), and
+<strong>stratocaster</strong> continued throwing large TCP segments into the void,
+having forgotten the path MTU, and the connection jammed up.</p>
+
+<p>I&#8217;ve never trusted the standard wireless security stuff since the old
+WEP disaster, so even when I&#8217;m at home, traffic between <strong>crybaby</strong> and
+the home servers goes over the VPN.  To make all of this work
+efficiently, mobile devices like <strong>crybaby</strong> use a simple heuristic to
+decide which static VPN endpoint is likely to be best to associate with
+(<strong>radius</strong> in the house, otherwise <strong>precision</strong>), and that endpoint
+advertises a host route for the mobile device through my dynamic routing
+machinery.</p>
+
+<p>Unfortunately, Linux has a bug, and won&#8217;t attach path MTU information to
+host routes!  Simple solution: since IPv6 address space is cheap,
+allocate a little network to each mobile device.  Rather than
+2001:ba8:1d9:6000::{1,2,3}, we&#8217;ll use 2001:ba8:1d9:6000::{1,2,3}:0/112.</p>
+
+<p>Yes, I realise that allocating &#8230;:0 to the mobile device was brave.
+Too brave: it didn&#8217;t work.  In particular, now connections wedged in the
+other direction.  I checked: this time nobody was actually sending
+packet-too-big messages.  Eventually, I noticed that <strong>radius</strong>&#8217;s kernel
+was logging plaintive &#8212; if gnomic &#8212; messages of the form</p>
+
+<pre><code>2014-04-19T14:05:29+01:00 radius kernel: [363728.436583] icmpv6_send: acast source
+</code></pre>
+
+<p>Tracking down this message didn&#8217;t take too long.  Apparently, it means
+that the sender (to whom we&#8217;d be sending an ICMPv6 error) has been
+identified as an anycast address &#8212; and for some reason we shouldn&#8217;t
+actually send it at all.  It&#8217;s true that &#8230;:0/112 is defined to be the
+any-router anycast address, and <strong>radius</strong> could see that it was indeed
+a /112 network, so I can&#8217;t argue with that; but I think refusing to send
+ICMP back to an anycast address is rather poor.</p>
+
+<p>Anyway, another renumbering ensued, and now the mobile devices (and my
+actual IPv6 anycast services) are on &#8230;:1/112.  And IPv6 works.</p>
+
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <div id="entry-20" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="https://vox.distorted.org.uk/mdw/2013/02/ocsp-stapling-and-other-stupid.html" rel="bookmark">OCSP stapling, and other stupid ideas</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author"><a class="fn url" href="https://www.distorted.org.uk/~mdw/">Mark Wooding</a></span> on <abbr class="published" title="2013-02-18T20:29:45+00:00">February 18, 2013  8:29 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="https://vox.distorted.org.uk/mdw/2013/02/ocsp-stapling-and-other-stupid.html#comments">No Comments</a>
+            
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>SSL and TLS are broken in many exciting ways.  I&#8217;m just going to focus
+on one of these: revocation.</p>
+
+<p>Certificate authorities (&#8216;CAs&#8217;) tend to issue certificates with fairly
+long validity periods &#8212; a year is common.  What do they do if they find
+that a certificate is bad before the year is up?</p>
+
+        </div>
+
+
+
+        <div class="asset-more-link">
+            Continue reading <a href="https://vox.distorted.org.uk/mdw/2013/02/ocsp-stapling-and-other-stupid.html#more" rel="bookmark">OCSP stapling, and other stupid ideas</a>.
+        </div>
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+
+
+                            <div class="content-nav">
+                                <a href="https://vox.distorted.org.uk/mdw/archives.html">Archives</a>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+
+                    <div id="beta">
+    <div id="beta-inner">
+
+
+    
+    <div class="widget-search widget">
+    <h3 class="widget-header">Search</h3>
+    <div class="widget-content">
+        <form method="get" action="https://vox.distorted.org.uk/mt/mt-search.cgi">
+            <input type="text" id="search" class="ti" name="search" value="" />
+
+            <input type="hidden" name="IncludeBlogs" value="1" />
+
+            <input type="hidden" name="limit" value="20" />
+            <input type="submit" accesskey="4" value="Search" />
+        </form>
+    </div>
+</div>
+
+<div class="widget-about-this-page widget">
+    <h3 class="widget-header">
+
+    
+
+
+    </h3>
+    <div class="widget-content">
+
+
+
+
+
+
+        <p>Find recent content on the <a href="https://vox.distorted.org.uk/mdw/">main index</a> or look in the <a href="https://vox.distorted.org.uk/mdw/archives.html">archives</a> to find all content.</p>
+
+    </div>
+</div>
+<div class="widget-recent-comments widget">
+    <h3 class="widget-header">Recent Comments</h3>
+    <div class="widget-content">
+        <ul>
+        
+            <li><strong>Elias Crespin:</strong> Excellent review. Thank you. I agree with your conclusion. I <a href="https://vox.distorted.org.uk/mdw/2023/06/imback-review.html#comment-2" title="full comment on: A review of I'm Back 35">read more</a></li>
+        
+        </ul>
+    </div>
+</div>
+        
+    
+
+
+    <div class="widget-recent-entries widget-archives widget">
+    <h3 class="widget-header">Recent Entries</h3>
+    <div class="widget-content">
+        <ul>
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2025/05/restricted-room-keys.html">Restricted room keys considered harmful</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2023/06/imback-review.html">A review of I'm Back 35</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2022/03/on-copying-dvds.html">On copying DVDs</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2021/02/finally.html">Finally!</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2018/08/fibonacci.html">How to really calculate Fibonacci numbers</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2018/05/sync-music-with-android.html">Synchronizing music with an Android device</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2017/05/one-pass-signed-recoding.html">One-pass fixed-window signed recoding and scalar multiplication</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2017/05/simpler-quosqrt.html">Simpler quotient/square-root calculations</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2014/05/ipv6-linux-and-mtu-fun.html">IPv6, Linux, and MTU fun</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2013/02/ocsp-stapling-and-other-stupid.html">OCSP stapling, and other stupid ideas</a></li>
+        
+        </ul>
+    </div>
+</div>
+        
+    
+
+
+    
+    <div class="widget-tag-cloud widget">
+    <h3 class="widget-header">Tag Cloud</h3>
+    <div class="widget-content">
+        <ul>
+
+            <li class="rank-1"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=unix&amp;limit=20';return false;" rel="tag">unix</a></li>
+
+
+
+            <li class="rank-4"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=debugging&amp;limit=20';return false;" rel="tag">debugging</a></li>
+
+
+
+            <li class="rank-4"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=lisp&amp;limit=20';return false;" rel="tag">lisp</a></li>
+
+
+
+            <li class="rank-5"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=c&amp;limit=20';return false;" rel="tag">c</a></li>
+
+
+
+            <li class="rank-5"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=python&amp;limit=20';return false;" rel="tag">python</a></li>
+
+
+
+            <li class="rank-7"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=ca&amp;limit=20';return false;" rel="tag">ca</a></li>
+
+
+
+            <li class="rank-7"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=gnome&amp;limit=20';return false;" rel="tag">gnome</a></li>
+
+
+
+            <li class="rank-7"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=network&amp;limit=20';return false;" rel="tag">network</a></li>
+
+
+
+            <li class="rank-7"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=perl&amp;limit=20';return false;" rel="tag">perl</a></li>
+
+
+
+            <li class="rank-7"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=robustness&amp;limit=20';return false;" rel="tag">robustness</a></li>
+
+
+
+            <li class="rank-7"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=shell&amp;limit=20';return false;" rel="tag">shell</a></li>
+
+
+
+            <li class="rank-7"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=ssl%2Ftls&amp;limit=20';return false;" rel="tag">ssl/tls</a></li>
+
+
+
+            <li class="rank-7"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=windows&amp;limit=20';return false;" rel="tag">windows</a></li>
+
+
+
+            <li class="rank-10"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=algorithms&amp;limit=20';return false;" rel="tag">algorithms</a></li>
+
+
+
+            <li class="rank-10"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=blather&amp;limit=20';return false;" rel="tag">blather</a></li>
+
+
+
+            <li class="rank-10"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=c%23&amp;limit=20';return false;" rel="tag">c#</a></li>
+
+
+
+            <li class="rank-10"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=c%2B%2B&amp;limit=20';return false;" rel="tag">c++</a></li>
+
+
+
+            <li class="rank-10"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=calling%20convention&amp;limit=20';return false;" rel="tag">calling convention</a></li>
+
+
+
+            <li class="rank-10"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=copy&amp;limit=20';return false;" rel="tag">copy</a></li>
+
+
+
+            <li class="rank-10"><a href="javascript:void(0)" onclick="location.href='https://vox.distorted.org.uk/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=disassembly&amp;limit=20';return false;" rel="tag">disassembly</a></li>
+
+        </ul>
+    </div>
+</div>
+
+
+
+
+<div class="widget-archive widget-archive-category widget">
+    <h3 class="widget-header">Categories</h3>
+    <div class="widget-content">
+    
+        
+        <ul>
+        
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/blather/">Blather (1)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/privacy/">Privacy (1)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/programming/">Programming (9)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/security/">Security (3)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/syshacking/">Syshacking (7)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/crypto/">Crypto (2)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li>Lockpicking
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/maths/">Maths (1)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li>Photo
+        
+        
+            </li>
+        
+    
+        
+        
+            <li>Review
+        
+        
+            </li>
+        
+        </ul>
+        
+    
+    </div>
+</div>
+
+
+
+
+    <div class="widget-archive-monthly widget-archive widget">
+    <h3 class="widget-header">Monthly <a href="https://vox.distorted.org.uk/mdw/archives.html">Archives</a></h3>
+    <div class="widget-content">
+        <ul>
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2025/05/">May 2025 (1)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2023/06/">June 2023 (1)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2022/03/">March 2022 (1)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2021/02/">February 2021 (1)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2018/08/">August 2018 (1)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2018/05/">May 2018 (1)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2017/05/">May 2017 (2)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2014/05/">May 2014 (1)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2013/02/">February 2013 (1)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2012/03/">March 2012 (3)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2011/12/">December 2011 (1)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2010/05/">May 2010 (1)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2010/04/">April 2010 (1)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2010/03/">March 2010 (3)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2009/10/">October 2009 (2)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2009/04/">April 2009 (3)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2008/12/">December 2008 (1)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2008/04/">April 2008 (1)</a></li>
+        
+    
+        
+            <li><a href="https://vox.distorted.org.uk/mdw/2008/03/">March 2008 (1)</a></li>
+        
+        </ul>
+    </div>
+</div>
+        
+    
+
+
+
+<div class="widget-pages widget">
+    <h3 class="widget-header">Pages</h3>
+    <div class="widget-content">
+        <ul>
+    
+    
+        </ul>
+    </div>
+</div>
+
+<div class="widget-syndication widget">
+    <div class="widget-content">
+        <ul>
+            <li><img src="https://vox.distorted.org.uk/mt/static/images/status_icons/feed.gif" alt="Subscribe to feed" width="9" height="9" /> <a href="https://vox.distorted.org.uk/mdw/atom.xml">Subscribe to this blog's feed</a></li>
+
+        </ul>
+    </div>
+</div>
+<div class="widget-openid widget">
+    <div class="widget-content">
+        <em><strong>OpenID</strong> accepted here</em>
+        <a href="http://www.sixapart.com/labs/openid/">Learn more about OpenID</a>
+    </div>
+</div>
+
+<div class="widget-powered widget">
+    <div class="widget-content">
+        <a href="http://www.movabletype.com/"><img src="https://vox.distorted.org.uk/mt/static/images/bug-pbmt-white.png" alt="Powered by Movable Type 5.2.13" width="120" height="75" /></a>
+    </div>
+</div>
+
+
+
+    </div>
+</div>
+
+
+
+
+
+
+                </div>
+            </div>
+
+
+            <div id="footer">
+    <div id="footer-inner">
+        <div id="footer-content">
+            <div class="widget-powered widget">
+                <div class="widget-content">
+                    Powered by <a href="http://www.movabletype.com/" rel="generator">Movable Type</a>
+                </div>
+            </div>
+
+            <div class="widget-creative-commons widget">
+                <div class="widget-content">
+                    This blog is licensed under a <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/">Creative Commons License</a>.
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+        </div>
+    </div>
+</body>
+</html>
+<div style="display: none;">
+<p><a href="https://jasabacklinks.org/">jasa Backlinks</a></p>
+<p><a href="https://xynebot.com/">XyneBot</a></p>
+<p><a href="https://backlinkku.id/">Backlink Ku id</a></p>
+<p><a href="https://www.shellbypass.com/">ShellBypass Download</a></p>
+</div>
