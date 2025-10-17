@@ -132,11 +132,11 @@
 <div class="top_news">
 <p class="tnew_ttl">新着情報<span>News</span></p>
 <dl>
+<dt><p>2025.10.10</p><p><a href="https://www.nabee.info/news/2025/10/post-47.html">うんな祭りに伴うビーチ利用禁止のお知らせ</a></p></dt><dd><p>ナビービーチをご利用頂き誠にありがとうございます。 2025年10月11日（土）、12日（日）はうん・・・</p></dd>
+</dl><dl>
 <dt><p>2025.8.15</p><p><a href="https://www.nabee.info/news/2025/08/music.html">サステナビーMUSICフェス♪</a></p></dt><dd><p>いつもナビービーチをご利用頂きありがとうございます。 8月16日（土）はサステナビーMUSICフェス・・・</p></dd>
 </dl><dl>
 <dt><p>2025.7.30</p><p><a href="https://www.nabee.info/news/2025/07/10.html">津波警報発令中（10時現在）</a></p></dt><dd><p>現在、津波警報発令中のため、ビーチ利用禁止となります。 くれぐれも海には近づかないよう、ご理解と協力・・・</p></dd>
-</dl><dl>
-<dt><p>2025.7.24</p><p><a href="https://www.nabee.info/news/2025/07/post-46.html">遊泳禁止のお知らせ【2025年7月24日】</a></p></dt><dd><p>日頃より恩納村海浜公園ナビービーチをご愛顧頂き誠にありがとうございます。 台風の接近の伴い、波が非常・・・</p></dd>
 </dl>
 <p class="tne_but"><a href="https://www.nabee.info/news/">新着情報を一覧で見る</a></p>
 </div>
