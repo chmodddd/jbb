@@ -79,7 +79,7 @@
 </div>
 
 <section>
-<p><img class="cover" src="/pic/cover16.jpg" width="550" height="359" alt="トップページカバー写真 晩夏バージョン"></p>
+<p><img class="cover" src="/pic/cover6.jpg" width="600" height="369" alt="トップページカバー写真 秋バージョン"></p>
 <table class="welcomebox">
 <tbody>
 <tr>
